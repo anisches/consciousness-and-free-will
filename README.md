@@ -20,6 +20,7 @@ The project starts from primitives: the historical questions, the major position
 - [notes/history-of-the-problem.md](notes/history-of-the-problem.md) - primitive historical timeline
 - [notes/free-will-taxonomy.md](notes/free-will-taxonomy.md) - positions in the free-will debate
 - [notes/consciousness-taxonomy.md](notes/consciousness-taxonomy.md) - major consciousness theories
+- [notes/neo.md](notes/neo.md) - compressed working metaphor for distributed agency and subordinate evaluators
 - [thought-experiments/index.md](thought-experiments/index.md) - thought experiments and what each tests
 - [neuro/index.md](neuro/index.md) - neuroscience and agency references
 - [daily/2026-05-28.md](daily/2026-05-28.md) - day-zero setup notes
