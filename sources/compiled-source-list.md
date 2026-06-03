@@ -41,36 +41,44 @@ This is a compact index of the larger source cards in [cold-run.md](cold-run.md)
 29. Gazzaniga, "Forty-Five Years of Split-Brain Research and Still Going Strong"
 30. Frith, Blakemore, and Wolpert, "Abnormalities in the Awareness and Control of Action"
 31. Biran and Chatterjee, "Alien Hand Syndrome"
+32. Murakami, Vicente, Costa, and Mainen, "Neural Antecedents of Self-Initiated Actions in Secondary Motor Cortex"
+33. Shadlen and Newsome, "Neural Basis of a Perceptual Decision in the Parietal Cortex (Area LIP) of the Rhesus Monkey"
+34. Adams and Dickinson, "Instrumental Responding Following Reinforcer Devaluation"
+35. Balleine and Dickinson, "Goal-Directed Instrumental Action"
+36. Johnson and Redish, "Neural Ensembles in CA3 Transiently Encode Paths Forward of the Animal at a Decision Point"
+37. Redish, "Vicarious Trial and Error as a Fundamental Neural Mechanism of Deliberation and Decision-Making"
+38. Tai, Lee, Benavidez, Bonci, and Wilbrecht, "Transient Stimulation of Distinct Subpopulations of Striatal Neurons Mimics Changes in Action Value"
+39. Kravitz et al., "Regulation of Parkinsonian Motor Behaviours by Optogenetic Control of Basal Ganglia Circuitry"
 
 ## 4. Public Essays, Blogs, and Encyclopedic Starts
 
-32. SEP, "Consciousness": https://plato.stanford.edu/entries/consciousness/
-33. SEP, "Free Will": https://plato.stanford.edu/entries/freewill/
-34. SEP, "Compatibilism": https://plato.stanford.edu/entries/compatibilism/
-35. SEP, "Moral Responsibility": https://plato.stanford.edu/entries/moral-responsibility/
-36. SEP, "Higher-Order Theories of Consciousness": https://plato.stanford.edu/entries/consciousness-higher/
-37. IEP, "Free Will": https://iep.utm.edu/freewill/
-38. IEP, "The Hard Problem of Consciousness": https://iep.utm.edu/hard-problem-of-conciousness/
-39. The Brains Blog, consciousness archive: https://philosophyofbrains.com/category/consciousness
-40. The Brains Blog, free will archive: https://philosophyofbrains.com/category/free-will
-41. Chalmers, online papers and resources: https://consc.net/
+40. SEP, "Consciousness": https://plato.stanford.edu/entries/consciousness/
+41. SEP, "Free Will": https://plato.stanford.edu/entries/freewill/
+42. SEP, "Compatibilism": https://plato.stanford.edu/entries/compatibilism/
+43. SEP, "Moral Responsibility": https://plato.stanford.edu/entries/moral-responsibility/
+44. SEP, "Higher-Order Theories of Consciousness": https://plato.stanford.edu/entries/consciousness-higher/
+45. IEP, "Free Will": https://iep.utm.edu/freewill/
+46. IEP, "The Hard Problem of Consciousness": https://iep.utm.edu/hard-problem-of-conciousness/
+47. The Brains Blog, consciousness archive: https://philosophyofbrains.com/category/consciousness
+48. The Brains Blog, free will archive: https://philosophyofbrains.com/category/free-will
+49. Chalmers, online papers and resources: https://consc.net/
 
 ## Additional Thought Experiments and Boundary Cases
 
-42. Mary the Color Scientist
-43. Philosophical Zombies
-44. Chinese Room
-45. Frankfurt Cases
-46. Manipulation Cases
-47. Split Brain
+50. Mary the Color Scientist
+51. Philosophical Zombies
+52. Chinese Room
+53. Frankfurt Cases
+54. Manipulation Cases
+55. Split Brain
 
 ## Classification Summary
 
-This compilation includes 47 entries organized across the main categories:
+This compilation includes 55 entries organized across the main categories:
 - Historical/Philosophical Primitives (9 sources)
 - Consciousness Theories (12 sources)
-- Neuroscience of Agency and Volition (11 sources)
-- Public Essays/Blogs/Encyclopedic Starts (11 sources)
-- Thought Experiments (7 sources)
+- Neuroscience of Agency and Volition (18 sources)
+- Public Essays/Blogs/Encyclopedic Starts (10 sources)
+- Thought Experiments (6 sources)
 
 All sources are selected to provide comprehensive coverage of the core topics in consciousness and free will research, following the project's classification rules and principles.

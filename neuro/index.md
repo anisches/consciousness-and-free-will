@@ -12,6 +12,12 @@ This folder tracks neuroscience that bears on agency, volition, action awareness
 
 ## Source Clusters
 
+### Animal Experiments Relevant to Agency
+
+- [Animal experiments relevant to agency](animal-agency-experiments.md)
+
+Use this cluster for non-human evidence about self-initiated action timing, evidence accumulation, goal-directed versus habitual action, deliberation, and causal circuit manipulation. Keep the claim narrow: animal experiments explain mechanisms beneath agency; they do not settle metaphysical free will by themselves.
+
 ### Readiness Potential
 
 - Libet et al., 1983: https://doi.org/10.1093/brain/106.3.623
