@@ -6,10 +6,10 @@ Keywords: consciousness, free will, agency, volition, philosophy of mind, neuros
 
 ## Paper Categories
 
-🔥: Core papers
-📖: Review / survey papers
-🧪: Empirical papers
-🐁: Animal experiments
+- [Core]: Core papers
+- [Review]: Review / survey papers
+- [Empirical]: Empirical papers
+- [Animal]: Animal experiments
 
 - **Consciousness**
   - [Subjective Experience](papers/consciousness.md#subjective-experience)
