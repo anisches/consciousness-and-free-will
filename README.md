@@ -1,6 +1,8 @@
 # Consciousness and Free Will Papers
 
-This repository curates papers on consciousness, free will, agency, volition, and the neuroscience of action.
+A curated research bibliography on consciousness, free will, agency, volition, and the neuroscience of action. The collection tracks philosophy of mind papers, cognitive neuroscience studies, readiness-potential research, sense-of-agency work, split-brain evidence, animal decision-making experiments, and empirical papers relevant to moral responsibility and human choice.
+
+Keywords: consciousness, free will, agency, volition, philosophy of mind, neuroscience of action, readiness potential, Libet experiment, sense of agency, intentional binding, split brain, animal cognition, decision making, moral responsibility.
 
 ## Paper Categories
 
