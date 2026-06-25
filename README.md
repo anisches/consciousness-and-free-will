@@ -28,6 +28,18 @@ Keywords: consciousness, free will, agency, volition, philosophy of mind, neuros
   - [Split Brain and Unity](papers/agency.md#split-brain-and-unity)
   - [Disorders of Volition](papers/agency.md#disorders-of-volition)
 - **Animal Agency Experiments**
+- **Mathematical Determinism**
+  - [Chaos and Illusion](math/README.md#chaos-theory-and-the-illusion-of-agency)
+  - [Gödel and the Mind](math/README.md#gödels-incompleteness-theorems-and-the-mind)
+- **Algorithmic Free Will**
+  - [The Veto Power](algo/README.md#the-guardrails-of-thought)
+  - [Sandboxed Reality](algo/README.md#sandboxed-reality)
+- **Topology and Geometry**
+  - [Non-Euclidean Consciousness](topology/README.md#non-euclidian-consciousness)
+  - [Neural Manifolds](topology/README.md#linear-algebra-of-subjective-experience)
+- **Quantum and Time**
+  - [Wave Function Collapse](physics/README.md#wave-function-collapse)
+  - [The Block Universe](physics/README.md#the-block-universe)
   - [Self-Initiated Action](papers/animal-agency.md#self-initiated-action)
   - [Evidence Accumulation](papers/animal-agency.md#evidence-accumulation)
   - [Goal-Directed Action and Habit](papers/animal-agency.md#goal-directed-action-and-habit)
