@@ -13,3 +13,7 @@
 ### Accumulator Models
 
 * [Core] [2012] **"An Accumulator Model for Spontaneous Neural Activity Prior to Self-Initiated Movement"** [[paper](https://doi.org/10.1073/pnas.1210467109)]
+
+### Hard Determinism (2023 Update)
+
+* [Core] [Theoretical] [2023] **"Determined: A Science of Life Without Free Will"** [[summary](raw/2026-06-25-sapolsky-free-will-summary.md)]
