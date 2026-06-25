@@ -17,3 +17,7 @@
 ### Hard Determinism (2023 Update)
 
 * [Core] [Theoretical] [2023] **"Determined: A Science of Life Without Free Will"** [[summary](raw/2026-06-25-sapolsky-free-will-summary.md)]
+
+### Emergent Agency (2023 Update)
+
+* [Core] [Theoretical] [2023] **"Free Agents: How Evolution Gave Us Free Will"** [[summary](raw/2026-06-25-kevin-mitchell-free-agents-summary.md)]
