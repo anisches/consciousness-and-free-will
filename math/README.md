@@ -15,3 +15,6 @@ This category explores the formal boundaries between universal equations and the
 *If every human action can be mapped on a bell curve, does the individual ever truly deviate from the statistical mean?*
 
 * [Core] [Theoretical] [1989] **'The Emperor's New Mind' (Penrose)** [[summary](../raw/2026-06-25-godel-incompleteness-lucas-penrose.md)]
+
+### History and Foundations
+* [Review] **'History of the Problem'** [[summary](../raw/history-of-the-problem.md)]

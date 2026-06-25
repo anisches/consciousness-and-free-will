@@ -10,3 +10,6 @@ Computational frameworks for the mind as an engine of logic and loops.
 
 ### Infinite Loops and Rumination
 *Mathematical similarities between program loops and anxiety/obsessive thought patterns.*
+
+### Models of Agency
+* [Theoretical] **'Neo: Distributed Agency Metaphor'** [[summary](../raw/neo-metaphor.md)]

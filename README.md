@@ -1,47 +1,26 @@
-# Consciousness and Free Will Papers
+# Consciousness and Free Will Knowledge Brain
 
-A curated research bibliography on consciousness, free will, agency, volition, and the neuroscience of action. The collection tracks philosophy of mind papers, cognitive neuroscience studies, readiness-potential research, sense-of-agency work, split-brain evidence, animal decision-making experiments, and empirical papers relevant to moral responsibility and human choice.
+A curated research repository and Zettelkasten slip-box on the nature of mind, choice, and agency.
 
-Keywords: consciousness, free will, agency, volition, philosophy of mind, neuroscience of action, readiness potential, Libet experiment, sense of agency, intentional binding, split brain, animal cognition, decision making, moral responsibility.
+## Knowledge Domains
 
-## Paper Categories
+### [Mathematical Determinism](math/README.md)
+*Is the universe a giant equation? Gödel, Chaos, and Probability.*
 
-- [Core]: Core papers
-- [Review]: Review / survey papers
-- [Empirical]: Empirical papers
-- [Animal]: Animal experiments
+### [Algorithmic Free Will](algo/README.md)
+*Mind as a computational engine. Veto loops, sandboxes, and infinite ruminations.*
 
-- **Consciousness**
-  - [Subjective Experience](papers/consciousness.md#subjective-experience)
-  - [Hard Problem and Qualia](papers/consciousness.md#hard-problem-and-qualia)
-  - [Access and Reportability](papers/consciousness.md#access-and-reportability)
-  - [Global Workspace](papers/consciousness.md#global-workspace)
-  - [Integrated Information Theory](papers/consciousness.md#integrated-information-theory)
-  - [Higher-Order and Recurrent Processing](papers/consciousness.md#higher-order-and-recurrent-processing)
-- **Free Will**
-  - [Readiness Potential](papers/free-will.md#readiness-potential)
-  - [Predictive Decoding](papers/free-will.md#predictive-decoding)
-  - [Accumulator Models](papers/free-will.md#accumulator-models)
-- **Agency and Volition**
-  - [Sense of Agency](papers/agency.md#sense-of-agency)
-  - [Apparent Mental Causation](papers/agency.md#apparent-mental-causation)
-  - [Split Brain and Unity](papers/agency.md#split-brain-and-unity)
-  - [Disorders of Volition](papers/agency.md#disorders-of-volition)
-- **Animal Agency Experiments**
-- **Mathematical Determinism**
-  - [Chaos and Illusion](math/README.md#chaos-theory-and-the-illusion-of-agency)
-  - [Gödel and the Mind](math/README.md#gödels-incompleteness-theorems-and-the-mind)
-- **Algorithmic Free Will**
-  - [The Veto Power](algo/README.md#the-guardrails-of-thought)
-  - [Sandboxed Reality](algo/README.md#sandboxed-reality)
-- **Topology and Geometry**
-  - [Non-Euclidean Consciousness](topology/README.md#non-euclidian-consciousness)
-  - [Neural Manifolds](topology/README.md#linear-algebra-of-subjective-experience)
-- **Quantum and Time**
-  - [Wave Function Collapse](physics/README.md#wave-function-collapse)
-  - [The Block Universe](physics/README.md#the-block-universe)
-  - [Self-Initiated Action](papers/animal-agency.md#self-initiated-action)
-  - [Evidence Accumulation](papers/animal-agency.md#evidence-accumulation)
-  - [Goal-Directed Action and Habit](papers/animal-agency.md#goal-directed-action-and-habit)
-  - [Deliberation and Future Simulation](papers/animal-agency.md#deliberation-and-future-simulation)
-  - [Causal Circuit Manipulation](papers/animal-agency.md#causal-circuit-manipulation)
+### [Topology & Geometry of Experience](topology/README.md)
+*Mapping qualia onto non-Euclidean spaces and neural manifolds.*
+
+### [Quantum Mechanics & Time](physics/README.md)
+*Wave function collapse, the block universe, and the experience of flow.*
+
+### [Biological Agency](biology/README.md)
+*Evidence from neurobiology and animal experiments.*
+
+## Historical & Theoretical Context
+- [History of the Problem](raw/history-of-the-problem.md)
+- [Distributed Agency (Neo Metaphor)](raw/neo-metaphor.md)
+- [Robert Sapolsky (Hard Determinism)](raw/2026-06-25-sapolsky-free-will-summary.md)
+- [Kevin Mitchell (Emergent Agency)](raw/2026-06-25-kevin-mitchell-free-agents-summary.md)
