@@ -1,0 +1,1007 @@
+(node:3714577) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/kanna/.hermes/skills/media/youtube-transcript/scripts/transcript.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/kanna/.hermes/skills/media/youtube-transcript/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[0:00] so let me say that this time there&#39;s
+[0:00] going to be some content as we
+[0:00] mathematicians say you know last time
+[0:00] was all chat very very stuff about what
+[0:00] different philosophers have thought but
+[0:00] this what I&#39;m aiming to do this lecture
+[0:00] is prove the koshish Becker
+[0:00] paradox theorem what that means is it&#39;s
+[0:00] a paradoxical theorem let me say it&#39;s
+[0:00] really quite old salmon tells me that
+[0:00] Ernst Becker who&#39;s from the 8th a how
+[0:00] they call this injury which is the place
+[0:00] where Einstein once once was came to
+[0:00] Cornell where Simon was in the years
+[0:00] 1963-64 and that&#39;s when they did it so
+[0:00] to speak and what did they do they
+[0:00] there&#39;s an operation called not
+[0:00] correctly called but then he were called
+[0:00] measuring the spin of a spin one
+[0:00] particle so that&#39;s not precise enough
+[0:00] it&#39;s called measuring the squirt
+[0:00] component of spin of a spin one particle
+[0:00] in a given direction I&#39;ll just call it
+[0:00] measuring the spin and what happens this
+[0:00] is a quantized quantity it can only take
+[0:00] the values nor someone you&#39;ll never get
+[0:00] another answer from it
+[0:00] and I don&#39;t know how you want to think
+[0:00] of the particle I think of as this sort
+[0:00] of enclosed in the little box and I
+[0:00] point along a given direction to it and
+[0:00] I say what&#39;s your spin in that direction
+[0:00] and it says one maybe or it says zero
+[0:00] how does this actually say it well it
+[0:00] says it by being exposed to an
+[0:00] electric field this is rather like for
+[0:00] those physicists have no at the
+[0:00] stern-gerlach experiment where you
+[0:00] expose your particle to a magnetic field
+[0:00] but there&#39;s a version that was done five
+[0:00] years later then stern-gerlach by a man
+[0:00] called Vader in 1926 which is the same
+[0:00] sort of thing with an electric field the
+[0:00] point is really the spin of a spin one
+[0:00] particle or rather the component of spin
+[0:00] and spin one particle in the given
+[0:00] direction is always 1 minus 1 or 0 and
+[0:00] we don&#39;t want that we want 1 or 0 we
+[0:00] identify the one and the minus 1 we can
+[0:00] do that by square is John Vincent&#39;s here
+[0:00] yes where is it anyway and toshin notice
+[0:00] these dysgraphic URIs property that the
+[0:00] squirt spin well first of all the squirt
+[0:00] spins in three perpendicular directions
+[0:00] commute that&#39;s a term that fits issues
+[0:00] which I&#39;m rather against using this
+[0:00] connection because the definition is it
+[0:00] uses a counterfactual conditional so let
+[0:00] me talk about counterfactual
+[0:00] conditionals so long we went to great
+[0:00] trouble to remove counterfactual
+[0:00] conditionals from our theory so what
+[0:00] does it mean well to say that two
+[0:00] measurements a and B commute means that
+[0:00] you can do them in either order and
+[0:00] you&#39;ll get the same answers so you know
+[0:00] you make measurement a and you make
+[0:00] measurement B make measurement a might
+[0:00] give you the answer alpha measurement B
+[0:00] might give you the answer beta and if
+[0:00] you made them in the other order they&#39;d
+[0:00] still give the same answers measurement
+[0:00] a would now be the second at the two two
+[0:00] people for however that doesn&#39;t mean
+[0:00] anything if I did them in the order a
+[0:00] and B
+[0:00] it&#39;s no good saying what I would have
+[0:00] done if I don&#39;t mean it what exid dances
+[0:00] would have been if I&#39;d done them in the
+[0:00] order B then a and that doesn&#39;t matter
+[0:00] in in cases when there&#39;s a
+[0:00] well-established theory if I want to
+[0:00] discuss what would happen if I throw a
+[0:00] ball up in the air as a speed of say 40
+[0:00] feet per second per second they don&#39;t
+[0:00] know whether that&#39;s at all reasonable no
+[0:00] not per second per second per second I
+[0:00] could say it would come down and hit the
+[0:00] floor precisely so many seconds later
+[0:00] and so on because I know Newton&#39;s law of
+[0:00] gravitation and the fact that the
+[0:00] gravitational constant of the earth is
+[0:00] something rather and soft but you know
+[0:00] it&#39;s it&#39;s only because I have a theory
+[0:00] that I know what would have happened if
+[0:00] I did something that I didn&#39;t in fact do
+[0:00] we&#39;re going to prove with the koshish
+[0:00] becker paradox that there isn&#39;t a theory
+[0:00] that explains what the result of this
+[0:00] so-called measuring the squirt space of
+[0:00] a spin one particle may give
+[0:00] interactionist
+[0:00] we&#39;re going to show that it just can&#39;t
+[0:00] be done so it it&#39;s it&#39;s a misnomer the
+[0:00] this thing doesn&#39;t exist for all
+[0:00] directions that&#39;s not the contents of
+[0:00] the Kosh inspector theory there&#39;s a much
+[0:00] more famous theorem known as bells
+[0:00] inequality which performs many of the
+[0:00] same functions as a koshish back a thing
+[0:00] it again shows you that something you
+[0:00] thought we were measuring didn&#39;t exist
+[0:00] before you measured it it&#39;s not good
+[0:00] enough to prove the theme well so least
+[0:00] I don&#39;t believe is it so we have to hell
+[0:00] have we gotta oh yes sir we have a small
+[0:00] problem with the laptop
+[0:00] [Music]
+[0:00] it&#39;s always happens
+[0:00] [Music]
+[0:00] it&#39;s anyway so what this is I&#39;ll
+[0:00] continue for a little bit
+[0:00] so the koshish Becker theorem
+[0:00] well yeah but I&#39;ll repeat what I said
+[0:00] last time about when I played 20
+[0:00] questions with my sister&#39;s okay because
+[0:00] it&#39;s highly relevant here as I think I
+[0:00] told you if my sister&#39;s if I sense that
+[0:00] my sister&#39;s were getting too close to
+[0:00] the object that selected I would change
+[0:00] the object and you had to be quite
+[0:00] clever to do that
+[0:00] I wasn&#39;t always clever enough to deceive
+[0:00] my sisters who were 5 and 10 years old I
+[0:00] was but if you&#39;re sort of really very
+[0:00] precise you know you couldn&#39;t you can
+[0:00] manage to change your object well the
+[0:00] particle the spin one possible time
+[0:00] talking about is really very clever it
+[0:00] doesn&#39;t have an object in view
+[0:00] so imagine playing 20 questions well you
+[0:00] just say you know yes now for some time
+[0:00] and then only after some considerable
+[0:00] number of questions cube did you give
+[0:00] any thought to what the object is
+[0:00] you know what object you select you
+[0:00] selected after some of the questions it
+[0:00] turns out that that&#39;s what the particles
+[0:00] are doing if we pass any hope oh yes
+[0:00] okay this is where I wanted to start by
+[0:00] the way Simon where was this taken in
+[0:00] Switzerland oh yeah in Switzerland yes
+[0:00] so salmon co shoot looking a bit younger
+[0:00] than he does now but not too much where
+[0:00] is on the left and speaker his partner
+[0:00] in me in the Cochise Becker theorem is
+[0:00] on the light and Adrian&#39;s Becker is the
+[0:00] little boy in the middle who&#39;s now quite
+[0:00] a mature man anyway
+[0:00] so that was taken in the 1960s I
+[0:00] appreciate okay let me continue what
+[0:00] have I got to do now oh wait a month
+[0:00] I&#39;ve got to help our power I&#39;ve got to
+[0:00] get to the point where Arthur okay thank
+[0:00] you this is John Vincent by the way we
+[0:00] have spent a tremendous amount of time
+[0:00] preparing the slide say at this at these
+[0:00] lasers lights yeah okay now let me go to
+[0:00] the next slide okay so there is what we
+[0:00] now call the spin action this is Simon&#39;s
+[0:00] observation that if you measure I&#39;m just
+[0:00] going to say measurement the spin of a
+[0:00] spin one particle but officially you
+[0:00] should stick these extra words in in
+[0:00] three perpendicular directions you
+[0:00] always get the answers one zero one in
+[0:00] some order sometimes we call that the
+[0:00] spin axiom sometimes we call it the 101
+[0:00] property okay let me move on
+[0:00] okay now that ocean Specter paradox this
+[0:00] requires a bit of definition I&#39;ll give
+[0:00] the definition later but now let&#39;s take
+[0:00] this figure this figure shows four cubes
+[0:00] it&#39;s a white one the white one is is the
+[0:00] only one we&#39;ll keep really then there&#39;s
+[0:00] red green and blue and can you see that
+[0:00] the red green and blue cubes have got by
+[0:00] rotating the white one about the three
+[0:00] coordinate directions if you understand
+[0:00] me through 45 degrees so this makes a
+[0:00] rather nice figure now the black dots
+[0:00] here indicate certain directions and
+[0:00] what those directions are the symmetry
+[0:00] axis of the colored cubes I&#39;m not going
+[0:00] to call wife
+[0:00] that the the symmetry axes of the
+[0:00] colored cubes so a cube has rotational
+[0:00] symmetries about various lines so let&#39;s
+[0:00] say let me move our pick and we see that
+[0:00] there is it visible yes so here is a
+[0:00] vertex of that cube now if you join that
+[0:00] vertex to the opposite vertex which you
+[0:00] can&#39;t see you get an axis of symmetry of
+[0:00] the red cube if you rotate the cube to
+[0:00] 1/3 of revolution that&#39;s the symmetry if
+[0:00] if I take this now this is the middle
+[0:00] point of an edge of either the blue cube
+[0:00] or the green cube whichever you like and
+[0:00] it&#39;s a symmetry axis or rather again the
+[0:00] line joining it to the opposite middle
+[0:00] edge there&#39;s a symmetry axis of both red
+[0:00] they&#39;re both the green and the blue
+[0:00] cubes this time you rotate it through
+[0:00] half a revolution where is the other
+[0:00] thing this dot here is a symmetry axis
+[0:00] of the green cube our sorry it&#39;s the end
+[0:00] of an axis here I mean these dots are or
+[0:00] each of them is to be joined to the
+[0:00] antipodal dot the dot that&#39;s exactly
+[0:00] opposite and you get the symmetry axis
+[0:00] so altogether there are 33 lines like
+[0:00] this
+[0:00] 33 lines that go right through the
+[0:00] center of the cube and those are the
+[0:00] directions and the assertion is you
+[0:00] can&#39;t assign ones and zeros to these
+[0:00] directions in such a way that the 101
+[0:00] rule is satisfied I&#39;ve got to be a bit
+[0:00] more precise about that but that gives
+[0:00] you the idea let me proceed to the next
+[0:00] slide this is a picture by Moritz Asha
+[0:00] and here is a model at the top of the
+[0:00] tower here of the three cubes with this
+[0:00] MA
+[0:00] does not have the white cube that the
+[0:00] other ones were obtainable here is a
+[0:00] dual model of free octahedron I also
+[0:00] have that on my shirt which and it&#39;s on
+[0:00] the back of the shirt to more clearly
+[0:00] visible on the back this picture I&#39;m
+[0:00] rather fond of action I met him once for
+[0:00] 20 minutes and he was staying at the
+[0:00] house of Donald Lewis a mathematician in
+[0:00] Ann Arbor and but then later on I
+[0:00] learned a lot more about him from his
+[0:00] son George Escher there was a conference
+[0:00] in Halifax Nova Scotia I think it was
+[0:00] where George Sr near where George Sr
+[0:00] lives and it was attended by a lot of
+[0:00] people interested in their show and one
+[0:00] of the interesting things I learned is
+[0:00] that these funny plants here are
+[0:00] actually some microscopic fungi or
+[0:00] whatever it is and one of the people at
+[0:00] the lecture was saying you know I&#39;m a
+[0:00] mycologist
+[0:00] I teach my students to look at these
+[0:00] things here because you&#39;ll see here&#39;s a
+[0:00] raptor meteor something something else
+[0:00] you know and so anyway that&#39;s that now
+[0:00] I&#39;m going to move to the whoops I&#39;m
+[0:00] going to move to the next slide if I can
+[0:00] get it right
+[0:00] okay now this 101 property is a little
+[0:00] bit sort of inconvenient to use as it
+[0:00] stands it&#39;s more convenient to split it
+[0:00] into these free things so so let&#39;s say
+[0:00] suppose I&#39;ve got three perpendicular so
+[0:00] remember what it says I&#39;ve got three
+[0:00] perpendicular directions they always
+[0:00] give the answers 101 in some order in
+[0:00] other words one of them gives us zero
+[0:00] two of them give once well you see you
+[0:00] know I had a teacher who every now and
+[0:00] then held these hands up like that to
+[0:00] tell us what the right-hand rule
+[0:00] so this is the left hand rule I suppose
+[0:00] now this is X this is y this is Z say
+[0:00] minus X is perpendicular to Y and see if
+[0:00] axis okay and if just two of x y and z
+[0:00] are ones and the estus is zero
+[0:00] and just two of minus XY and z are ones
+[0:00] then minus x and the others zero that
+[0:00] minus x must give the same answer as x
+[0:00] it can&#39;t change the total number of ones
+[0:00] to replace X by minus X so opposite
+[0:00] directions counts as the same for this
+[0:00] point of view they give one and the same
+[0:00] answer and then so I call that rule one
+[0:00] because it has the word one in its
+[0:00] description rule two two perpendicular
+[0:00] directions cannot both be zero because
+[0:00] if the word take the third perpendicular
+[0:00] direction to those given any two
+[0:00] perpendicular directions as a third one
+[0:00] they&#39;ve got to be two one zero zero and
+[0:00] they won&#39;t if two of them already zero
+[0:00] so two perpendicular directions cannot
+[0:00] both be zero and then again three
+[0:00] perpendicular directions cannot all be
+[0:00] one so that&#39;s these rules two and three
+[0:00] I think we&#39;ll take rule one for granted
+[0:00] it means you know opposite directions
+[0:00] canvass the same but rules too and fear
+[0:00] the way will actually use it
+[0:00] next slide right here is our cube marked
+[0:00] well marked with these red circles and
+[0:00] red lines and squares and so on that&#39;s
+[0:00] not terribly clear to you let&#39;s see if I
+[0:00] can rotate this yes I can rotate it okay
+[0:01] now whenever I show you this cube later
+[0:01] on it will have some black and white
+[0:01] spots on it
+[0:01] okay and in accordance with rule one if
+[0:01] anything is marked with a black spots
+[0:01] say the exactly opposite point will also
+[0:01] be marked with a black spot okay well
+[0:01] now let&#39;s say let&#39;s ask what these three
+[0:01] directions these are the coordinate
+[0:01] directions of the cube okay this the
+[0:01] lines to the Centers of the faces let&#39;s
+[0:01] ask what colors they are well King we
+[0:01] are two of them are black
+[0:01] oh yes black means one of whitening see
+[0:01] two of them not that black and one is
+[0:01] white I hope that shows up well can you
+[0:01] see the white spot in particular good
+[0:01] of course without loss of generality it
+[0:01] might as well be the way I&#39;ve drawn us I
+[0:01] mean if if if you had it like that you
+[0:01] know I could converse it one with my
+[0:01] deck inverted by rotation into the one
+[0:01] I&#39;ve got here so we might as well start
+[0:01] our coloring like that well that what
+[0:01] I&#39;m going to show you is that there
+[0:01] isn&#39;t a way of attaching to these thirty
+[0:01] three directions blacks and whites in
+[0:01] accordance with the 101 okay by the way
+[0:01] doesn&#39;t really matter if you don&#39;t
+[0:01] follow this argument you really doesn&#39;t
+[0:01] as long as you sort of understand
+[0:01] vaguely the way it goes okay it goes
+[0:01] well let&#39;s see how it goes well you see
+[0:01] perpendicular to this white spot all the
+[0:01] spots which go around the sort of
+[0:01] equator here must be black because I
+[0:01] can&#39;t have two perpendicular what&#39;s okay
+[0:01] that&#39;s rule two so there we are because
+[0:01] a lot of black spots going around and it
+[0:01] just let&#39;s sort of check
+[0:01] yes you say it&#39;s it&#39;s okay I&#39;m going to
+[0:01] recess it when I&#39;ve moved it because
+[0:01] it&#39;s very very confusing if it&#39;s nothing
+[0:01] exactly the orientation I like by the
+[0:01] way I want to have control over the time
+[0:01] okay I can&#39;t see that clock up there I
+[0:01] got new specs but I didn&#39;t bring them
+[0:01] okay so now yes well these two spots
+[0:01] here are opposite each other they&#39;re the
+[0:01] ends of a line a symmetry axis of the
+[0:01] cube and these two are the ends of two
+[0:01] other lines and all together those three
+[0:01] lines are perpendicular you might not
+[0:01] find that immediately obvious but if you
+[0:01] if you rotate aloha way you go take
+[0:01] through 45 degrees that these two spots
+[0:01] will move along the circular arcs this
+[0:01] white spot will move to here and the
+[0:01] black spot were moved to there and these
+[0:01] will move 45 degrees and we&#39;ll arrive at
+[0:01] the middle of my face and the opposite
+[0:01] so those three things are perpendicular
+[0:01] okay if you don&#39;t quite see it doesn&#39;t
+[0:01] matter they&#39;re perpendicular I&#39;m telling
+[0:01] you and this one has already been
+[0:01] colored black it was one of the Equator
+[0:01] of spots if I had before so that one&#39;s
+[0:01] already color black so we know that one
+[0:01] is black and so one of these has to be
+[0:01] black and one of them is what okay and
+[0:01] it doesn&#39;t make any difference which we
+[0:01] choose because if I rotated the cube
+[0:01] through half a revolution about
+[0:01] let me say it about this axis here they
+[0:01] would be interchange so I might as well
+[0:01] help suppose it&#39;s the way around I&#39;ve
+[0:01] drawn it and by the way dates are on I&#39;m
+[0:01] going to make the same observation that
+[0:01] one of this spot down here and this both
+[0:01] appear is black and white and one of
+[0:01] white and again it doesn&#39;t matter which
+[0:01] way around it says ok ok so here we are
+[0:01] let&#39;s proceed to the next slide well the
+[0:01] next slide shows some of the spots we
+[0:01] know I&#39;m only going to sort of in these
+[0:01] pictures keep some of the spots alive so
+[0:01] to speak the ones I happen to be talking
+[0:01] about because otherwise you would be
+[0:01] terribly confusing you&#39;d have all sorts
+[0:01] of colored spots all over the place and
+[0:01] now I want you to notice that these
+[0:01] three planes the planes were the cupids
+[0:01] these blue lines are perpendicular ok so
+[0:01] how did dad did we get that I rotated
+[0:01] the standard free plans the symmetry
+[0:01] planes to the cube through a certain
+[0:01] angle about the vertical here ok and I
+[0:01] got the I mean this one which is the
+[0:01] equator stays where it is it just
+[0:01] rotates along itself this sorry this one
+[0:01] rotates it into this one and this one
+[0:01] rotates it into that one so these three
+[0:01] planes are at right angles ok and now
+[0:01] that tells me that the lines
+[0:01] perpendicular to this point I hope
+[0:01] you&#39;re sort of watching here the lines
+[0:01] perpendicular to this to this one all
+[0:01] lie in this equator and so one of those
+[0:01] lines is this line I say line and I
+[0:01] point to a point but remember I always
+[0:01] mean during that point to the opposite
+[0:01] or join it to the center of the cube if
+[0:01] you like so anyway the line joining that
+[0:01] point to the center of the cube is
+[0:01] perpendicular to the line joining not
+[0:01] pointless to the center of the cube so
+[0:01] what colors this one going to be black
+[0:01] because we don&#39;t allow two perpendicular
+[0:01] whites okay so you followed the
+[0:01] arguments so you&#39;re qualified to move on
+[0:01] to the next slide I don&#39;t know why that
+[0:01] top thing disappeared it doesn&#39;t matter
+[0:01] okay now this are what a pizza it does
+[0:01] matter really this this should be a
+[0:01] black point we just got switched off
+[0:01] accidentally and this these are two of
+[0:01] three perpendicular lines does this line
+[0:01] this line and this line and two of them
+[0:01] are black so the other one has to be
+[0:01] white come on and there so the black
+[0:01] spots come back now that&#39;s fortunate
+[0:01] okay so what happens now well so to
+[0:01] speak I&#39;m glad you asked
+[0:01] have you - last video well I&#39;m asking
+[0:01] for you this point is perpendicular to
+[0:01] this whole planar sorry I&#39;m not drawing
+[0:01] it very well but I think it&#39;s under
+[0:01] better than I would if I use the laser
+[0:01] pointer so that&#39;s white every spot
+[0:01] that&#39;s in this plane must be black let&#39;s
+[0:01] do it
+[0:01] there are a few of them let&#39;s satisfy
+[0:01] ourselves so what we&#39;ve got is antipodal
+[0:01] you say here is this okay well I said
+[0:01] when I first sort of started this this
+[0:01] business that I was going to switch
+[0:01] attention after a time to this diagonal
+[0:01] well that&#39;s again these three spots here
+[0:01] here and here the live stream into the
+[0:01] century of mutually perpendicular so
+[0:01] well first that means that one of these
+[0:01] two spots is white and the other black
+[0:01] and I made an arbitrary decision as to
+[0:01] which way it is and now I just repeat
+[0:01] the argument this whole plane which is
+[0:01] different one to the plane answer is
+[0:01] perpendicular to this point these three
+[0:01] blue lines which are a different set of
+[0:01] blue lines going on the cube to what
+[0:01] they were before are mutually
+[0:01] perpendicular planes and now look at it
+[0:01] that&#39;s path this going to has been
+[0:01] proved to be black there it is that&#39;s
+[0:01] what&#39;s been proved to be black what&#39;s
+[0:01] perpendicular to the line joining that
+[0:01] spot to the center of the cube well it&#39;s
+[0:01] this plane so all of that evening so not
+[0:01] all of that I&#39;m just
+[0:01] we&#39;ve got two perpendicular things here
+[0:01] they the spot at the top of the cube on
+[0:01] this more recently established one those
+[0:01] are two perpendicular things so the
+[0:01] third member of that trio which are
+[0:01] pointing to now ought to be black
+[0:01] aha white okay now perpendicular to that
+[0:01] white spot is the blue plane that comes
+[0:01] out two pointing straight towards us I&#39;m
+[0:01] sorry I can move this terribly
+[0:01] accurately and so all the spots on that
+[0:01] plane must be black okay so last time we
+[0:01] had raised some more argument to this
+[0:01] and it ended up proving that these three
+[0:01] spots were black and now we&#39;ve just
+[0:01] proved that these three spots are black
+[0:01] as well so let&#39;s move in fact if we fill
+[0:01] in a loss of what we knew we get all
+[0:01] these black spots that I&#39;m showing we
+[0:01] don&#39;t quite get along the white spots we
+[0:01] we&#39;ve seen these white spots however
+[0:01] look these three lines are perpendicular
+[0:01] this one here which I&#39;ve made rather
+[0:01] bigger Oh John Vincent made it bigger to
+[0:01] tell you the truth and this one and this
+[0:01] one those are the ends of three
+[0:01] perpendicular lines at these two we went
+[0:01] through a lot of trouble to prove the
+[0:01] day&#39;s those two a black so this one&#39;s
+[0:01] white
+[0:01] okay that&#39;s one thing and but then a
+[0:01] very similar argument shows that these
+[0:01] lines are perpendicular one of them is
+[0:01] the white line joining that edge of the
+[0:01] cube to the opposite edge and the well
+[0:01] it&#39;s I jumped the gun in saint&#39;s width
+[0:01] wise and the other two are the lines
+[0:01] going to these two spots here there&#39;s a
+[0:01] three perpendicular things two of them
+[0:01] we have proved to be black and therefore
+[0:01] this must be white now can anyone say
+[0:01] anything wrong with this picture
+[0:01] yes well you see the line joining this
+[0:01] spot to the center of the cube and the
+[0:01] line joining this other spot to the
+[0:01] center of the cube there perpendicular
+[0:01] and they&#39;re both white that is a
+[0:01] contradiction
+[0:01] well I&#39;m sure most of you have forgotten
+[0:01] what on earth this was all about it&#39;s
+[0:01] quite intensive following these
+[0:01] arguments we&#39;ve been trying to solve a
+[0:01] puzzle okay and the puzzle is to assign
+[0:01] zeros and ones which I&#39;ve been
+[0:01] symbolizing by white spots some black
+[0:01] spots to the various directions not to
+[0:01] all the directions of the cube but to
+[0:01] these 33 directions in such a way as to
+[0:01] satisfy the 101 law and you can&#39;t do it
+[0:01] okay you can&#39;t do it so what does that
+[0:01] imply oh we didn&#39;t have to do it but we
+[0:01] would have to have done it if the
+[0:01] particle how can I say it was
+[0:01] constrained not to cheat that&#39;s our game
+[0:01] of so many questions 33 questions I
+[0:01] suppose it is
+[0:01] if it was constrained not to cheese if
+[0:01] it wasn&#39;t allowed to change its mind and
+[0:01] so in other words what I&#39;m saying is the
+[0:01] well in technical language there isn&#39;t a
+[0:01] function defined on the space of
+[0:01] directions of all the reactions there
+[0:01] isn&#39;t even a function defined on these
+[0:01] very 335 particular directions that
+[0:01] satisfies the 101 law so nevertheless
+[0:01] spin 1 particles behave this way and so
+[0:01] what happens well there&#39;s a lot of sort
+[0:01] of slightly nonsensical talk about this
+[0:01] in particularly in popular physics books
+[0:01] and we still always discuss this
+[0:01] experiment but
+[0:01] in similar experiments it&#39;s often said
+[0:01] well for instance one of the standard
+[0:01] things is it&#39;s often said that the
+[0:01] position of a particle and its momentum
+[0:01] and if we know the mass of the particle
+[0:01] ready the momentum can be replaced by
+[0:01] the velocity are sort of incompatible
+[0:01] quantities this is Heisenberg&#39;s
+[0:01] uncertainty principle it&#39;s often said if
+[0:01] you measure the position very precisely
+[0:01] you disturb the particle and so it&#39;s
+[0:01] velocity is no longer known or if you
+[0:01] know the velocity very precisely you&#39;ve
+[0:01] again disturb the position that&#39;s not an
+[0:01] accurate way of talking it&#39;s sort of
+[0:01] presupposes that the particle has a
+[0:01] position and a momentum and and there
+[0:01] are many similar examples of so-called
+[0:01] conjugate quantities or something which
+[0:01] are like this you can&#39;t simultaneously
+[0:01] assign values to to conjugate quantities
+[0:01] in this case we can&#39;t say it&#39;s a rather
+[0:01] more subtle situation we can&#39;t assign
+[0:01] spins
+[0:01] that is to say squared components of
+[0:01] spins to the particle is no way of doing
+[0:01] this it&#39;s not that that question that
+[0:01] the measurement are in one direction
+[0:01] disturbs the answer it was going to give
+[0:01] for another direction
+[0:01] oh dear me no a consistent set of
+[0:01] answers doesn&#39;t exist that&#39;s a really
+[0:01] big deal and it&#39;s important to realize
+[0:01] what goes on you know what does it mean
+[0:01] does the exist well maybe that us I
+[0:01] don&#39;t know what am I trying to say
+[0:01] this this is the 40-year old version of
+[0:01] what we&#39;ve now called us the free world
+[0:01] theorem so let me try and say the
+[0:01] respect in which it differs from the
+[0:01] modern
+[0:01] soonish is only four years old I mean
+[0:01] this already suggests and in fact the
+[0:01] philosopher Robert Nozick sort of
+[0:01] thought it proved that how can I say it
+[0:01] well he thought it proved that lightness
+[0:01] is sufficient principle of sufficient
+[0:01] reason was false you will remember it
+[0:01] lightness his principle solution reason
+[0:01] I hope nothing ever happened says
+[0:01] likeness without the being a sufficient
+[0:01] reason why the thing happens and not
+[0:01] something else happens okay will will
+[0:02] strengthen this that it really does
+[0:02] disprove like mrs. principle of solution
+[0:02] reason will show eventually that not
+[0:02] only doesn&#39;t easy what this shows us
+[0:02] that doesn&#39;t exist a function of
+[0:02] direction which tells what the spinners
+[0:02] until you make the measurement just not
+[0:02] there and in any way I think of it the
+[0:02] particle answers you on the fly just
+[0:02] that make gives an answer and if you ask
+[0:02] it about it it&#39;s been in three
+[0:02] orthogonal directions
+[0:02] it gives answers which are consistent
+[0:02] with the one on one law but if you ever
+[0:02] ask it about one direction and then
+[0:02] about another direction
+[0:02] that&#39;s not parallel or perpendicular to
+[0:02] the one you first thought off all bets
+[0:02] are off
+[0:02] it no longer has any promises to live up
+[0:02] to in the standard slang measurements as
+[0:02] arms in perpendicular or parallel
+[0:02] directions don&#39;t commute but we&#39;ll see
+[0:02] we see that that doesn&#39;t mean that if
+[0:02] you measured them in the other direction
+[0:02] in the other order you&#39;d get a different
+[0:02] answer because there&#39;s no saying what
+[0:02] they answered wait there isn&#39;t an answer
+[0:02] in mind it takes a long time to absorb
+[0:02] this you know the departing makes up its
+[0:02] mind and tells you the answer on the
+[0:02] spur of the moment it doesn&#39;t have an
+[0:02] mind very sure that&#39;s an anthropomorphic
+[0:02] way of talking let me see again what the
+[0:02] time is overhead whoops curses I&#39;ve got
+[0:02] some okay so so how are we going to to
+[0:02] strengthen this when we prove the free
+[0:02] will theorem or what we&#39;re going to do
+[0:02] is is show that in fact well let me
+[0:02] discuss a way in which it could be false
+[0:02] it could be that what the particle tells
+[0:02] you is not just a function of direction
+[0:02] it doesn&#39;t depend only on the direction
+[0:02] it might depend well it might depend on
+[0:02] anything like this it might depend on
+[0:02] the order in which you ask the questions
+[0:02] it might really be you know if you ask
+[0:02] about this direction first and then this
+[0:02] direction you get a different pair of
+[0:02] answers to if you ask them in the order
+[0:02] it might be that it depends what day of
+[0:02] the week it is it might be that the
+[0:02] particle has been listening to your
+[0:02] conversations with your fellow
+[0:02] physicists and if you mentioned the
+[0:02] magic word abracadabra it will give you
+[0:02] one answer and if you don&#39;t it can give
+[0:02] you another answer it might depend on
+[0:02] anything in the past history of the
+[0:02] universe or should we say in that part
+[0:02] of the universe which is in the past of
+[0:02] the experiment now it in fact the free
+[0:02] will theorem says no it doesn&#39;t depend
+[0:02] on all of that it says there&#39;s no
+[0:02] function not just of a single direction
+[0:02] but of directions that you&#39;ll go to ask
+[0:02] the particle about
+[0:02] and everything in the past history of
+[0:02] the universe up to the time we make the
+[0:02] experiment and we can only we can only
+[0:02] prove that by contradiction again we&#39;ve
+[0:02] just given the proof by contradiction we
+[0:02] suppose there was a function of
+[0:02] direction and then showed that it
+[0:02] couldn&#39;t be defined on all those 33
+[0:02] special directions well now wait we&#39;ve
+[0:02] got to do a much more sort of
+[0:02] complicated thing we&#39;ve got to suppose
+[0:02] there is a function not only of
+[0:02] directions both of the past history of
+[0:02] the universe everything in the universe
+[0:02] which never happened before it and then
+[0:02] we&#39;ve got to deduce contradiction from
+[0:02] that okay now that&#39;s what we&#39;ve done
+[0:02] it&#39;s not entirely trivial it&#39;s not hard
+[0:02] but it&#39;s not trivial and it&#39;s got a
+[0:02] certain amount of subtlety to it so now
+[0:02] what am I going to say it depends on a
+[0:02] few things that we sort of saw in the
+[0:02] first lecture or at least I mentioned in
+[0:02] the first lecture you&#39;ve seen the axiom
+[0:02] called spin okay it depends on another
+[0:02] principle which is weakly stated as
+[0:02] information can&#39;t travel faster than the
+[0:02] speed of light with all that&#39;s important
+[0:02] to us is it can&#39;t travel faster than the
+[0:02] finite speed so we call that fin fin
+[0:02] abbreviating finite however you know how
+[0:02] can I say it the spin axiom I don&#39;t want
+[0:02] you to take anything on trust well I do
+[0:02] like Sri but I want you to sort of
+[0:02] consider the following thing suppose you
+[0:02] don&#39;t believe in the spin axiom and also
+[0:02] suppose I&#39;m not a fish I&#39;m a physicist
+[0:02] which is not true but suppose I were a
+[0:02] physicist with a very well-equipped
+[0:02] laboratory you don&#39;t believe in the spin
+[0:02] axis
+[0:02] or so what you do I sought to say well
+[0:02] look you know do this thing called
+[0:02] measure your spending a spin one
+[0:02] particle and feel voluntary actions you
+[0:02] choose the directions your just the
+[0:02] equipment so two points in three
+[0:02] directions one after another and all of
+[0:02] one sexually and you get to once no zero
+[0:02] okay do it again with a different you
+[0:02] get two ones Nazir repeat this sort of
+[0:02] experiment thousands of times well
+[0:02] probably one of them won&#39;t give to once
+[0:02] Nazir well we&#39;ll say that&#39;s experimental
+[0:02] error or something but that&#39;s what I
+[0:02] mean anyway to say that this is
+[0:02] operationally decidable okay it&#39;s it&#39;s a
+[0:02] prediction of quantum mechanics but
+[0:02] we&#39;re not supposing in quantum mechanics
+[0:02] not in principle we are just supposing a
+[0:02] particular very small consequence of
+[0:02] quantum mechanics and that consequence
+[0:02] is in principle operationally testable
+[0:02] that&#39;s a very important thing from this
+[0:02] ain&#39;t a&#39;no from our point of view okay
+[0:02] now we have another axiom this axiom is
+[0:02] rather strange it says it&#39;s the called
+[0:02] the twin and XM you can put two spin one
+[0:02] particles into what&#39;s called a singleton
+[0:02] state and then separate them by a large
+[0:02] distance so large that light will check
+[0:02] take five minutes to travel from one to
+[0:02] the other and in accordance with the
+[0:02] Finn axiom if you now do two experiments
+[0:02] with a time difference of significantly
+[0:02] less than five minutes say one witness
+[0:02] they can&#39;t signal to each other okay
+[0:02] okay anyway that&#39;s that the trainer
+[0:02] assume it says that you can put them
+[0:02] into the single Sun state and then as it
+[0:02] were they promise to give the same
+[0:02] if you ask them the same question so I
+[0:02] asked this one in this direction and I
+[0:02] get a one then even though this thing is
+[0:02] very very far away I know that if my
+[0:02] colleague has asked at the same question
+[0:02] in the same direction it will also give
+[0:02] a one it will work if he&#39;s asked that
+[0:02] question one minutes ago if he&#39;s asking
+[0:02] now or if he&#39;s asked you one minutes in
+[0:02] the future it doesn&#39;t matter that
+[0:02] there&#39;s no difference between those
+[0:02] concepts so that is this famous thing
+[0:02] that Einstein wrote to the New York
+[0:02] Times about in May 1935 I think it was
+[0:02] New York Times well I say I understand
+[0:02] go to the New York Times very annoyed
+[0:02] the New York Times published an article
+[0:02] saying that professor Einstein who is
+[0:02] going to exhibit an argument that proved
+[0:02] roughly speaking of quantum mechanics
+[0:02] was nonsense and Einstein wrote
+[0:02] furiously the next day to say that his
+[0:02] colleague had inadvertently let the cat
+[0:02] out of the bag it was only to be
+[0:02] announced that the next meeting of the
+[0:02] American Physical Society it&#39;s known as
+[0:02] the EPR effect
+[0:02] einstein-podolsky-rosen fine suppose you
+[0:02] don&#39;t believe the twin acts in the same
+[0:02] is in principle true ok but only in
+[0:02] principle you know I take you into the
+[0:02] lab do the thing called putting the two
+[0:02] particles into the singles and space
+[0:02] separate them and I let you and your
+[0:02] colleague perhaps examine them ask them
+[0:02] the same questions if you like and do as
+[0:02] thousands of times and see if you all
+[0:02] get the same answer those are - we are
+[0:02] not really relying on that these are
+[0:02] only fourth experiments at the moment
+[0:02] because in fact those experiments are
+[0:02] terribly difficult some approximations
+[0:02] done separates the distance of
+[0:02] separation being only 22 kilometers but
+[0:02] we&#39;d need them at interplanetary
+[0:02] distances because it&#39;s important that
+[0:02] that you&#39;ve got you&#39;re free to make a
+[0:02] freewill decision in between the two
+[0:02] experiments so and freewill decisions if
+[0:02] physiologist tell us take about a tenth
+[0:02] of a second in a tenth of a second light
+[0:02] can travel really rather large distance
+[0:02] eighty thousand miles which is more than
+[0:02] the radius of the earth it&#39;s not more
+[0:02] than the distance between the earth and
+[0:02] mass the distance between the Earth and
+[0:02] Mars is always at least five minutes
+[0:02] that&#39;s plenty of time so we think of our
+[0:02] two experiments as being performed on
+[0:02] Mars and on earth well you can&#39;t do that
+[0:02] yet and it&#39;s very difficult to imagine
+[0:02] when you&#39;ll be able to do it but
+[0:02] nonetheless quantum mechanics is one of
+[0:02] the most stringent ly tested of all
+[0:02] physical theories and I don&#39;t really
+[0:02] have any doubt that it will pass this
+[0:02] test it&#39;s not wise to bet against
+[0:02] quantum mechanics okay it&#39;s you know
+[0:02] it&#39;s predictions a little bit hard to
+[0:02] understand and so on but they&#39;ve always
+[0:02] been true what am I going to say if if
+[0:02] this one turns out not to be true you
+[0:02] know sometime well I&#39;ll probably be dead
+[0:02] before I have to say but well I&#39;ll just
+[0:02] say sorry I mean the thing is I don&#39;t
+[0:02] apologize for believing this it&#39;s not
+[0:02] sensible to disbelieve a prediction of
+[0:02] quantum mechanics in advance of the
+[0:02] evidence it&#39;s not sensible either to
+[0:02] absolutely believe it but you believe it
+[0:02] with very high probability and you know
+[0:02] as soon as this is disproved well
+[0:02] that&#39;ll be a Nobel cause obviously I
+[0:02] mean it&#39;s a very big thing so this is
+[0:02] tentative still but not very okay
+[0:02] it would be unwise to bet against it but
+[0:02] I want to say something now about fear I
+[0:02] could because I sort of played great
+[0:02] stress on the fact the twin and spin
+[0:02] were operationally testable okay which
+[0:02] is good because they&#39;re the weird ones
+[0:02] they are the ones that depend on quantum
+[0:02] mechanics sin is much more pain it would
+[0:02] seem that there&#39;s very less little - but
+[0:02] it&#39;s just a consequence of relativity
+[0:02] theory and you know relativity theory
+[0:02] has been very well understood for lots
+[0:02] of time there&#39;s no problem in
+[0:02] comprehending yes
+[0:02] however Finn says there&#39;s a finite upper
+[0:02] bounds of the speed with which
+[0:02] information can be transmitted how can
+[0:02] you possibly test that we don&#39;t know all
+[0:02] ways of transmitting information it
+[0:02] might be possible to transmit
+[0:02] information by say ESP and I don&#39;t
+[0:02] believe it for moment I think the people
+[0:02] who do believe it&#39;s a lot of flaky but
+[0:02] it might it might be possible and how
+[0:02] can I disprove that you know not at all
+[0:02] it&#39;s important to realize that Finn
+[0:02] doesn&#39;t have the same clarity of
+[0:02] statements as they&#39;re the ones it
+[0:02] mentions all possible modes of
+[0:02] transmission of information well there&#39;s
+[0:02] a better reason for believing is than
+[0:02] that thus it&#39;s operationally testable at
+[0:02] that better reason is Finn fallout from
+[0:02] the theory of relativity and the theory
+[0:02] of relativity is really a symmetry
+[0:02] principle it says that the laws of
+[0:02] physics are invariant under certain
+[0:02] symmetries if you travel at a uniform
+[0:02] speed in some direction you observe the
+[0:02] same physics as I do when I stay at home
+[0:02] and
+[0:02] what&#39;s funny about that is that if
+[0:02] there&#39;s an another session it goes with
+[0:02] that that the speed of light is
+[0:02] independent of the observer so I mean if
+[0:02] I choose a beam of light along there and
+[0:02] then I start walking after it
+[0:02] I&#39;d say fie miles an hour its speed also
+[0:02] be less with respect to me than it was
+[0:02] with respect to this desk say but it&#39;s
+[0:02] not and that&#39;s a sort of statement that
+[0:02] seemed very paradoxical when Einstein
+[0:02] stated it now what I&#39;m going to do next
+[0:02] lecture is give a sort of a very easy
+[0:02] introduction to relativity theory which
+[0:02] has no no formula in it whatsoever you
+[0:02] can follow it you really can follow it
+[0:02] and it shows that the so-called
+[0:02] paradoxes of relativity theory well
+[0:02] he&#39;ll the only paradox is because they
+[0:02] surprised us they conflict with the
+[0:02] opinions we probably grew up with
+[0:02] originally they are perfectly consistent
+[0:02] and perfectly natural when you find the
+[0:02] right way of looking at them so that&#39;s
+[0:02] important because what happens is if you
+[0:02] could travel if you could transmit
+[0:02] information faster than the speed of
+[0:02] light then with respect to another
+[0:02] coordinate frame another frame of
+[0:02] reference you could actually transmit
+[0:02] information backwards in time and that
+[0:02] sort of nonsense you could change the
+[0:02] past okay
+[0:02] now what happens is it&#39;s hard to explain
+[0:02] it do I have to
+[0:02] it&#39;s founded I think I sort of finished
+[0:02] there and I finished a bit early I&#39;m
+[0:02] sorry I don&#39;t have to but so so what I&#39;m
+[0:02] going to do then is show that well first
+[0:02] I don&#39;t know have you heard of the twin
+[0:02] paradox matter many of you some of you
+[0:02] will have what relativity says is that
+[0:02] what one of the consequence of
+[0:02] relativity is that if we have two twins
+[0:02] one of them stays at home and the other
+[0:02] one makes a journey going very close to
+[0:03] the speed of light in one direction and
+[0:03] then he returns that&#39;s again very close
+[0:03] to the speed of light but in in the
+[0:03] other direction then the the twin who
+[0:03] stayed at home ages by more than the
+[0:03] train who went to pass it seems a very
+[0:03] peculiar thing there was a famous
+[0:03] physicist herbert dinkle who really not
+[0:03] never got any of this though he got lots
+[0:03] and lots of papers about the twin
+[0:03] paradox it seems as though the symmetry
+[0:03] at first sight between the twin who
+[0:03] stays of heroine the twin who travels
+[0:03] after all if you take a coordinate frame
+[0:03] for the twin who travels the twin who
+[0:03] actually stays at home appears to move
+[0:03] away and then after a time turns around
+[0:03] and moves back but there isn&#39;t because
+[0:03] the twin who the twin who travels
+[0:03] actually experiences the physical effect
+[0:03] this enormous acceleration apart I
+[0:03] should say deceleration when he turns
+[0:03] the corner and decides to come back
+[0:03] there isn&#39;t symmetry at all you might
+[0:03] think you&#39;d never understand the twin
+[0:03] paradox okay but we know when I talk to
+[0:03] an audience rather like this ten years
+[0:03] ago everybody understood this I think
+[0:03] well I don&#39;t honestly know I asked them
+[0:03] they seem to think they understood
+[0:03] maybe they didn&#39;t really but anyway it&#39;s
+[0:03] easy to understand the trend paradox
+[0:03] slightly yes well that&#39;s nothing to do
+[0:03] with our twin axiom so yes so I&#39;ve got
+[0:03] to now show this consequence of
+[0:03] relativity first that you can&#39;t transmit
+[0:03] information from faster than the speed
+[0:03] of light and that makes this EPR thing
+[0:03] really a paradox and I&#39;m going to
+[0:03] discuss EPR in lecture after that there
+[0:03] is a so I&#39;ve decided that the sixth
+[0:03] lecture which is too long I mean there&#39;s
+[0:03] too much material to governor and so
+[0:03] what I&#39;ve decided to do is to cut short
+[0:03] a little bit of material in the fourth
+[0:03] and fifth lectures and import material
+[0:03] for the six the sixth is about the
+[0:03] philosophical consequences and the
+[0:03] scientific consequences of our free will
+[0:03] theorem it&#39;s got both and I firmly
+[0:03] believe that particles all about us in
+[0:03] these chairs themself are taking
+[0:03] freewill decisions they&#39;re just deciding
+[0:03] to do something for no reason like mrs.
+[0:03] principal solution reason is false of
+[0:03] course in fact you know there are ten to
+[0:03] the twenty nine or something particles
+[0:03] in this chair some of them are suddenly
+[0:03] deciding to move upwards for no reason
+[0:03] about as many had decided to move
+[0:03] downwards for no reason if all cancers
+[0:03] each other out the chair doesn&#39;t
+[0:03] sensibly appear to move I think this is
+[0:03] a bit more contentious that somewhere
+[0:03] inside us probably in this region there
+[0:03] is a way in which this cancellation is
+[0:03] avoided and so from the free will of
+[0:03] particles which
+[0:03] really happens we get our own free will
+[0:03] but as I say that&#39;s a bit contentious
+[0:03] let&#39;s go

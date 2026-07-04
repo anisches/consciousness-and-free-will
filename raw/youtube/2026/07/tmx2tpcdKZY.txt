@@ -1,0 +1,1142 @@
+(node:3714566) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/kanna/.hermes/skills/media/youtube-transcript/scripts/transcript.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/kanna/.hermes/skills/media/youtube-transcript/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[0:00] well it&#39;s gives me great pleasure to
+[0:00] introduce my colleague John Conway you
+[0:00] really know that needs no introduction
+[0:00] so Conway is a tremendous impact on
+[0:00] modern mathematics
+[0:00] he&#39;s a man who made many fundamental
+[0:00] contributions in a wide spectrum of
+[0:00] areas across the field and I just
+[0:00] mentioned a few of them here in group
+[0:00] Theory logic number theory combinatorics
+[0:00] geometry etc etc he has made all kinds
+[0:00] of very original discoveries which have
+[0:00] been influential in all kinds of fields
+[0:00] even outside of mathematics I call your
+[0:00] attention maybe to the game of life and
+[0:00] surreal numbers these are really
+[0:00] fantastic new ideas and in addition to
+[0:00] all this Conway is a really remarkable
+[0:00] expositor writer both as a writer and as
+[0:00] a lecture
+[0:00] I&#39;m just reading his latest book which I
+[0:00] recommend to you very much which is on
+[0:00] symmetry and he has Conway also has a
+[0:00] tremendous range of admirers and thews
+[0:00] iasts and among them is the late John
+[0:00] Calvin rota
+[0:00] who wrote very positively about about
+[0:00] John and I just want to quote a short
+[0:00] review of a book book book by Conway and
+[0:00] Sloan called sphere packings lattices
+[0:00] and groups just to give you a flavor of
+[0:00] the kind
+[0:00] Susie has immune is it&#39;s this is the
+[0:00] best survey of the best work in one of
+[0:00] the best fields of combinatorics written
+[0:00] by the best people it will make the best
+[0:00] reading by the best students interested
+[0:00] in the best mathematics that is now
+[0:00] going on so there is a typical con Wayne
+[0:00] well I think I&#39;ll conclude now just by
+[0:00] saying that Conway&#39;s lectures are always
+[0:00] stimulating a lot of fun and we&#39;re all
+[0:00] in for a treat
+[0:00] [Applause]
+[0:00] [Music]
+[0:00] oh there Mike
+[0:00] okay well it&#39;s rather frightening to
+[0:00] have to live up to that billing birth
+[0:00] you know well it was rather frightening
+[0:00] before anyway and I&#39;ve just tried to
+[0:00] forget what Joe said yes well you know
+[0:00] it&#39;s my time to say it&#39;s one of the
+[0:00] surest signs of senility in a scientist
+[0:00] is when or mathematician for that matter
+[0:00] is when you know after having made a
+[0:00] reputation in one place he somehow feels
+[0:00] he can make a contribution to something
+[0:00] else and the diagnosis is clinched when
+[0:00] the patient or subject or whatever you
+[0:00] want to call him persists in this belief
+[0:00] even after having been informed that
+[0:00] it&#39;s one of the surest signs of
+[0:00] civilization by the way let me say
+[0:00] something I said that because I didn&#39;t
+[0:00] wish to impute senility to my colleague
+[0:00] Simon koushin over there
+[0:00] everything about this theorem is joint
+[0:00] work you know I&#39;m presenting it Simon
+[0:00] has done a lot of work preparing this
+[0:00] which we did together to some extent the
+[0:00] theorem itself emerged after discussions
+[0:00] that lasted for years and we weren&#39;t
+[0:00] trying to prove this theorem we didn&#39;t
+[0:00] know what we were doing we were just
+[0:00] trying to understand what happens in the
+[0:00] world at the small scale and so anyway
+[0:00] by the way some of this a few years
+[0:00] older than I am so you know if I&#39;m seen
+[0:00] how maybe okay
+[0:00] but I don&#39;t want it you know if I could
+[0:00] say I all the time I&#39;ve been trying to
+[0:00] practice saying we it&#39;s not going to
+[0:00] work but I really am going to try every
+[0:00] now and then saying we because
+[0:00] everything that I&#39;m going to discuss was
+[0:00] discovered jointly and and we had sort
+[0:00] of complementary abilities Simon has
+[0:00] already made 40 years ago a significant
+[0:00] contribution which I&#39;m going to tell you
+[0:00] about in the next lecture in this series
+[0:00] to quantum mechanics I mean to the
+[0:00] foundational quantum mechanics I never
+[0:00] did I
+[0:00] I took quantum mechanics courses in
+[0:00] Cambridge England and I&#39;m always
+[0:00] boasting about something or other one
+[0:00] thing I want to boast about is that one
+[0:00] of those courses was delivered by Dirac
+[0:00] famous physicist however I never
+[0:00] understood much of what was going on and
+[0:00] I passed the exam but only just
+[0:00] and after that I never sort of thought
+[0:00] about it again until I met Simon and you
+[0:00] know there&#39;s this saying do to fine man
+[0:00] well let me say it in the form in which
+[0:00] I actually heard it from when Fineman
+[0:00] was in the room if you say so if you
+[0:00] meet somebody who tells you he
+[0:00] understands quantum mechanics what have
+[0:00] you learnt and he sort of asked various
+[0:00] young people around him
+[0:00] nobody sort of quite knew he said what
+[0:00] you&#39;ve learned is that you&#39;ve met a liar
+[0:00] so I&#39;ve not met anybody who convinces me
+[0:00] that they&#39;ve understood quantum
+[0:00] mechanics although I have met a few
+[0:00] Liars in my time okay now what this
+[0:00] lecture is going to be about this is
+[0:00] also unusual for me I&#39;m very frightened
+[0:00] of giving this lecture and what is going
+[0:00] to be about for the first part is a sort
+[0:00] of survey of different philosophers
+[0:00] attitudes to the question of free will
+[0:00] it&#39;s been a question around you know for
+[0:00] a long long time more than 2,000 years
+[0:00] easily and this survey is not systematic
+[0:00] or anything the main reason for
+[0:00] including someone is that we either
+[0:00] agree with that person or disagree with
+[0:00] that person and okay well I suppose I
+[0:00] get started do I so everything I&#39;ve
+[0:00] forgotten to say I don&#39;t know yeah okay
+[0:00] so I might as well get started okay yes
+[0:00] oh well thanks ivy for this yeah what do
+[0:00] I do to get the other one in
+[0:00] Oh mom what have I done wrong
+[0:00] javi what do I do now to get just wait
+[0:00] have a right and left there uh no it&#39;s
+[0:00] not to get to the next thing it&#39;s to
+[0:00] make this second thing fly up this okay
+[0:00] okay that&#39;s really the sort of problem
+[0:00] that faces us you know I&#39;ve given this
+[0:00] audience this is sort of type of lecture
+[0:00] to a number of audiences in the number
+[0:00] of places and customly I&#39;ve asked you
+[0:00] know in the audience you know are there
+[0:00] any determinist passenger I know there
+[0:00] are because you know I talk in academic
+[0:00] places and how can I say it
+[0:00] the determinists how in general better
+[0:00] educated than the free will thing
+[0:00] because free was the obvious thing to
+[0:00] think you know and determinism is a bit
+[0:00] more subtle I&#39;m going to sort of argue
+[0:00] in favor of free will in a certain sense
+[0:00] but I know that free will cannot be you
+[0:00] know I&#39;m saying I know we know we
+[0:00] meaning salmon and I know that
+[0:00] determinist determinism cannot be
+[0:00] disproved that&#39;s a very easy argument
+[0:00] and so let me tell you what it is you go
+[0:00] and see a really very interesting movie
+[0:00] one day and you don&#39;t know how it&#39;s
+[0:00] going to turn out and it&#39;s exciting and
+[0:00] next day you take a friend to see the
+[0:00] same movie well you know in a way for
+[0:00] you
+[0:00] it&#39;s determinist
+[0:00] but for your friend well it&#39;s not you
+[0:00] know it&#39;s wait now that&#39;s all
+[0:00] that&#39;s not the argument I&#39;m talking
+[0:00] about that&#39;s just to give you an idea of
+[0:00] what the argument really is the argument
+[0:00] is what we call the second time around
+[0:00] argument what&#39;s to say that we aren&#39;t at
+[0:00] the second as it were performance of the
+[0:00] universe movie you know and we are being
+[0:00] fed exactly something went wrong maybe
+[0:00] with the initial universe you know and
+[0:00] it&#39;s been started again and we&#39;re being
+[0:00] fed exactly the same sense impressions
+[0:00] as we were a first time around okay in
+[0:00] that case if first time around was free
+[0:00] even if it was free second time around
+[0:00] is certainly determinist now what does
+[0:00] determinism mean when I use it it&#39;s
+[0:00] going to mean a very precisely defined
+[0:00] thing it&#39;s going to mean that how can I
+[0:00] say well I&#39;m going to let me phrase the
+[0:00] free will theorem that Simon and I
+[0:00] proved it says that if we human beings
+[0:00] are do indeed have free will I&#39;ll define
+[0:00] what female mate means in a moment then
+[0:00] so the elementary particles have their
+[0:00] own very small quantity of free will and
+[0:00] what does it mean well we&#39;re I&#39;m just
+[0:00] using this term freewill and many people
+[0:00] have said it&#39;s a tendentious use of
+[0:00] words to mean that our behavior is not a
+[0:00] function of the past suppose our
+[0:00] behavior is entirely a function of the
+[0:00] past then whatever we do is so to speak
+[0:00] what was written down in a sense in the
+[0:00] big book before the world started
+[0:00] and what the theorem asserts is that if
+[0:00] we humans specifically some
+[0:00] experimenters have free will in the
+[0:00] sense that what they do is not a
+[0:00] function of the past in that very
+[0:00] precise sense then so do elementary
+[0:00] particles none you might think it&#39;s
+[0:00] obvious because we&#39;re made of elementary
+[0:00] particles or something I don&#39;t need that
+[0:00] so do elementary particles even the ones
+[0:00] outside us have free will to in that
+[0:00] precise sense that what they do is not a
+[0:00] function of the past right when am I
+[0:00] going to turn on this slideshow I don&#39;t
+[0:00] quite know what was I going to say this
+[0:00] came as a big surprise to us at least
+[0:00] one of the things I most admire about
+[0:00] Simon koushin my co-author that you know
+[0:00] on one day in August 2006 we&#39;d been
+[0:00] talking about this thing for years you
+[0:00] know every morning we talk about it for
+[0:00] an hour or so just trying to understand
+[0:00] what goes on suddenly the scales fell
+[0:00] away that had been obscuring the theorem
+[0:00] and I turned to assignment and said you
+[0:00] know we&#39;ve proved we&#39;ve proved if we
+[0:00] have free will so to the particles he
+[0:00] saw went quiet for a bit and then he
+[0:00] said yes and then he said this means
+[0:00] that my stuff with ax is all nonsense
+[0:00] doesn&#39;t it
+[0:00] and you know I saw the bass said you
+[0:00] know something like I&#39;m afraid it does
+[0:00] you know it seems to now he&#39;d been
+[0:00] working with his colleague Jim axe for
+[0:00] two decades on a theory this is now
+[0:00] contradicted by the free will theorem
+[0:00] fantastic you don&#39;t get people who just
+[0:00] drop it in five or ten minutes you know
+[0:00] it was wrong
+[0:00] and that&#39;s that so I admire Simon
+[0:00] tremendously there&#39;s another point in
+[0:00] telling that by the way which is to say
+[0:00] you know how can I say it we were
+[0:00] talking about today about how much we&#39;d
+[0:00] contributed you know we both came to the
+[0:00] conclusion neither of us could have done
+[0:00] it without the other Simon had some
+[0:00] technical knowledge of quantum mechanics
+[0:00] that I no longer had I told you I passed
+[0:00] the exam I was happy to forget it&#39;s
+[0:00] after that not exactly happy I read the
+[0:00] Scientific American articles on the
+[0:00] subject you know they didn&#39;t seem very
+[0:00] enlightening Sarah Simon had a certain
+[0:00] amount of technical knowledge he&#39;s not a
+[0:00] physicist he&#39;s a mathematical logician I
+[0:00] had I complimented that by my lack of
+[0:00] knowledge rather surprising they was
+[0:00] really important not to be able to
+[0:00] understand quantum mechanics in some
+[0:00] senses so anyway we did it right well
+[0:00] now what what I&#39;m going to do now is
+[0:00] just survey a few philosophers and as I
+[0:00] said I&#39;m really concerned to just take
+[0:00] the ones with which we agree or disagree
+[0:00] it&#39;s not you know I reject any reproach
+[0:00] that I&#39;m not presenting a complete sort
+[0:00] of a survey this man is very interesting
+[0:00] Lucretia&#39;s full name titus Lucretia
+[0:00] scaris he was a Roman was educated in
+[0:00] Greece and the astonishing thing is he
+[0:01] was an atomist he was a follower of
+[0:01] Kuras the original people who invented
+[0:01] the atomic theory or who discovered it
+[0:01] at a like Epis and Democritus but this
+[0:01] man&#39;s particularly interesting to people
+[0:01] or interested in free will so look he&#39;s
+[0:01] describing you you can read it and I&#39;m
+[0:01] not going to read what&#39;s on the board to
+[0:01] you in general because that&#39;s rather
+[0:01] Stolte fine and so I hope you can all
+[0:01] read it but he says he&#39;s discussing
+[0:01] these atoms which in some sense of
+[0:01] falling under gravity that&#39;s not so
+[0:01] important I think they&#39;re being
+[0:01] influenced by some forces but he says
+[0:01] had quite indeterminate times and places
+[0:01] they swerve and he explicitly does it
+[0:01] says this he says that because it allows
+[0:01] for human free will and if they never do
+[0:01] and what&#39;s the source of the free will
+[0:01] you know possessed by living things
+[0:01] throughout the earth and whoops jumped
+[0:01] off and then he says this now this
+[0:01] quotation was too long to really fit on
+[0:01] the thing so I&#39;m going to I&#39;m going to
+[0:01] read it which will include some of those
+[0:01] words if I can read it let me come over
+[0:01] here he says although many men are
+[0:01] driven by an external force and often
+[0:01] constrained involuntarily to advance or
+[0:01] rush headlong yet there is within the
+[0:01] human breast something that can fight
+[0:01] against it and resist it and this now
+[0:01] wait a moment
+[0:01] I&#39;m missing a sentence but then so also
+[0:01] in the atoms you will you must recognize
+[0:01] the same possibility besides waste and
+[0:01] impact there must be a third cause of
+[0:01] movement the source of this unborn power
+[0:01] of us since we see that nothing can come
+[0:01] out of nothing and then he goes on to
+[0:01] say that
+[0:01] the fact that the mind itself has no
+[0:01] internal necessity to determine its
+[0:01] every act this is due to the slight
+[0:01] swerve of the atoms to no determinate
+[0:01] time or place
+[0:01] I find it fantastic I mean you know
+[0:01] historians of science have this slang
+[0:01] term wait history to mean that we judge
+[0:01] people by the extent to which they agree
+[0:01] with us you know they agree with the
+[0:01] winning Theory I&#39;ve had an absolutely
+[0:01] fantastic that somebody 2,000 years ago
+[0:01] could have suggested that atoms actually
+[0:01] in some sense have free will
+[0:01] most scientists until fairly recently
+[0:01] our determinists and you know I&#39;m going
+[0:01] to take some particular cases of this
+[0:01] but they cost is a very interesting
+[0:01] person because his kind of determinism
+[0:01] is only partial I call it disconnected
+[0:01] determinism what he believed is that the
+[0:01] physical world outside us and even our
+[0:01] bodies but not our minds operate
+[0:01] mechanically in some sense were robots
+[0:01] but the mind he says is different here
+[0:01] is a nice picture of him he believed in
+[0:01] determinism of the material world was
+[0:01] his a quotation that the will is by its
+[0:01] nature so free as it can never be
+[0:01] contained some later people have also
+[0:01] been a by the way this is normally
+[0:01] called de cartes dualism you know there
+[0:01] are two things this mind soul or spirit
+[0:01] and matter and you no matter it operates
+[0:01] according to one set of laws and
+[0:01] mind or spirit according to another a
+[0:01] Descartes sort of wasn&#39;t quite as
+[0:01] disconnected as some other people some
+[0:01] other people say well whatever it is
+[0:01] reconciling the apparent determinism of
+[0:01] the universe with the apparent freedom
+[0:01] of the mind is something to be postponed
+[0:01] until later when we understand it you
+[0:01] know so they sort will have a
+[0:01] provisional attitude which is
+[0:01] disconnected determinism I&#39;m going back
+[0:01] now to have a little look at
+[0:01] compatibilism this is something that
+[0:01] there are many varieties of
+[0:01] compatibilism it is you know it comes
+[0:01] out it sounds very strange at first to
+[0:01] people who haven&#39;t lived in philosophy
+[0:01] department roughly speaking it says that
+[0:01] there&#39;s nothing incompatible about
+[0:01] determinism we can end it and free world
+[0:01] we can we&#39;ll freely to do something and
+[0:01] then whatever we will happens god I
+[0:01] can&#39;t explain it let me let me see if I
+[0:01] can find well I find it so strange I
+[0:01] mean a man so look at that top sentence
+[0:01] a man was free in those this is from a
+[0:01] dispute between Hobbes and Bishop
+[0:01] Bramhall the archbishop Baranof
+[0:01] Archbishop of Armagh a man was feeling
+[0:01] those things which were in his power to
+[0:01] follow his will but he was not free to
+[0:01] wealth
+[0:01] the will was determinate but then he was
+[0:01] free
+[0:01] it sounds a bit funny but in the you
+[0:01] know it&#39;s not it&#39;s not contradictory
+[0:01] although it looks it at first sight I
+[0:01] think to many of you to me look
+[0:01] contradictory in a way but it&#39;s not
+[0:01] contradictory at all the second time
+[0:01] around arguments I gave you it can be
+[0:01] sort of viewed as showing that this is
+[0:01] not inconsistent however what am I going
+[0:01] to say let me go back to Descartes
+[0:01] dualism this is explicitly contradicted
+[0:01] by Arthur okay if basically if people
+[0:01] can choose which experiment to perform
+[0:01] then the particles outside us can choose
+[0:01] what their responses are that&#39;s our
+[0:01] theorem by the way what do those words
+[0:01] mean isn&#39;t it funny to speak of
+[0:01] particles making choices it seems to
+[0:01] involve deliberation and not pretending
+[0:01] the particles are conscious or anything
+[0:01] we are not pretending the particles are
+[0:01] conscious but well there are lots of
+[0:01] different words we could use for
+[0:01] instance free will I mean lots of
+[0:01] philosophical discussions about free
+[0:01] will are concerned with the question of
+[0:01] assigning moral responsibility you know
+[0:01] if I&#39;m a determinist or if the judge is
+[0:01] a determinist I might argue you know it
+[0:01] was all determined I just had to do it
+[0:01] I&#39;m not responsible for my actions I&#39;m
+[0:01] not concerned we&#39;re not concerned with
+[0:01] assigning moral responsibility at all I
+[0:01] want you to think of what we&#39;re
+[0:01] discussing if you like us free win
+[0:01] namely look is this book I finished
+[0:01] reading it now what am I going to do
+[0:01] with this
+[0:01] I decided to drop it now I don&#39;t think
+[0:01] that was forced by the history of the
+[0:01] universe you know I really don&#39;t you
+[0:01] know I can&#39;t disprove you if you think
+[0:01] it was forced or already shown that I&#39;m
+[0:01] not going to argue with convinced
+[0:01] determinists there&#39;s no way of winning
+[0:01] but I believe and most people believe
+[0:01] until they get educated out of this
+[0:01] belief that we are in fact free I&#39;m
+[0:01] going to present arguments but only in
+[0:01] the last lecture and they&#39;re not
+[0:01] deductive arguments to strongly support
+[0:01] the idea that we do in fact have free
+[0:01] well but not to not to prove it at the
+[0:01] deductive level let me continue a little
+[0:01] base right here&#39;s another guy oh by the
+[0:01] way why is hops &#39;no well because this
+[0:01] notion of compatibilism has been around
+[0:01] it&#39;s been long before Hobbes but Hobbes
+[0:01] has stated it very clearly his own
+[0:01] particular version of it it in this
+[0:01] discussion with Archbishop Bramhall
+[0:01] neither man wanted the discussion to be
+[0:01] published by the way but it was
+[0:01] eventually and so it somehow got
+[0:01] associated with his name he popularized
+[0:01] this notion of compatibilism in a way
+[0:01] right
+[0:01] he&#39;s like this great philosopher and he
+[0:01] has this principle of sufficient reason
+[0:01] which says well you see it that nothing
+[0:01] happens without a reason why it should
+[0:01] be so rather than otherwise he states
+[0:01] this principle countless times in well
+[0:01] this is a book of selections from
+[0:01] likeness which I used to put myself to
+[0:01] sleep with it&#39;s very repetitive he&#39;s got
+[0:01] all sorts of arguments and so one
+[0:01] consequence of the free will theorem not
+[0:01] quite a consequence it&#39;s a consequence
+[0:01] of the free will theorem plus the
+[0:01] assumption we act
+[0:01] have free will is that even in the
+[0:01] innominate in animal world of particles
+[0:01] it&#39;s not true this principle of
+[0:01] sufficient reason a particle does one
+[0:01] thing or another and there&#39;s no reason
+[0:01] to be a sign there&#39;s nothing in the
+[0:01] previous history of the universe which
+[0:01] tells it what to do it does one what
+[0:01] does the other okay now here is Laplace
+[0:01] the Marquis de Laplace who wrote this
+[0:01] huge book mechanics the last discussing
+[0:01] the motion of the planets now you know
+[0:01] one reason I think why determinant
+[0:01] determinacy got its a really big impetus
+[0:01] from the development of science was that
+[0:01] Newton&#39;s theory of gravitation and happy
+[0:01] answer on the sex plane one was entirely
+[0:01] deterministic it left no room for
+[0:01] freedom and the Marquis de Laplace who
+[0:01] did a lot of work on Newtonian
+[0:01] gravitational theory says that
+[0:01] mahai an intellect somewhere else it&#39;s
+[0:01] been translated as and intelligence
+[0:01] which knew all where all the particles
+[0:01] were at some moment and how fast they
+[0:01] were moving and so on that every single
+[0:01] thing could be known to that
+[0:01] intelligence provided pretty good
+[0:01] calculator okay it could reason out
+[0:01] exactly what was going to happen in the
+[0:01] future
+[0:01] that&#39;s you know evil of us makes the
+[0:01] statement in several different places
+[0:01] and it&#39;s the strongest I think assertion
+[0:01] of determinism and in the scientific
+[0:01] literature I don&#39;t believe it from one
+[0:01] moment
+[0:01] but and I think it&#39;s just a consequence
+[0:01] the rise of determinism is just a
+[0:01] consequence of the fact science advanced
+[0:01] tremendously as a result mostly of the
+[0:01] work of Newton and people like Laplace
+[0:01] they could determine things but it&#39;s
+[0:01] only the large scale science that in
+[0:01] fact seems to be deterministic this
+[0:01] century it&#39;s not being so and I think
+[0:01] there are a lot of people who sort of
+[0:01] believe that well you know somebody said
+[0:01] what is it we have to do something we
+[0:01] have to believe in free will there is no
+[0:01] choice that&#39;s a nice a nice sort of
+[0:01] paradox and the there&#39;s a guy called
+[0:01] Dennis over by who writes about Science
+[0:01] in the New York Times and he&#39;s several
+[0:01] times published articles in which he
+[0:01] says everything we know of science
+[0:01] convinces me you know that the world is
+[0:01] deterministic nevertheless I be like
+[0:01] Ling - the illusion of free will I&#39;m not
+[0:01] causing its exact words you know somehow
+[0:01] I can&#39;t run my life without this
+[0:01] illusion some people have described as a
+[0:01] necessary illusion we don&#39;t think it&#39;s
+[0:01] in the aleutian it&#39;s not an illusion we
+[0:01] think we have free will and on the other
+[0:01] hand the arguments that suggest we have
+[0:01] free will can&#39;t be turned into a logical
+[0:01] deductive proofs
+[0:01] there&#39;s nothing wrong with us if you
+[0:01] argue in a court of law
+[0:01] you know you saw mr. axe going up the
+[0:01] staircase to mr. wises apartment
+[0:01] carrying a knife and he&#39;d been head to
+[0:01] other threats before and then mr. wises
+[0:01] body is found
+[0:01] and the knife seems to be the knife you
+[0:01] know and so on we sort of conclude
+[0:01] although we haven&#39;t got the proof that
+[0:01] probably the culprit was mr. axe we can
+[0:01] give reasoning of that type but stronger
+[0:01] I mean there isn&#39;t in the end any kind
+[0:01] of reasoning that that&#39;s called
+[0:01] inductive reasoning or part of it is
+[0:01] called inductive reasoning there isn&#39;t
+[0:01] any anything really in the last resort
+[0:01] but isn&#39;t inductive even the laws of
+[0:01] deductive logic have been established
+[0:01] only by induction so you know of course
+[0:01] the inductions there are many many many
+[0:01] supporting instances but ok so and I&#39;m
+[0:01] trying to say it isn&#39;t a complaint that
+[0:01] we&#39;re using I mean everything&#39;s a
+[0:01] legitimate course of complaint that we
+[0:01] use inductive logic only we can&#39;t use
+[0:01] deductive logic I&#39;m not going to show
+[0:01] you that you know it doesn&#39;t mean
+[0:01] however the consistency of determinism
+[0:01] doesn&#39;t mean that it&#39;s true
+[0:01] mathematicians are accustomed to have
+[0:01] consistency proofs they say nothing
+[0:01] about truth they just say something
+[0:01] about what might be true this is
+[0:01] interesting because this is a recent
+[0:01] philosophy unfortunately he died quite
+[0:01] recently SR is like mrs. principle of
+[0:01] sufficient reason and he then goes on to
+[0:01] say moreover a theorem show that any
+[0:01] theory that retains certain features of
+[0:01] quantum mechanics also won&#39;t satisfy SR
+[0:01] and you see there&#39;s a reference to the
+[0:01] kosher speck of paper this is a paper
+[0:01] forty years old
+[0:01] roughly more than forty years old in
+[0:01] which koushin my co-author and Ernst
+[0:01] Becker another logician they&#39;re both
+[0:01] logicians not physicists that might seem
+[0:01] to disqualify them from saying anything
+[0:01] approve this respect about from my
+[0:01] points of view from our point of view
+[0:01] this is not enough
+[0:01] koshish Becca theorem is not as strong
+[0:01] as the new theorem
+[0:01] okay so let me say roughly what happens
+[0:02] okay well there&#39;s a statement of the
+[0:02] free will thing if indeed humans have
+[0:02] free well now I only mean this in a very
+[0:02] restricted sense
+[0:02] I don&#39;t suppose much free well you know
+[0:02] namely I mean the the supposition is
+[0:02] only that the human can choose what one
+[0:02] which one of 33 buttons he wants to
+[0:02] press and then he presses that button
+[0:02] and after that that button was pressed
+[0:02] you know it what I&#39;m trying to say is
+[0:02] this choice affects the future history
+[0:02] over the world in a minor way you know
+[0:02] we know that button was passed after it
+[0:02] was pressed before it was pressed we
+[0:02] didn&#39;t know what which one it was and I
+[0:02] believe that you know a human experiment
+[0:02] that has that much free will that&#39;s the
+[0:02] only amount of free will I suppose we
+[0:02] suppose nothing about these deep
+[0:02] questions of moral responsibility and so
+[0:02] in trying to make a theory scientific
+[0:02] you remove the additional distractions
+[0:02] you know you have a knob that just
+[0:02] controls one parameter at a time and so
+[0:02] on because otherwise if all the
+[0:02] parameters move you you you don&#39;t know
+[0:02] which wasn&#39;t was it the cause the effect
+[0:02] that you&#39;re studying well here we&#39;re not
+[0:02] tying this with any moral responsibility
+[0:02] it doesn&#39;t matter which button you pass
+[0:02] nobody&#39;s going to die as a consequence
+[0:02] of your pressing one button rather than
+[0:02] another it&#39;s not mixed up with with
+[0:02] these things okay and so well let me
+[0:02] perhaps explain the axioms a little bit
+[0:02] later
+[0:02] right so here&#39;s what they are there are
+[0:02] five more things the first one is going
+[0:02] to be about this koshish Becker paradox
+[0:02] and I think rather than describing what
+[0:02] this paradox is now I&#39;ll say what it
+[0:02] does so there&#39;s a thing called measuring
+[0:02] well there&#39;s a problem in physics the
+[0:02] measurement problem and the thing is
+[0:02] it&#39;s been called the measurement problem
+[0:02] that&#39;s a wrong description there&#39;s a
+[0:02] thing that&#39;s been called measuring the
+[0:02] squirt spin of a spin one particle don&#39;t
+[0:02] worry about all that technical stuff
+[0:02] let&#39;s say measuring the spin of
+[0:02] measuring the components of spin and I&#39;m
+[0:02] sorry nervous spin one particle in a
+[0:02] certain direction the squared component
+[0:02] of spin I&#39;m going to leave all those
+[0:02] words out after a time here&#39;s a particle
+[0:02] a nice I sort of direct my finger at it
+[0:02] so to speak and ask it what&#39;s it spin in
+[0:02] that direction and it doesn&#39;t know
+[0:02] what&#39;s finish it&#39;s vaguely like
+[0:02] imagining spinning but it&#39;s not really
+[0:02] like that at all it&#39;s a very subtle
+[0:02] concept but anyway the thing is this
+[0:02] particle is quantized in the nature of
+[0:02] things it can only give two answers to
+[0:02] this question one and zero if I hadn&#39;t
+[0:02] put that word squirting it could give
+[0:02] fiercest one minus one and zero but
+[0:02] squaring identifies one and minus one so
+[0:02] it can give free answers to this
+[0:02] question now you know initially it was
+[0:02] the obvious thing to do to believe that
+[0:02] this concept existed before you measured
+[0:02] it but that was found not to be so and
+[0:02] what the koushin schmecker
+[0:02] theorem says is that it can&#39;t exist
+[0:02] before you measures the and the reason
+[0:02] it can&#39;t exist is because
+[0:02] there&#39;s no consistent set of answers to
+[0:02] every question when I was a little boy I
+[0:02] had two sisters five and ten years older
+[0:02] than I was and we used to play twenty
+[0:02] questions and I think I was rather
+[0:02] bumptious little boy and certainly I had
+[0:02] no moral sense whatsoever when playing
+[0:02] 20 questions you know the thing you you
+[0:02] choose an object you say it&#39;s animal
+[0:02] vegetable or mineral and then your
+[0:02] sisters ask you questions about this and
+[0:02] if they succeed in getting the answer in
+[0:02] 20 questions you&#39;ve lost okay well if I
+[0:02] thought that my sisters were getting
+[0:02] near to my object I changed what the
+[0:02] object was okay now you have to be quite
+[0:02] clever to do that I was quite clever
+[0:02] they caught me out every nothing because
+[0:02] you have to select a new object which
+[0:02] answers say the seven questions you&#39;ve
+[0:02] already been asked in the same way as
+[0:02] the old object did you know and on the
+[0:02] other hand is also unlikely to be the
+[0:02] kind of object your sisters will think
+[0:02] of us okay that&#39;s what the particles do
+[0:02] they if you ask them this type of spin
+[0:02] question they don&#39;t have an object in
+[0:02] mind you know let&#39;s think of that let&#39;s
+[0:02] think of it an even cleverer little boy
+[0:02] than I was very hard to think but think
+[0:02] of a clever little boy than I was who
+[0:02] never bothers to select an object in the
+[0:02] first place just gives you no the first
+[0:02] so many answers at random and then
+[0:02] starts thinking what the hell objectives
+[0:02] well that&#39;s what the particles do they
+[0:02] don&#39;t have answers in mind for each
+[0:02] direction you can have you might wonder
+[0:02] how it can possibly be proved well
+[0:02] coached in spec approved us a long time
+[0:02] ago that and the reason ultimately is
+[0:02] that there&#39;s a little puzzle to be
+[0:02] solved and that puzzle has no solution
+[0:02] in fact they used 117 directions but
+[0:02] this man Paris usher Paris or another
+[0:02] person has unfortunately died fairly
+[0:02] recently reduced this set of directions
+[0:02] to 33 so we have 33 particular
+[0:02] directions and there&#39;s no conceivable
+[0:02] set of answers to that that&#39;s consistent
+[0:02] with what we call the spin law maybe
+[0:02] I&#39;ll have to tell you what the spin law
+[0:02] is but I think I won&#39;t do it just yes
+[0:02] what time is it okay now okay a clever
+[0:02] enough little boy can answer questions
+[0:02] like that on the fly so to speak and not
+[0:02] because out by his sister&#39;s I may say I
+[0:02] was often cause out by my sisters and
+[0:02] there were sort of punishments which I
+[0:02] won&#39;t bother to describe but suppose I
+[0:02] had a twin brother in fact there was a
+[0:02] long history of twins in our family my
+[0:02] father was a twin he had a brother and
+[0:02] sister who were twins and so on I always
+[0:02] wished I had a twin brother and if I had
+[0:02] well if I had my sisters would have had
+[0:02] a much better chance because you know we
+[0:02] could if they could sort of allow us to
+[0:02] choose our object together but then
+[0:02] interrogate us separately and then we
+[0:02] can&#39;t change the object
+[0:02] you know if they choose which one
+[0:02] they&#39;re going to ask the object to
+[0:02] without transmitting information saying
+[0:02] oh I&#39;m changing the object to such and
+[0:02] such we we couldn&#39;t win and that&#39;s what
+[0:02] manages to happen in we&#39;re in the
+[0:02] particle case this is the additional
+[0:02] thing which by the way Simon also
+[0:02] thought of a long time ago but he didn&#39;t
+[0:02] sort of put together the thing
+[0:02] to deduce the free will theorem so
+[0:02] what&#39;s the point well you&#39;ve probably
+[0:02] heard well you&#39;ve probably heard of the
+[0:02] theory of relativity some people
+[0:02] distinguish you know have they even
+[0:02] heard of the theory of general
+[0:02] relativity most of us have heard the
+[0:02] assertion that you can&#39;t transmit
+[0:02] information faster than the speed of
+[0:02] lunch most of us I think hear it on
+[0:02] Authority only we don&#39;t really
+[0:02] understand why not okay and the reason
+[0:02] why not is because of this funny
+[0:02] property of relativity theory is that
+[0:02] there&#39;s no absolute notion of time time
+[0:02] it depends on which coordinate system
+[0:02] you&#39;re using which on your frame of
+[0:02] reference and this is sort of quite
+[0:02] astonishing as seen from one frame of
+[0:02] reference the event a can be before
+[0:02] event B and as seen from another frame
+[0:02] of reference event B came first the
+[0:02] world hasn&#39;t got a standard definition
+[0:02] of time when I say the world I mean the
+[0:02] universe by the way in here
+[0:02] and it&#39;s hard for us to understand how
+[0:02] that can be the case well I have a very
+[0:02] simple way of explaining relativity
+[0:02] theory with no formula don&#39;t worry about
+[0:02] this and I&#39;ve tested this out I think in
+[0:02] this very room before an audience like
+[0:02] this ten years ago and if you follow
+[0:02] that you&#39;ll understand how it comes
+[0:02] about that it&#39;s impossible to transcend
+[0:02] transmit information faster than the
+[0:02] speed of light the reason is if you
+[0:02] could then seen from another person&#39;s
+[0:02] point of view
+[0:02] you&#39;d transmit information backward in
+[0:02] time so we would know the result of
+[0:02] somebody&#39;s experiment before they
+[0:02] performed it and if they have free will
+[0:02] you can&#39;t do that because you know you&#39;d
+[0:02] know the result of their choice before
+[0:02] they made it and they&#39;re free to make
+[0:02] another one
+[0:02] so relative is an important part of the
+[0:02] game okay but then the funniest thing I
+[0:02] think the strangest contribution of
+[0:02] quantum mechanics to this discussion is
+[0:02] the EPR paradox now in I think 1935 the
+[0:02] New York Times had a an announcement the
+[0:02] professor Einstein was going at the next
+[0:02] meetings of the American Physical
+[0:02] Society to disprove quantum mechanics
+[0:02] dance there was always suspicious of
+[0:02] quantum mechanics for good reason I
+[0:02] think but anyway he was wrong and he
+[0:02] wrote rather furiously
+[0:02] to the New York Times the very next day
+[0:02] insisting that they apologize and it
+[0:02] turns out that one of his two
+[0:02] collaborators the thing that the prior
+[0:02] docs is due to Einstein Podolsky and
+[0:02] Rosen it&#39;s called EPR had let the cat
+[0:02] out of the bag and Einstein didn&#39;t want
+[0:02] it let out of the bag before the
+[0:02] official announcement that&#39;s quite the
+[0:02] time ago seven more than seventy years
+[0:02] ago okay
+[0:02] that&#39;s an essential contribution to our
+[0:02] theorem - so what happens is this
+[0:02] despite the fact that information can&#39;t
+[0:02] be transmitted faster than the speed of
+[0:02] light remote events remotely separated
+[0:02] events can be correlated you can
+[0:02] ascertain and this is the content of our
+[0:02] twin axiom you can put two particles
+[0:02] into a state which is called a single
+[0:02] sim state and then you can get them a
+[0:02] path and it&#39;s got a rather curious
+[0:02] property if spin is an aspect of angular
+[0:02] momentum
+[0:02] and when you put them into the single
+[0:02] Sun state it means you verified that the
+[0:02] angular momentum of the pair of
+[0:02] particles is zero and that by the
+[0:02] conservation of angular momentum means
+[0:02] that if you measure the angular momentum
+[0:02] of this in any direction then for the
+[0:02] angular dementia
+[0:02] angular momentum of the other one you
+[0:02] get the negative answer
+[0:02] but remember we&#39;re going to squirt that
+[0:02] means our concept which is squirt
+[0:02] component of spin it&#39;s the same so let&#39;s
+[0:02] say these particles have been sort of
+[0:02] hypnotized if you ask one of them a
+[0:02] question and you ask another of them a
+[0:02] question they will give the same answer
+[0:02] this is like the situation I envisage
+[0:02] where I and my twin brother promised to
+[0:02] give the same answer two questions and
+[0:02] the funny thing is even though the
+[0:02] Scotians Beca theorem proves that the
+[0:02] answers do not exist ahead of time the
+[0:02] Equality of the answers can exist so I
+[0:02] mean if if I ask this question of this
+[0:02] party in the house the same of my
+[0:02] colleague and on Mars asks the same
+[0:02] question of the other particle then even
+[0:02] though those questions aren&#39;t determined
+[0:02] the answer to them ahead of time
+[0:02] they don&#39;t exist ahead of time the
+[0:02] answers by the Koshien schmecker paradox
+[0:02] they&#39;ll give the same answer now of
+[0:02] course I don&#39;t know that my colleague
+[0:02] has asked this question the same
+[0:02] question as as I do he may not have done
+[0:02] so yet in fact it&#39;s meaningless to say
+[0:02] to compare the times at which we do it
+[0:02] because time is not an invariant concept
+[0:02] but so I can say you know if my
+[0:02] colleague on Mars has us the same
+[0:02] question or if he will us the same
+[0:02] question you know or if he&#39;s now asking
+[0:02] the same question whatever it is you&#39;ll
+[0:02] get the same answer that that is the the
+[0:02] EPR paradox the fantastic thing that
+[0:02] Einstein thought would disprove
+[0:02] quantum mechanics it is in fact
+[0:02] perfectly consistent but ever since it
+[0:02] was discovered people have been trying
+[0:02] to explain it away in some sense because
+[0:02] it&#39;s hard to believe you know the you
+[0:02] know we can do this at times that differ
+[0:02] by one microsecond you know in which
+[0:02] time like there&#39;s no hope of getting it
+[0:02] like Mars is always at least five
+[0:02] minutes away from us okay but
+[0:02] nevertheless the answers are going to be
+[0:02] the same right now I&#39;m not going to sort
+[0:02] of really describe the proof of the free
+[0:02] world theorem it&#39;s sort of plausible
+[0:02] right from the start it says you know we
+[0:02] consider this experiment where this
+[0:02] twinned experiment let me go back and
+[0:02] see what I have actually said about the
+[0:02] axiom spin thin and twin-twin is the
+[0:02] thing I&#39;ve just described it is possible
+[0:02] to put two particles even two remotely
+[0:02] to have put two particles suicide even
+[0:02] remotely separated particles into a
+[0:02] condition in which if asked the same
+[0:02] questions they will get the same answers
+[0:02] if they&#39;re not that&#39;s the same questions
+[0:02] all bets are off okay
+[0:02] that&#39;s called twinning depart we call
+[0:02] our twinning the particles it&#39;s an
+[0:02] instance of what&#39;s called you know in
+[0:02] the slang of physics it&#39;s called
+[0:02] entanglement Finn is the axiom which
+[0:02] comes to us from relativity theory that
+[0:02] information can&#39;t be you can&#39;t travel
+[0:03] faster than the speed of light that well
+[0:03] let me now talk about spin spin is this
+[0:03] rather curious axiom if you take one of
+[0:03] these particles and ask it what its
+[0:03] component and squirt component of spin
+[0:03] is in three different mutually
+[0:03] perpendicular directions it always
+[0:03] happens the two of the answers are one
+[0:03] and one of them is zero that&#39;s most
+[0:03] mysterious because and in fact it&#39;s not
+[0:03] possible to solve this puzzle
+[0:03] you know we have these 33 directions and
+[0:03] it&#39;s not possible to assign zeros and
+[0:03] ones of them subject to essentially that
+[0:03] condition which we call the 101 rule so
+[0:03] that doesn&#39;t stop the the particle which
+[0:03] is acting in some ways rather like a
+[0:03] little boy it&#39;s making up his mind as it
+[0:03] goes along it doesn&#39;t stop it from
+[0:03] giving answers but it does stop the
+[0:03] answers from being determined ahead of
+[0:03] time and that&#39;s the guts of it mean let
+[0:03] me tell you that spin and twin
+[0:03] operationally defined of all is the is
+[0:03] the term that is to say okay you don&#39;t
+[0:03] believe me I don&#39;t want you to believe
+[0:03] me just on all authority so you don&#39;t
+[0:03] believe this 101 law so well come to
+[0:03] mind the bother so imagine please that
+[0:03] I&#39;m a physicist a much more practical
+[0:03] person than I actually am come to my
+[0:03] laboratory was that where there&#39;s
+[0:03] equipment for doing this set up measure
+[0:03] the squared spin of a particle do the
+[0:03] operation that&#39;s called measuring the
+[0:03] squirt spin of a particle in three
+[0:03] different directions if you cycle two
+[0:03] actions do it a thousand times and
+[0:03] you&#39;ll always get one at one well no you
+[0:03] want 999 times you will and the other
+[0:03] ones experimental error something our
+[0:03] film is actually robust you don&#39;t have
+[0:03] to measure it exactly 90 degrees as long
+[0:03] as you&#39;re close enough that&#39;s good
+[0:03] enough for the theorem again you don&#39;t
+[0:03] believe that these remotely separated
+[0:03] particles always give the same answer
+[0:03] you know these are consequences by the
+[0:03] way of quantum mechanics but you know
+[0:03] you don&#39;t understand quantum mechanics
+[0:03] nobody does so you are entitled not to
+[0:03] believe it but these are not we&#39;re not
+[0:03] assuming quantum mechanics we&#39;re just
+[0:03] assuming these axioms twin
+[0:03] spin that follow from quantum mechanics
+[0:03] you don&#39;t believe the twin axiom well
+[0:03] again do the thing called pussing these
+[0:03] two particles into the singles and
+[0:03] States whether twins measure them as
+[0:03] many times as you like ask them the same
+[0:03] questions and see that they always give
+[0:03] the same answers that&#39;s what it&#39;s meant
+[0:03] by saying that those things are
+[0:03] operationally definable or decidable now
+[0:03] film the axiom that information can&#39;t
+[0:03] travel faster than the finite speed
+[0:03] that&#39;s where it gets its name from it
+[0:03] does not have that nice property I mean
+[0:03] some people I think they rather silly
+[0:03] believes that say ESP travels
+[0:03] instantaneously whatever it is I can&#39;t
+[0:03] disprove them you know I mean I can&#39;t
+[0:03] disprove that somehow there isn&#39;t an as
+[0:03] yet undiscovered way of transmitting
+[0:03] information faster than the speed of
+[0:03] light so that&#39;s not the evidence for
+[0:03] fear that&#39;s why it&#39;s so important that I
+[0:03] show you why that follows from a
+[0:03] symmetry principle that the laws of
+[0:03] physics are independent of the
+[0:03] coordinate frame you&#39;re using if you&#39;re
+[0:03] traveling with respect to me is half the
+[0:03] speed of light you still have the same
+[0:03] physics and it&#39;s that that that symmetry
+[0:03] principle that&#39;s been tested in
+[0:03] countless ways and so that&#39;s really why
+[0:03] we believe Finn so what I&#39;m just saying
+[0:03] is this very very strong evidence that
+[0:03] these three axioms we use are true okay
+[0:03] well they may not be you know somebody
+[0:03] may discover that beyond a certain
+[0:03] distance this twinning breaks down well
+[0:03] that would be an earth-shattering
+[0:03] discovery in science it would get a
+[0:03] Nobel Prize straight away you know
+[0:03] that&#39;s the sort of thing the sensible
+[0:03] thing to do is don&#39;t bet on that you
+[0:03] know you should really believe in you
+[0:03] know the things that have been tested
+[0:03] very very strongly until some evidence
+[0:03] against them
+[0:03] you know they continue so don&#39;t think
+[0:03] that you know I believe unreservedly in
+[0:03] quantum mechanics well I&#39;m not going to
+[0:03] change my mind
+[0:03] before there&#39;s some reason to change my
+[0:03] mind okay well it says nine o&#39;clock here
+[0:03] okay so the last lecture is going to be
+[0:03] about the consequence of our free will
+[0:03] theorem so I&#39;m going to sitt prove those
+[0:03] things or make remind you again of what
+[0:03] I&#39;m already in a sense done you know des
+[0:03] cartes kind of disconnected determinism
+[0:03] won&#39;t work well you know that is it&#39;s
+[0:03] gone like misses principle of sufficient
+[0:03] reason won&#39;t work it&#39;s gone now perhaps
+[0:03] I should say something well wait a
+[0:03] moment these are more detailed
+[0:03] descriptions of the proof and some
+[0:03] perhaps I should say something about I
+[0:03] forgot my so it&#39;s going to say so
+[0:03] perhaps I shouldn&#39;t say they shouldn&#39;t
+[0:03] try to say this is enough we&#39;ve had an
+[0:03] hour now I want to sort of remark I&#39;m
+[0:03] going to be here and so is Simon Kosh in
+[0:03] my friend if you want to ask him a
+[0:03] question rather than me if you want to
+[0:03] see to what extent our opinions differ
+[0:03] we&#39;re going to be here from now on from
+[0:03] 7:30
+[0:03] that&#39;s to say half an hour we were today
+[0:03] half an hour before the lecture starts
+[0:03] and then we&#39;re going to be here for a
+[0:03] half an hour after the lecture finishes
+[0:03] as well so you&#39;re very welcome to come
+[0:03] along and ask questions oh I know what I
+[0:03] was going to say and I better had says
+[0:03] it&#39;s hard for me to say that physicists
+[0:03] in general have seen lots of instances
+[0:03] of people coming up without proper
+[0:03] qualifications
+[0:03] physics and presenting some sort of
+[0:03] loony theory you know and they don&#39;t
+[0:03] read them you know we had this thing in
+[0:03] mathematics once people have sort of
+[0:03] thought they proved Fermat&#39;s Last
+[0:03] Theorem was what happened there and they
+[0:03] never had you know eventually somehow he
+[0:03] did but he was a very distinguished and
+[0:03] high-powered mathematician so what am I
+[0:03] trying to say I&#39;m perfectly prepared for
+[0:03] the fact you know that visits especially
+[0:03] the ones who don&#39;t read our paper don&#39;t
+[0:03] believe it they think it&#39;s just another
+[0:03] one of those strange things
+[0:03] however it&#39;s rather better than that
+[0:03] I mean and I hope you know I see one
+[0:03] physicist at least in there no I see
+[0:03] another you know I hope that the
+[0:03] physicists stay and and you know learn
+[0:03] something from from us even if you know
+[0:03] what they learn is um there&#39;s one other
+[0:03] thing I want to say in many respects
+[0:03] this is nothing anyway and unorthodox
+[0:03] opinion you might think it is but you
+[0:03] know physicists have lived with these
+[0:03] paradoxes really for 80 years now they
+[0:03] have been accustomed to the fact that
+[0:03] quantum mechanics is not a totally
+[0:03] predictive theory and they&#39;ve proved
+[0:03] long ago that no extension of quantum
+[0:03] mechanics can be this is not the defect
+[0:03] of quantum mechanics so to speak it&#39;s
+[0:03] not a temporary defect anyway no
+[0:03] extension of quantum mechanics can
+[0:03] recover that total productivity from our
+[0:03] point of view you know that&#39;s sort of
+[0:03] obvious I mean no correct theory can
+[0:03] predict what the particle is going to do
+[0:03] before it&#39;s made its decision what to do
+[0:03] while it&#39;s still free to do something
+[0:03] else okay so it&#39;s it&#39;s not to be seen as
+[0:03] a defect in quantum mechanics that it
+[0:03] doesn&#39;t predict it&#39;s a maris you know
+[0:03] you shouldn&#39;t expect to be able to
+[0:03] predict things
+[0:03] nevertheless when this non productivity
+[0:03] of quantum mechanics was discovered it
+[0:03] came as a great surprise people try to
+[0:03] explain it away they tried to find
+[0:03] larger theories many people invented
+[0:03] larger theories they&#39;re sort of I think
+[0:03] fringe physicists but many of them are
+[0:03] respectable physicists I mean it&#39;s in no
+[0:03] way you know how can I say it if you if
+[0:03] you believe that there is some kind of
+[0:03] extension and create one nobody has
+[0:03] succeeded in making one of these
+[0:03] theories relativistically invariant and
+[0:03] physics appears to be relativistically
+[0:03] invariant so what am I trying to say
+[0:03] physicists have believed in a certain
+[0:03] sense in the result that we&#39;re proving
+[0:03] for a long time it&#39;s no surprise I knew
+[0:03] all of us don&#39;t they say however what
+[0:03] they didn&#39;t know was that it can be
+[0:03] deduced in this very precise logical
+[0:03] fashion from so little information and
+[0:03] moreover information this is not at all
+[0:03] contentious you know these three axioms
+[0:03] we use their routine they&#39;re accepted
+[0:03] you know they follow from quantum
+[0:03] mechanics and relativity there&#39;s nothing
+[0:03] dubious about them at all and that&#39;s all
+[0:03] we need to to sort of you know the
+[0:03] original deductions that quantum
+[0:03] mechanics was not a complete theory
+[0:03] there was deductions used more there&#39;s
+[0:03] also superb sees of quantum mechanics
+[0:03] and some of them were sort of pretty
+[0:03] poorly understood ones and okay well I&#39;m
+[0:03] repeating myself I&#39;ll start
+[0:03] [Applause]
+[0:03] [Applause]

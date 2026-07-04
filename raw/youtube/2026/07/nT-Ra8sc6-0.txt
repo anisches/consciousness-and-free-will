@@ -1,0 +1,963 @@
+(node:3714589) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/kanna/.hermes/skills/media/youtube-transcript/scripts/transcript.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/kanna/.hermes/skills/media/youtube-transcript/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[0:00] okay so maybe it&#39;s time for me to start
+[0:00] so I want to say a few things about what
+[0:00] happened last time
+[0:00] last time we were particularly concerned
+[0:00] with let me see have our mouse yeah okay
+[0:00] we were particularly concerned with this
+[0:00] figure here which has got by rotating
+[0:00] three cubes or sorry and and I
+[0:00] introduced the spin axiom and the
+[0:00] koshish Becker paradox this
+[0:00] configuration the Paris configuration is
+[0:00] just that thing I had less time with
+[0:00] nine points on the face of each face of
+[0:00] the cube and so on and that&#39;s one of
+[0:00] three axioms and that&#39;s one of the safe
+[0:00] ones so let me let me talk about that
+[0:00] axiom that&#39;s the spin axiom let me if
+[0:00] that&#39;s the one where if you ask a
+[0:00] certain kind of particle what it&#39;s spin
+[0:00] is it was more precisely defined last
+[0:00] time in a given during three different
+[0:00] directions
+[0:00] three mutually perpendicular directions
+[0:00] it always gives two ones no zero that&#39;s
+[0:00] the 101 goal or the spin axiom and the
+[0:00] intriguing thing about that is that it
+[0:00] already shows by the koushin spec a
+[0:00] paradox that that what we call the
+[0:00] spirit in a given interaction
+[0:00] strictly speaking the squirt component
+[0:00] of spin in the given direction it
+[0:00] doesn&#39;t exist before you measure it well
+[0:00] no not quite it doesn&#39;t exist just as a
+[0:00] function of direction before you
+[0:00] measures so there is no way of assigning
+[0:00] to each direction
+[0:00] and in fact to each of these 33
+[0:00] directions something called the squared
+[0:00] component of spin because if the were
+[0:00] then it would have to satisfy this rule
+[0:00] and the Paris configuration can&#39;t be
+[0:00] colored with ones and zeros so as to
+[0:00] satisfy that rule now the spin axiom is
+[0:00] a a checkable axiom it&#39;s if operational
+[0:00] is this standard slang if you don&#39;t
+[0:00] believe it and you&#39;re in a suitably
+[0:00] equipped laboratory then you can take a
+[0:00] particle measure it in any field on all
+[0:00] directions you like and you can always
+[0:00] get to ones and a zero and after you&#39;ve
+[0:00] done that for thousands and thousands of
+[0:00] particles you become convinced that the
+[0:00] spin action is true now the next axiom
+[0:00] well in the motion of the paper that we
+[0:00] first produced it was called the thin
+[0:00] action so let me just say 101 this was
+[0:00] called the thin axiom and it said
+[0:00] information can&#39;t be transmitted I&#39;m
+[0:00] going to stop writing on this board
+[0:00] after a time but I want to do it here at
+[0:00] more than the speed of well let me just
+[0:00] say fast
+[0:00] well that&#39;s precisely defined and so on
+[0:00] now this this axiom does not have that
+[0:00] operational property
+[0:00] it really doesn&#39;t so you&#39;ve got to sort
+[0:00] of understand why one should believe it
+[0:00] to be true don&#39;t want you to take
+[0:00] anything on my authority even Einstein
+[0:00] saw Authority so that&#39;s what today&#39;s
+[0:00] lecture is going to be about really why
+[0:00] should we believe it and then it&#39;s also
+[0:00] another axiom called the twin axiom and
+[0:00] so let me just say that each of these is
+[0:00] operational in other words you can
+[0:00] convince yourself operation our so
+[0:00] operationally definable you can convince
+[0:00] yourself by a sequence of experiments
+[0:00] that it&#39;s true each of them says
+[0:00] something rather implies something else
+[0:00] and you can take lots and lots of cases
+[0:00] in which the hypothesis is true test
+[0:00] this and see if the conclusions true and
+[0:00] it is so these don&#39;t present any problem
+[0:00] of understanding what on earth is meant
+[0:00] by it which is rather peculiar because
+[0:00] these depends on quantum mechanics for
+[0:00] their justification really I mean this
+[0:00] is why we came to believe that they
+[0:00] might be true so to speak and quantum
+[0:00] mechanics is very funny stuff you know
+[0:00] it&#39;s very hard to understand and so you
+[0:00] might sort of think Oh anything
+[0:00] depending on quantum mechanics are going
+[0:00] to be very dubious but that&#39;s not true
+[0:00] these two particular things we selected
+[0:00] them very carefully they don&#39;t have a
+[0:00] dubious quality at all you don&#39;t have to
+[0:00] believe quantum mechanics you just have
+[0:00] to be capable of doing the tests okay
+[0:00] now later on we replaced this spin axiom
+[0:00] and not spin axiom sorry the third axiom
+[0:00] fin stands for finite speed replaced by
+[0:00] min which is a more precise axiom and it
+[0:00] doesn&#39;t give rise to any troubles
+[0:00] originally we sort of thought it&#39;s okay
+[0:00] to quote this thing about information
+[0:00] not being transmissible at more than a
+[0:00] certain speed but then it was pointed
+[0:00] out to us that there are all sorts of
+[0:00] funny kinds of information and there&#39;s
+[0:00] no possible justification of this you
+[0:00] know how we going to save if some
+[0:00] character comes up with big machines
+[0:00] claims to be able to transmit
+[0:00] information fast well we can test him
+[0:00] but you know how are we going to show
+[0:00] without testing every conceivable means
+[0:00] of transmitting information how are we
+[0:00] going to and we don&#39;t know what they are
+[0:00] yet maybe some new ones will be
+[0:00] discovered how are we going to make this
+[0:00] at all plausible well that when it&#39;s
+[0:00] replaced by me it becomes very plausible
+[0:00] okay so let me okay
+[0:00] so there&#39;s a father figure looking very
+[0:00] nice
+[0:00] okay so 1905 was was Einsteins annus
+[0:00] mirabilis here he goes four or five very
+[0:00] famous papers in that year but I think
+[0:00] the most famous one is this one in in
+[0:00] which he showed that it was consistent
+[0:00] for the speed of light to be a constant
+[0:00] independent of the observer now just for
+[0:00] the moment let&#39;s sort of think of that
+[0:00] let&#39;s slow it down a little bit and
+[0:00] suppose the speed of light has got to be
+[0:00] five miles an hour so that&#39;s roughly
+[0:00] walking speed somebody&#39;s walking away
+[0:00] from me at five miles an hour and then
+[0:00] if I start walking this way it seems
+[0:00] they&#39;re walking relative to me at six
+[0:00] miles an hour or if I started walking at
+[0:00] one Marriner this way they would be
+[0:00] walking only at four miles an ER so it
+[0:00] doesn&#39;t seem possible at first sight for
+[0:00] the speed of light to be a constant
+[0:00] independent of the observer suppose I
+[0:00] run very fast after this light doesn&#39;t
+[0:00] still go away from me well yes it does
+[0:00] and it&#39;s not easy to see how that can
+[0:00] happen and I&#39;m going to present you with
+[0:00] a very simple way of looking at
+[0:00] relativity in which you see that that
+[0:00] can actually happen let&#39;s say you know
+[0:00] this Michelson Morley experiment is very
+[0:00] famous the speed of light I mean light
+[0:00] was supposed to be waves traveling in a
+[0:00] rather curious medium called the ether
+[0:00] and you know the available understanding
+[0:00] of wave motion was that it had a uniform
+[0:00] speed constant speed with respect to the
+[0:00] ether and then if that were true
+[0:00] now the Earth&#39;s moving around the Sun at
+[0:00] quite a high speed
+[0:00] and well unless it perhaps dragged the
+[0:00] ether along with it or something
+[0:00] there should be occasions when it&#39;s
+[0:00] moving towards the light coming from
+[0:00] some particular star and other occasions
+[0:00] when it&#39;s moving away and so we have
+[0:00] this little sort of thought experiment
+[0:00] that I indicated with thinking of people
+[0:00] walking away from me
+[0:00] we have it free so to speak except that
+[0:00] the speeds are very much greater and
+[0:00] Michelson and Morley tried to detect
+[0:00] this and they just had absolutely zero
+[0:00] result and it&#39;s been done many many
+[0:00] times since then
+[0:00] ok now let me say I&#39;m going to come on
+[0:00] to this is a picture that should be
+[0:00] familiar to a number of you this these
+[0:00] are this is the way it&#39;s normally drawn
+[0:00] and what I&#39;m going to say is I&#39;m going
+[0:00] to draw a turn it to an angle before we
+[0:00] do it so the light cone is where light
+[0:00] travels if if we&#39;re say at this point
+[0:00] this is space-time we have space going
+[0:00] horizontally so yeah I forget that you
+[0:00] can&#39;t see my hand in front of this
+[0:00] screen haste I hope you can&#39;t we have
+[0:00] space going Hosain rule oh I must make
+[0:00] sure I don&#39;t accidentally hit this thing
+[0:00] we have space going horizontally this
+[0:00] shows space has been 2-dimensional and
+[0:00] time going vertically and light goes
+[0:00] along this coat now anything else
+[0:00] travels slower than light and so it
+[0:00] can&#39;t get too far from the vertical ok
+[0:00] if we if we have something that&#39;s
+[0:00] traveling as a more normal speed then
+[0:00] it&#39;s more or less its track in
+[0:00] space-time is nearly vertical and ok if
+[0:00] it is indeed to that nothing can travel
+[0:00] faster than light then two points say at
+[0:00] this point and some other point outside
+[0:00] the cone are sort of in communicable
+[0:00] it&#39;s impossible for that
+[0:00] travel fast enough or for anything else
+[0:00] that got into Theory relativity now what
+[0:00] I&#39;m going to do to get from one to the
+[0:00] other and so I never finished that
+[0:00] sentence what I&#39;m going to do is turn
+[0:00] this picture to 45 degrees and reduce
+[0:00] its dimension by one okay oh my can we
+[0:00] see those diagonal lines though I hope
+[0:00] you can can you good okay so now the
+[0:00] time direction is going to be this one
+[0:00] here if you if you&#39;re staying still I
+[0:00] mean the guy whose position is indicated
+[0:00] by these successive black dots is
+[0:00] staying still he&#39;s staying the same
+[0:00] point of space which is in the other
+[0:00] direction
+[0:00] and then time is increasing okay and
+[0:00] these points let me I promised not to
+[0:00] use a formula but I&#39;m going to use one
+[0:00] or two very simple formula this is the
+[0:00] point 1 comma 1 and then the point 2
+[0:00] comma 2 and the point 3 comma 3 that was
+[0:00] the points on the diagonal and those are
+[0:00] the points at which his clock ticks if
+[0:00] so I mean this person who&#39;s staying
+[0:00] still the the still guy his clock ticks
+[0:00] as it crosses any one of these diagonal
+[0:00] lines going downwards so ok 1 2 the unit
+[0:00] I&#39;ll sometimes think of it was a second
+[0:00] sometimes as a year sometimes as a
+[0:00] narrative language matter what the
+[0:00] unisys and here&#39;s the new picture and
+[0:00] the new picture is really rather
+[0:00] different this first curve here these
+[0:00] are hyperbola and the equation of a
+[0:00] hyperbola rectangular hyperbola
+[0:00] officially the equation of a hyperbola
+[0:00] is XY equals something so the the bottom
+[0:00] most one that&#39;s drawn here so you must
+[0:00] find some way of having enough space T
+[0:00] to do this bottom most hyperbola is XY
+[0:00] equals 1 and that passes through the
+[0:00] point x equals 1 y equals 1 and then the
+[0:00] second hyperbola is is is XY equals what
+[0:00] for because it passes through the point
+[0:00] x equals 2 y equals 2
+[0:00] and then x y equals 9 is the next one
+[0:00] and so on and the reason so it&#39;s X y
+[0:00] equals T squared which is the time and
+[0:00] the reason why that is T squared is it
+[0:00] goes through the same points as it did
+[0:00] last time let me go back there&#39;s the
+[0:00] picture that we have last time so all
+[0:00] I&#39;m going to do is say that we can
+[0:00] imagine that this is the wakelock stick
+[0:00] that if you every time if you&#39;re
+[0:00] traveling a straight line every time you
+[0:00] cross one of these hyperbole or that&#39;s
+[0:00] the plural of hyperbola your clock ticks
+[0:00] and I just want you to sort of get clear
+[0:00] that that&#39;s a possibility and ok now I&#39;m
+[0:00] going so I refer to these by the way as
+[0:00] the old picture which is X plus y is a
+[0:00] constant and that constant is twice T T
+[0:00] plus T that&#39;s the old picture that&#39;s
+[0:00] what the kind of universe we thought we
+[0:00] lived in and then the new picture is XY
+[0:00] equals T times T is the universe it&#39;s a
+[0:00] closer approximation to the universe we
+[0:00] actually do live in ok now let&#39;s look at
+[0:00] what happens in the old picture I should
+[0:00] say whenever
+[0:00] this business about clock&#39;s ticking as
+[0:00] you cross these curves is only if you&#39;re
+[0:00] traveling at uniform speed as long as
+[0:00] you&#39;re traveling at uniform speed then
+[0:00] your clock ticks every time you pass one
+[0:00] of these curves now the old curves are
+[0:00] just straight lines the new curves are
+[0:00] high purpose what happens if you change
+[0:00] speed well this is a guy who was oh I&#39;m
+[0:00] sorry I must find a way of training
+[0:00] myself not to click this thing so here
+[0:01] this person changed speed in fact he
+[0:01] study you know he was moving from left
+[0:01] to right and then he started moving from
+[0:01] right to left and also not quite at the
+[0:01] same speed but it doesn&#39;t matter so now
+[0:01] we set up a new coordinate system and a
+[0:01] new system of curves whenever you change
+[0:01] direction it&#39;s conceivable that you&#39;ll
+[0:01] move in a curved line well I&#39;m not going
+[0:01] to suppose you do I&#39;m going to suppose
+[0:01] you always move at a uniform speed and
+[0:01] then you can change that uniform speed
+[0:01] every now and then if you move in a
+[0:01] curved line you&#39;d have to continuously
+[0:01] change it would be rather complicated
+[0:01] now you see this thing doesn&#39;t make any
+[0:01] difference here these straight lines
+[0:01] that the new straight lines here in this
+[0:01] corner up here are the same as the old
+[0:01] state lines you know if I just continued
+[0:01] the ones you know from down here they
+[0:01] would actually be the same curves and so
+[0:01] in the old picture time is absolutes it
+[0:01] doesn&#39;t matter how you are moving you
+[0:01] just click every time you pass one of
+[0:01] these down with straight lines which is
+[0:01] uniformly spaced now let&#39;s see what
+[0:01] happens when we go also and I&#39;m moving
+[0:01] backwards I&#39;m so unused to this okay
+[0:01] here&#39;s the new picture when we change
+[0:01] speed so
+[0:01] we we went to t equals 1 t equals 2 T
+[0:01] plus 3 T equals 4 and then we just
+[0:01] changed our speed absolutely instantly
+[0:01] and then we start with a new collection
+[0:01] of hyperbole along here it&#39;s not perhaps
+[0:01] so obvious immediately but if I just
+[0:01] continued this sequence of hyperbole
+[0:01] there wouldn&#39;t be costing at the same
+[0:01] place okay so now when you change speed
+[0:01] your notion of time changes okay now
+[0:01] that may seem a little bit peculiar all
+[0:01] I want you to sort of understand and
+[0:01] I&#39;ll come back to this time and time
+[0:01] again until you&#39;re thoroughly bored with
+[0:01] this is that this picture is a
+[0:01] possibility it&#39;s consistent if we were
+[0:01] in control of this little 1 plus 1
+[0:01] dimensional one 1 dimension of space one
+[0:01] dimension of time if we were in control
+[0:01] of this universe we could think of this
+[0:01] person has crossed the entire blur now
+[0:01] our makers Coptic okay it is perfectly
+[0:01] conceivable that a world could operate
+[0:01] like this the astonishing thing is that
+[0:01] our world does seem very closely to
+[0:01] operate in this strange moment okay some
+[0:01] of you may have heard of the twin
+[0:01] paradox have you I mean well I see some
+[0:01] yeses so this is one of the sort of
+[0:01] famous paradoxes of relativistic group
+[0:01] famous paradoxes of relativity theory
+[0:01] namely suppose we have two twins I don&#39;t
+[0:01] know who first invented it maybe I&#39;m
+[0:01] sorry I don&#39;t know and one of them stays
+[0:01] at home the other travels they fast very
+[0:01] nearly at the speed of light towards a
+[0:01] direction I&#39;ll call right right on these
+[0:01] pictures is
+[0:01] slanting downwards and then he does that
+[0:01] for set amount of time and then he turns
+[0:01] back and travels very fast in the speed
+[0:01] of light back to where his stairs
+[0:01] haven&#39;t winged was his stay-at-home twin
+[0:01] will be at the diagonal all the time
+[0:01] right now I&#39;ve made it
+[0:01] can we see what those things are
+[0:01] I&#39;ve made him travel this picture by the
+[0:01] way is not to scale
+[0:01] so you&#39;ll find certain inconsistencies
+[0:01] if you look at it in detail but it&#39;s
+[0:01] made it really to scale this would be a
+[0:01] very very thin line indeed so this man
+[0:01] travels from Naut Naut which is where we
+[0:01] started 2x equals 64 y equals 1 ok X Y
+[0:01] is then 64 which is 8 squared okay so
+[0:01] he&#39;s on the eighth hyperbola okay so you
+[0:01] can see these eight hyperbola stretching
+[0:01] over that little rectangle and then he
+[0:01] turns round and this time he increases
+[0:01] where is this thing this time he
+[0:01] increases X by one and Y by 64 that&#39;s
+[0:01] exactly the same sort of thing except
+[0:01] that he&#39;s interchanged x and y so and of
+[0:01] course he&#39;s starting from here this is
+[0:01] in a way the new origin and so he gets
+[0:01] at 65 65 but he only takes 8 years the
+[0:01] square root of 64 to do so okay so the
+[0:01] traveling twin ages by eight years on
+[0:01] each half of the journey okay and now we
+[0:01] come back and see what stay at home did
+[0:01] well this doesn&#39;t look very square
+[0:01] it&#39;s supposed to be square stay at home
+[0:01] just stays at home in other words on the
+[0:01] diagonal
+[0:01] but remember that we did get to 65 comma
+[0:01] 65 so XY
+[0:01] at the end of it is 65 squared and so
+[0:01] we&#39;re at the 65th hyperbola we haven&#39;t
+[0:01] bothered to draw them all
+[0:01] so the stairs have brother ages by 65
+[0:01] years okay I don&#39;t think I&#39;ve said
+[0:01] enough really
+[0:01] I mean mathematicians I hope will find
+[0:01] us a remarkably simple way of
+[0:01] illustrating relativity theory but I
+[0:01] think the rest of us may be a little bit
+[0:01] puzzled what can I do to get rid of that
+[0:01] puzzlement well okay we&#39;re talking about
+[0:01] people who live in a one dimensional
+[0:01] space with a one dimensional time and
+[0:01] all that&#39;s changed from our usual way of
+[0:01] thinking about things let me go back to
+[0:01] one of these things all let&#39;s change
+[0:01] from our usual way of thinking about
+[0:01] things is that instead of the clock
+[0:01] ticking every time the path passes
+[0:01] through one of these downward sloping
+[0:01] lines we make it that the clock ticks
+[0:01] every time we pass through a hyperbola
+[0:01] and if we change direction we reset the
+[0:01] whole curve okay do you see that we can
+[0:01] actually make that happen it means
+[0:01] there&#39;s nothing inconceivable about that
+[0:01] we can equip each little person with a
+[0:01] clock you know and we can advance those
+[0:01] clocks in accordance with this simple
+[0:01] rule it&#39;s not the usual rule but there&#39;s
+[0:01] nothing nothing you can say that&#39;s wrong
+[0:01] with I mean it seemed may seem bizarre
+[0:01] but that might actually be the thing
+[0:01] that happens if if we have consistency
+[0:01] that&#39;s the only thing we can really
+[0:01] demand of a mathematical or physical
+[0:01] theory if it&#39;s consistent then it might
+[0:01] be what happened what happens
+[0:01] you can&#39;t disprove well that happens
+[0:01] because that would mean it was
+[0:01] inconsistent you could get some kind of
+[0:01] contradiction but you obviously can&#39;t
+[0:01] get some kind of contradiction just by
+[0:01] making people&#39;s clocks tick in this
+[0:01] particular way okay well now look at
+[0:01] this what I have here is first of all
+[0:01] you know the original set of hyperbole
+[0:01] which is in this sort of region at the
+[0:01] side and then I&#39;ve not shown you their
+[0:01] tracks but two people started off at the
+[0:01] origin one of them got to here and one
+[0:01] of them got to here and then that
+[0:01] perhaps discussing changing their speed
+[0:01] or something I haven&#39;t actually said
+[0:01] which speech they&#39;re traveling from but
+[0:01] do you notice that these curves here
+[0:01] which show how their their respective
+[0:01] times increase these curves cross each
+[0:01] other now that&#39;s very important because
+[0:01] how can I say is if we&#39;re I can&#39;t see I
+[0:01] can never see the cursor of aces let&#39;s
+[0:01] suppose we&#39;re in here
+[0:01] oh it disappears when I don&#39;t touch it
+[0:01] for a time and then if I touch it it
+[0:01] will advance the
+[0:01] well I don&#39;t want that
+[0:01] [Music]
+[0:01] help me here help with he first of all
+[0:01] we&#39;ve got this set up which I don&#39;t want
+[0:01] and then go back to the previous one
+[0:01] which we can go this way okay now I
+[0:01] suppose I just have to keep this alive
+[0:01] one more time okay okay well this is
+[0:01] going to be very hard for me but you see
+[0:01] how can I say for this point the bottom
+[0:01] clock ticks number ah I can&#39;t do it I&#39;ve
+[0:01] say the bottom clock has ticked three
+[0:01] clicks since we went and the top clock
+[0:01] has ticked four for this point it&#39;s the
+[0:01] other way around okay
+[0:01] and so if indeed we equip people with
+[0:01] watches that are ticking according to
+[0:01] this new rule then they will time events
+[0:01] differently one person can think that
+[0:01] the event a happened before event B and
+[0:01] the other person that event B happened
+[0:01] before event a so that&#39;s really
+[0:01] important it&#39;s not just that the time on
+[0:01] somebody&#39;s clock may depend on who that
+[0:01] somebody is and how fast they&#39;re
+[0:01] traveling it&#39;s the actual time order of
+[0:01] events may be different one person will
+[0:01] think event a came before event B and
+[0:01] another person will think event B comes
+[0:01] before invent event a that&#39;s it
+[0:01] well sorry so let me let me say you know
+[0:01] why that&#39;s a big deal usually suppose it
+[0:01] were possible to travel faster than the
+[0:01] speed of light then from another point
+[0:01] of view from another
+[0:01] in another person&#39;s clock you would be
+[0:01] traveling backwards in time you&#39;d get
+[0:01] the you know you get somewhere and you
+[0:01] then get all the paradoxes of you know
+[0:01] killing your own grandfather that sort
+[0:01] of thing you get a definite
+[0:01] contradiction to causality if you could
+[0:01] travel faster than the speed of light
+[0:01] it&#39;s not just that the speed of light
+[0:01] has some magical property and that
+[0:01] einstein said you can&#39;t travel faster
+[0:01] than the speed of light what Einstein
+[0:01] did was show that it was consistent to
+[0:01] have this new way of timing things in
+[0:01] the new way of timing things the speed
+[0:01] of light is a constant independent of
+[0:01] the observer I haven&#39;t bothered to prove
+[0:01] that to verify this but it really is
+[0:01] true doesn&#39;t matter if you if you&#39;re
+[0:01] traveling horizontally along here then
+[0:01] it&#39;s the same speed no matter who it is
+[0:01] and what else but the important thing is
+[0:01] this all the laws of physics are
+[0:01] invariant under this possible time
+[0:01] change well let&#39;s let&#39;s stop to discuss
+[0:01] this okay and so I mean let me make it
+[0:01] clear this picture that I&#39;ve introduced
+[0:01] as a possibility is actually what
+[0:01] happens in the real world except that in
+[0:01] the real world we have three dimensions
+[0:01] of space and one of time by the way
+[0:01] perhaps I should say what I have this is
+[0:01] for people who actually have met this
+[0:01] sort of stuff before but haven&#39;t met my
+[0:01] particular way of explaining it before
+[0:01] in in the standard formulation u1 has x
+[0:01] squared plus y squared plus Z squared -
+[0:01] well not recess C squared T squared
+[0:01] where C is the velocity of the speed of
+[0:01] light but I&#39;m going to take that to be
+[0:01] one and
+[0:01] this here is well we would normally call
+[0:01] that a squirt in most textbooks meaning
+[0:01] the distance from the origin I&#39;m going
+[0:01] to call it s squared minus T squared and
+[0:01] then this is s minus T I got this right
+[0:01] times s plus T and these are my X and
+[0:01] why I changed coordinates by taking
+[0:01] space - time to be X perhaps I&#39;ll go
+[0:01] back and have one of those space - time
+[0:01] is X Y s space - time is X and space
+[0:01] plus time is why okay sorry let me okay
+[0:01] so let&#39;s look now this is the old
+[0:01] picture and the yellow path is where
+[0:01] you&#39;ll get a neighborhood of the
+[0:01] diagonal and that&#39;s where you must
+[0:01] necessarily be if you don&#39;t move too
+[0:01] fast okay if you if you&#39;re moving in
+[0:01] this horizontal direction oops if you&#39;re
+[0:01] moving in this horizontal direction here
+[0:01] then you&#39;re traveling at the speed of
+[0:01] light towards the right and if you move
+[0:01] in the vertical direction you&#39;re
+[0:01] traveling at the speed of light towards
+[0:01] the left if you&#39;re staying the diagonal
+[0:01] direction it means you&#39;re dead still and
+[0:01] if you&#39;re only going with a few hundred
+[0:01] miles an hour or something if you&#39;re
+[0:01] very nearly still so you&#39;re in this
+[0:01] yellow region that&#39;s what it means to be
+[0:01] at low speed and now that&#39;s what the old
+[0:01] picture that&#39;s the kind of world we
+[0:01] thought we lived in okay and here&#39;s the
+[0:01] kind of world we do live it well it&#39;s
+[0:01] not very different okay let&#39;s move down
+[0:01] a little bit it&#39;s the old world let me
+[0:01] show you this is nothing
+[0:01] different if you concentrate on what&#39;s
+[0:01] in that yellow path there&#39;s not be
+[0:01] different okay that&#39;s how we were
+[0:01] deceived if you don&#39;t move very fast
+[0:01] compared to the speed of light you can&#39;t
+[0:01] tell the difference between the old
+[0:01] picture and the new picture and I should
+[0:01] say that this thing very much
+[0:01] exaggerates the effect if you&#39;re
+[0:01] traveling say a thousand miles of now
+[0:01] okay let&#39;s just think a thousand miles
+[0:01] an hour light travels as a hundred and
+[0:01] eighty thousand hundred and eighty six
+[0:01] thousand miles a second take one hundred
+[0:02] and eighty six thousand then multiply it
+[0:02] by the number of seconds in an hour
+[0:02] three thousand six hundred and divided
+[0:02] by a thousand but too complicated even
+[0:02] for me it&#39;s a hundred eighty six times
+[0:02] 3600 it&#39;s quite large and so this amount
+[0:02] of slope here is very much smaller than
+[0:02] I&#39;ve indicated very very much smaller so
+[0:02] it took a long time before anybody
+[0:02] noticed that that this these two
+[0:02] pictures weren&#39;t the same picture okay
+[0:02] yeah perhaps I should mention that the
+[0:02] the first people to notice well there&#39;s
+[0:02] a little bit of a sort of prehistory to
+[0:02] relativity H a Lorentz found the
+[0:02] equations before quite a long time
+[0:02] before where I understand Michelson and
+[0:02] Morley found this curious constancy of
+[0:02] the speed of light
+[0:02] empirically they didn&#39;t imagine that he
+[0:02] was actually constant they tried to find
+[0:02] other kinds of explanations there were
+[0:02] other people too but Einstein was the
+[0:02] first one who seems to believed in it
+[0:02] since it&#39;s really real you know there&#39;s
+[0:02] a thing called the Venice Fitzgerald
+[0:02] contraction which says if things are
+[0:02] travelling very fast with respect to the
+[0:02] speed of light they shrink in the
+[0:02] direction they move they stay the same
+[0:02] size that&#39;s a way of trying to
+[0:02] understand relativity based on
+[0:02] nonrelativistic ideas okay there are all
+[0:02] sorts of other things well now it really
+[0:02] important thing is the the notion of
+[0:02] symmetry so here if well let me let me
+[0:02] come on to the next picture here and the
+[0:02] one after that if you add a constant to
+[0:02] X sorry this is a sort of picture of a
+[0:02] truck it&#39;s not very details if you add a
+[0:02] constant to X and subtract the same
+[0:02] constant from Y then this truck will
+[0:02] just move down like that X Y has become
+[0:02] X plus four y plus four what&#39;s preserved
+[0:02] in here well it&#39;s this is the value of x
+[0:02] plus y is preserved if I add four to X
+[0:02] and subtract four from Y then X plus y
+[0:02] is constant an X plus y I remember well
+[0:02] it&#39;s actually twice T X plus y is T plus
+[0:02] T so this is what we&#39;re accustomed to
+[0:02] namely if you are traveling at the
+[0:02] uniform speed and Galileo first noticed
+[0:02] this he he described it in terms of
+[0:02] traveling on a ship at a uniform speed
+[0:02] then you know if you do these things of
+[0:02] throwing balls in there waiting for them
+[0:02] to come down and so on and you ignore
+[0:02] the wind which is probably likely to be
+[0:02] more noticeable at sea but never mind
+[0:02] then you get the same laws of physics we
+[0:02] nowadays I think we normally think of it
+[0:02] as traveling on down trains
+[0:02] maybe nowadays people think of traveling
+[0:02] on trains but if you let&#39;s do an
+[0:02] experiment on a train you know we can
+[0:02] roll marbles about we can play marbles
+[0:02] on the table of
+[0:02] and as long as it isn&#39;t actually jerking
+[0:02] in some funny way we&#39;ll observe the same
+[0:02] physics as if we weren&#39;t moving at all
+[0:02] okay well that the same principle is
+[0:02] actually true in relativity theory but
+[0:02] it&#39;s a different symmetry that we take
+[0:02] so this time the symmetry is to multiply
+[0:02] X by a constant last time we added a
+[0:02] constant to X and divide Y by the same
+[0:02] constant so here we are here is a my
+[0:02] same track I sort of didn&#39;t position it
+[0:02] terribly well I think and now I click X
+[0:02] Y becomes 2 X Y over 2 and this was
+[0:02] actually drawn by doing precisely that
+[0:02] operation 2 x and y having X so you see
+[0:02] having X would squash it vertically and
+[0:02] stretching Y stretches it horizontally
+[0:02] okay now what&#39;s the point of that well
+[0:02] the point is that which is called
+[0:02] lawrencium symmetry well that&#39;s a
+[0:02] particular Lorentzian symmetry it&#39;s very
+[0:02] like Galilean symmetry it mathematically
+[0:02] just multiplying rather than adding it&#39;s
+[0:02] very like Galilean symmetry but it
+[0:02] preserves the way our clocks tick in the
+[0:02] real world in the new world should we
+[0:02] say in which they take when they cost
+[0:02] hyperbolas because if you multiply this
+[0:02] by this so if you multiply these two by
+[0:02] each other you get the same thing as if
+[0:02] you multiply these two by each other
+[0:02] okay so so yeah that advances me too far
+[0:02] maybe I&#39;ll switch that off a little bit
+[0:02] so this is the the way we overcome this
+[0:02] defect that the axiom called Finn hath
+[0:02] the other two axioms remember what
+[0:02] operational you can check them okay
+[0:02] now you can&#39;t check that there&#39;s no way
+[0:02] of transmitting information faster than
+[0:02] the speed of light that&#39;s a sort of
+[0:02] negative operation so we have to do
+[0:02] something else instead
+[0:02] and what we do is we check that all the
+[0:02] laws of physics are invariant under
+[0:02] Lorentz Ian transformation that&#39;s the
+[0:02] new kind of symmetry that the world has
+[0:02] squashing and stretching by the same
+[0:02] factor so that has been done in the
+[0:02] hundred years since you know Einstein
+[0:02] discovered the theory of special
+[0:02] relativity people have checked all sorts
+[0:02] of laws of physics and they&#39;ve all been
+[0:02] invariant they&#39;ve all had this symmetry
+[0:02] property law had seen invariance as a
+[0:02] kind of symmetry so the laws of physics
+[0:02] have this symmetry property okay and now
+[0:02] we can see why it&#39;s impossible to travel
+[0:02] modern faster than the speed of light
+[0:02] because if you could travel faster than
+[0:02] the speed of light if you apply one of
+[0:02] these Lorentz in symmetries you could
+[0:02] travel backwards in time and then the
+[0:02] law of causality nobody&#39;s ever found
+[0:02] anything wrong with that you can&#39;t go
+[0:02] back and change the past it&#39;s just not
+[0:02] on well maybe you can&#39;t maybe on very
+[0:02] very tiny scales you can change the past
+[0:02] or something now but we&#39;re not going to
+[0:02] talk about those we&#39;re going to talk
+[0:02] about experiments that we perform that
+[0:02] they&#39;re actually macroscopic in size the
+[0:02] human-sized experiments not particle
+[0:02] sized experiments we might call them
+[0:02] measuring spins of particles but in the
+[0:02] end what we measure shows up as a spot
+[0:02] on the screen okay and if that spot on
+[0:02] the screen has already happened it&#39;s no
+[0:02] good trying to change the past and make
+[0:02] sure it doesn&#39;t
+[0:02] so this axiom thing really is it&#39;s true
+[0:02] because of a symmetry property that
+[0:02] symmetry property you can check you
+[0:02] discover a new fact about physics check
+[0:02] its relativistically environment and you
+[0:02] see things like this in the science
+[0:02] times every noun that somebody has done
+[0:02] the new experiment which tests
+[0:02] relativity in a new way I will say what
+[0:02] the axiom called mean is later but
+[0:02] essentially it is that an observer well
+[0:02] no I don&#39;t think I&#39;ll I&#39;ll carry on and
+[0:02] try to discuss that now with I&#39;ll save
+[0:02] it till later now I&#39;m going to come on
+[0:02] to what is effectively this third axiom
+[0:02] of ours called called twin and this is
+[0:02] based on what&#39;s called EPR and here&#39;s a
+[0:02] little piece from the New York Times for
+[0:02] may the 4th 1935 and I don&#39;t know
+[0:02] whether you can read it clearly enough
+[0:02] it says that with two colleagues or dr.
+[0:02] Boris Podolsky and dr. Nathan Rosen
+[0:02] professor Einstein has discovered
+[0:02] something wrong with quantum mechanics I
+[0:02] I&#39;m not going to give you time enough to
+[0:02] read all of this but well maybe if you
+[0:02] want to sort of eat it with it we can
+[0:02] say it&#39;s half but let&#39;s I&#39;m going to
+[0:02] talk a little bit about what the
+[0:02] experiment was so in the original form
+[0:02] of the
+[0:02] in the EPR paper I&#39;m sorry the EPR
+[0:02] stands for einstein-podolsky-rosen they
+[0:02] address this problem we you know how can
+[0:02] I say you&#39;ve got a particle here it&#39;s
+[0:02] got a position and it&#39;s also got
+[0:02] momentum or speed let&#39;s suppose we know
+[0:02] what the mass of the particle is and
+[0:02] this very celebrated principle Werner
+[0:02] Heisenberg&#39;s is if you measure the
+[0:02] position very precisely there&#39;s no hope
+[0:02] of mensch measuring the speed precisely
+[0:02] or to be stricter the momentum and don&#39;t
+[0:02] conversely if you measure the momentum
+[0:02] there&#39;s no hope of getting the speed
+[0:02] right the way it&#39;s normally it sort of
+[0:02] explained in the popular books is that
+[0:02] measuring one changes the other well
+[0:02] that&#39;s nonsense
+[0:02] but what&#39;s easy what&#39;s more to consider
+[0:02] what happened in our we&#39;re going to
+[0:02] replace these by spinners and it&#39;s not
+[0:02] true when I said the 101 law it&#39;s not
+[0:02] true that measuring the spin in one
+[0:02] direction changes what the spin in
+[0:02] another direction is the answer is it&#39;s
+[0:02] not consistent with the 101 law for the
+[0:02] students to exist before they&#39;re
+[0:02] measured and a very similar thing
+[0:02] happens here in the
+[0:02] einstein-podolsky-rosen so it&#39;s not
+[0:02] consistent for there to exist at one on
+[0:02] the same time a precise value for the
+[0:02] momentum and the precise value for the
+[0:02] position I&#39;m going to proceed onwards
+[0:02] they say quite a lot that was May the
+[0:02] 4th 1935 a few days later here&#39;s a
+[0:02] statement by Einstein he was absolutely
+[0:02] furious
+[0:02] any information on which your article
+[0:02] was based was given to you without my
+[0:02] other notices it says in your issue of
+[0:02] May the 6th was actually in the issue of
+[0:02] May the 4th but anyway this so that&#39;s a
+[0:02] certain inconsistency but anyway he was
+[0:02] furious it it&#39;s generally believed that
+[0:02] Podolski is the person who let the cat
+[0:02] out of the bag but anyway that&#39;s this he
+[0:02] okay so let me say what happened this is
+[0:02] the famous paper that appeared later in
+[0:02] 1935 I think it was November in 1935 can
+[0:02] this quantum mechanical description of
+[0:02] physical reality be considered complete
+[0:02] and here is the idea of the EPR thing
+[0:02] there are various pairs of properties
+[0:02] that are incompatible in the sense well
+[0:02] as I say it&#39;s usually explained us if
+[0:02] you make the act of measuring one
+[0:02] disturbs the other well we&#39;ve seen that
+[0:02] that&#39;s not in the case of spit particle
+[0:02] spins that&#39;s not a correct description
+[0:02] let&#39;s continue to use that income in
+[0:02] correct description for a moment so now
+[0:02] the idea is prepare two particles
+[0:02] somehow and then separate them somehow
+[0:02] until they&#39;re very very far apart so
+[0:02] that light can&#39;t possibly travel from
+[0:02] one to the other in between the times
+[0:02] you&#39;re going to make the experiments and
+[0:02] you arrange that
+[0:02] [Music]
+[0:02] well the way we&#39;ll do it we will arrange
+[0:02] that they give the same answers to the
+[0:02] same questions but what it really
+[0:02] matters is you can measure a property a
+[0:02] neither particle and it will tell you
+[0:02] what property a on the other one is by a
+[0:02] law of nature or something you can also
+[0:02] measure property beyond either particle
+[0:02] and it will for the same reason it&#39;ll
+[0:02] tell you what property B is on the other
+[0:02] and now the clever idea that EPR
+[0:02] einstein-podolsky-rosen produced is
+[0:02] separate these particles so that no
+[0:02] influence can possibly travel from one
+[0:02] to the other in the time you&#39;re going to
+[0:02] make the experiment and then measure
+[0:02] property a on one particle and property
+[0:02] B on the other isn&#39;t that clever
+[0:02] and then you appear to be able to know
+[0:02] what property a is on each particle and
+[0:02] what property B is on each particle well
+[0:02] I&#39;ll explain why that isn&#39;t sort of
+[0:02] contradictory sometime but so what are
+[0:02] the properties that we might consider
+[0:02] may of measuring well EPR suggested that
+[0:02] they should be position and momentum if
+[0:02] you if you take these particles and
+[0:02] arrange for them to fly a path they had
+[0:02] total as I was made total the total
+[0:02] momentum zero and so whatever the
+[0:02] momentum of this one is is the negative
+[0:02] of the momentum of the other one so if
+[0:02] you measure the momentum of a you&#39;ve
+[0:02] measured the momentum of B there&#39;s also
+[0:02] true the speed with which particle a
+[0:02] went its way and the speed with which
+[0:02] particle B went its way are the same
+[0:02] it&#39;s at the same type of particle anyway
+[0:02] and so the velocities if you like our
+[0:02] mutual negatives of each other that
+[0:02] means the speeds are the same and
+[0:02] therefore you can measure the speed of
+[0:02] which you have a particle you didn&#39;t
+[0:02] measure the position of oh so you can
+[0:02] measure the positions sorry you know
+[0:02] they&#39;ve got the same distance and
+[0:02] same time so once you&#39;ve measured the
+[0:02] distance of one of them from where we
+[0:02] started you&#39;ve measured the distance of
+[0:02] the other david bohm who was a very good
+[0:03] textbook on atomic physics suggested
+[0:03] that that be changed too
+[0:03] you are discussing spin 1/2 particles
+[0:03] and the same sort of thing is more or
+[0:03] less true you bring them together
+[0:03] measure their total angular momentum
+[0:03] separate them and then if there&#39;s been a
+[0:03] 1/2 particles the spin of one is plus
+[0:03] 1/2 and the spin of the other is minus
+[0:03] 1/2 and you could do that for us
+[0:03] because we have to get the coaching
+[0:03] schmecker paradox off the ground
+[0:03] we take spin one particles and now
+[0:03] perhaps you can see where I&#39;m going I
+[0:03] don&#39;t know whether you can on North
+[0:03] actually maybe it&#39;s a let me just see I
+[0:03] think this is my last yes it is you
+[0:03] couldn&#39;t perhaps see where I&#39;m doing
+[0:03] what I&#39;m going to is to do what we the
+[0:03] experiment we consider doing is a
+[0:03] Spindler a twin version of the coaching
+[0:03] Specter paradox okay and that will
+[0:03] satisfy the requirement right I seem to
+[0:03] have rubbed it out that I put up in
+[0:03] chalk i think on the the board namely
+[0:03] well let me just say it out that what we
+[0:03] what was shown to be impossible by the
+[0:03] kosher speckle paradox is that there&#39;s a
+[0:03] function just of direction which tells
+[0:03] the particle was is going to do oh you
+[0:03] know that the particle is going to tell
+[0:03] us what it&#39;s spinners well now the
+[0:03] question is is the perhaps a function
+[0:03] with more variables in it
+[0:03] it depends not only on direction but
+[0:03] perhaps on the Audion which you ask the
+[0:03] questions perhaps on the day of the week
+[0:03] it is whether there&#39;s a car
+[0:03] we&#39;re just whizzing by the conversations
+[0:03] of the experimenters anything so we&#39;re
+[0:03] going to take all the information in the
+[0:03] past history of the particle and say
+[0:03] what it does cannot be determined from
+[0:03] the entire history it&#39;s not a function
+[0:03] of the entire past history of the
+[0:03] particle I don&#39;t think anybody&#39;s ever
+[0:03] said that before I mean there are plenty
+[0:03] of physicists who believe our statement
+[0:03] but they believe it on too little
+[0:03] evidence
+[0:03] you know they suppose that the state
+[0:03] function for instance determines
+[0:03] everything that can be determined about
+[0:03] the particle that&#39;s never been proved
+[0:03] you know and all sorts of people
+[0:03] including David Bohm have toyed with
+[0:03] ideas that what the particle does
+[0:03] depends on some hidden variable
+[0:03] something inside it that we can&#39;t
+[0:03] observe but now it can&#39;t depend on any
+[0:03] of this they can&#39;t depend on the entire
+[0:03] past history of the universe from the
+[0:03] experiment so the proof of this is is
+[0:03] what sort of well it&#39;ll be done by the
+[0:03] end of next lecture I think I&#39;ll stop
+[0:03] there for now
+[0:03] I&#39;ll take it back to say here so that
+[0:03] anybody who just wants to read it while
+[0:03] were chatting on can do so but I&#39;ll stop
+[0:03] at that point
+[0:03] thank you

@@ -1,0 +1,84 @@
+# Neuroscience Map of Content
+
+## Permanent Notes
+- [[20260625120000-godel-incompleteness-lucas-penrose]] : Godel Incompleteness Lucas Penrose
+- [[20260625120000-neural-manifolds-qualia-geometry]] : Neural Manifolds Qualia Geometry
+- [[20260704110132-active-inference-bounded-agency]] : Active Inference Bounded Agency
+- [[20260704110132-active-sampling-insect-navigation]] : Active Sampling Insect Navigation
+- [[20260704110132-adaptation-regimes-chaos-hopf]] : Adaptation Regimes Chaos Hopf
+- [[20260704110132-adaptation-states-sleep-wake]] : Adaptation States Sleep Wake
+- [[20260704110132-animal-agency-experiments]] : Animal Agency Experiments
+- [[20260704110132-animal-agency-goal-directed-habit-deliberation]] : Animal Agency Goal Directed Habit Deliberation
+- [[20260704110132-ant-scanning-circuits-2026]] : Ant Scanning Circuits 2026
+- [[20260704110132-attractors-metastability-agency]] : Attractors Metastability Agency
+- [[20260704110132-behavioral-contribution-representational-drift]] : Behavioral Contribution Representational Drift
+- [[20260704110132-behavioral-vs-biological-fidelity]] : Behavioral Vs Biological Fidelity
+- [[20260704110132-block-universe-time-agency]] : Block Universe Time Agency
+- [[20260704110132-branch-2-biological-agency-expansion-plan]] : Branch 2 Biological Agency Expansion Plan
+- [[20260704110132-chaos-coherence-coexistence]] : Chaos Coherence Coexistence
+- [[20260704110132-clip-human-vision-proxy]] : Clip Human Vision Proxy
+- [[20260704110132-co2-arousal-pathway-2026]] : Co2 Arousal Pathway 2026
+- [[20260704110132-coarse-to-fine-visual-processing]] : Coarse To Fine Visual Processing
+- [[20260704110132-cohort-amortized-personalization-cap]] : Cohort Amortized Personalization Cap
+- [[20260704110132-cold-run]] : Cold Run
+- [[20260704110132-collicular-latency-spatial-frequency]] : Collicular Latency Spatial Frequency
+- [[20260704110132-color-perception-dnn-2026]] : Color Perception Dnn 2026
+- [[20260704110132-color-representation-alignment-dnn]] : Color Representation Alignment Dnn
+- [[20260704110132-compiled-source-list]] : Compiled Source List
+- [[20260704110132-computational-irreducibility-undecidable-dynamics]] : Computational Irreducibility Undecidable Dynamics
+- [[20260704110132-cornet-s-neural-drift-simulation]] : Cornet S Neural Drift Simulation
+- [[20260704110132-crab-thermal-compensation-2026]] : Crab Thermal Compensation 2026
+- [[20260704110132-crosscoder-atlas-independent-personalization]] : Crosscoder Atlas Independent Personalization
+- [[20260704110132-cx-lal-steering-oscillation]] : Cx Lal Steering Oscillation
+- [[20260704110132-development-plasticity-biological-luck]] : Development Plasticity Biological Luck
+- [[20260704110132-embodied-geometry-affordance-agency]] : Embodied Geometry Affordance Agency
+- [[20260704110132-esmaeili-cap-brain-twins-2026]] : Esmaeili Cap Brain Twins 2026
+- [[20260704110132-forward-speed-exploration-exploitation]] : Forward Speed Exploration Exploitation
+- [[20260704110132-free-will-theorem-superdeterminism]] : Free Will Theorem Superdeterminism
+- [[20260704110132-godel-mind-penrose-feferman-critique]] : Godel Mind Penrose Feferman Critique
+- [[20260704110132-gwot-neurogeometry]] : Gwot Neurogeometry
+- [[20260704110132-harrison-2026-sgc-homeostatic-plasticity]] : Harrison 2026 Sgc Homeostatic Plasticity
+- [[20260704110132-harrison-2026-sgc-mechanism-ngf-tnfa]] : Harrison 2026 Sgc Mechanism Ngf Tnfa
+- [[20260704110132-harrison-2026-shr-attenuated-glia-plasticity]] : Harrison 2026 Shr Attenuated Glia Plasticity
+- [[20260704110132-harrison-sgc-plasticity-2026]] : Harrison Sgc Plasticity 2026
+- [[20260704110132-hcar-tandem-locus-thermodynamic-governor]] : Hcar Tandem Locus Thermodynamic Governor
+- [[20260704110132-hh-canonical-model-reassessment]] : Hh Canonical Model Reassessment
+- [[20260704110132-hh-parameter-degeneracy-robustness]] : Hh Parameter Degeneracy Robustness
+- [[20260704110132-hh-sensitivity-indices-kinetics]] : Hh Sensitivity Indices Kinetics
+- [[20260704110132-history-of-the-problem]] : History Of The Problem
+- [[20260704110132-huang-co2-arousal-cx26]] : Huang Co2 Arousal Cx26
+- [[20260704110132-korngreen-population-modeling-hh]] : Korngreen Population Modeling Hh
+- [[20260704110132-lactate-bhb-dissociation-scz]] : Lactate Bhb Dissociation Scz
+- [[20260704110132-libet-schurger-veto-intention]] : Libet Schurger Veto Intention
+- [[20260704110132-lorenz-chaos-determinism-predictability]] : Lorenz Chaos Determinism Predictability
+- [[20260704110132-marder-crab-thermal-compensation-homeostasis]] : Marder Crab Thermal Compensation Homeostasis
+- [[20260704110132-mitchell-noble-top-down-causation-agency]] : Mitchell Noble Top Down Causation Agency
+- [[20260704110132-neo-metaphor]] : Neo Metaphor
+- [[20260704110132-niche-construction-ecological-agency]] : Niche Construction Ecological Agency
+- [[20260704110132-non-normal-discrete-continuous-divergence]] : Non Normal Discrete Continuous Divergence
+- [[20260704110132-non-selective-manifold-neurons-driada]] : Non Selective Manifold Neurons Driada
+- [[20260704110132-okuno-2025-fmri-drosophila]] : Okuno 2025 Fmri Drosophila
+- [[20260704110132-okuno-drosophila-2025]] : Okuno Drosophila 2025
+- [[20260704110132-okuno-drosophila-fc-sc-scaling]] : Okuno Drosophila Fc Sc Scaling
+- [[20260704110132-okuno-synaptic-segregation-impact]] : Okuno Synaptic Segregation Impact
+- [[20260704110132-perceptual-sampling-drift-2026]] : Perceptual Sampling Drift 2026
+- [[20260704110132-perceptual-sampling-wasserstein-drift]] : Perceptual Sampling Wasserstein Drift
+- [[20260704110132-pospelov-driada-toolkit-2026]] : Pospelov Driada Toolkit 2026
+- [[20260704110132-primate-sc-v1-visual-processing-2026]] : Primate Sc V1 Visual Processing 2026
+- [[20260704110132-quantum-indeterminacy-decoherence-agency]] : Quantum Indeterminacy Decoherence Agency
+- [[20260704110132-representational-geometry-fidelity-metric]] : Representational Geometry Fidelity Metric
+- [[20260704110132-sapolsky-causal-cascade-biological-determinism]] : Sapolsky Causal Cascade Biological Determinism
+- [[20260704110132-sc-v1-coarse-to-fine-comparison]] : Sc V1 Coarse To Fine Comparison
+- [[20260704110132-schizophrenia-fuel-mismatch-theory]] : Schizophrenia Fuel Mismatch Theory
+- [[20260704110132-schizophrenia-transcriptomic-collapse-2026]] : Schizophrenia Transcriptomic Collapse 2026
+- [[20260704110132-selectivity-manifold-filtering-driada]] : Selectivity Manifold Filtering Driada
+- [[20260704110132-stationary-covariance-spectra-2026]] : Stationary Covariance Spectra 2026
+- [[20260704110132-synthetic-access-mechanistic-surrogates]] : Synthetic Access Mechanistic Surrogates
+- [[20260704110132-zavatone-veth-nonnormal-rnn-covariance]] : Zavatone Veth Nonnormal Rnn Covariance
+- [[20260704110132-zheng-low-rank-adaptation-oscillations]] : Zheng Low Rank Adaptation Oscillations
+- [[20260704110132-zhou-2026-flyvis-geometry]] : Zhou 2026 Flyvis Geometry
+- [[20260704110132-zhou-flyvis-geometry-2026]] : Zhou Flyvis Geometry 2026
+
+## Literature Notes
+- [[20260625120000-kevin-mitchell-free-agents-summary]] : Kevin Mitchell Free Agents Summary
+- [[20260625120000-sapolsky-free-will-summary]] : Sapolsky Free Will Summary

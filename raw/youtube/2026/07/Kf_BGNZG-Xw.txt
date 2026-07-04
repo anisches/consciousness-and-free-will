@@ -1,0 +1,1530 @@
+(node:3714600) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/kanna/.hermes/skills/media/youtube-transcript/scripts/transcript.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/kanna/.hermes/skills/media/youtube-transcript/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[0:00] Can you hear me?
+[0:00] Probably.
+[0:00] Okay.
+[0:00] Um
+[0:00] Yes, okay. We&#39;ve reached a comfy stage
+[0:00] with the audience now. Nobody&#39;s sitting
+[0:00] in the aisles anymore, which
+[0:00] quite a good thing. Uh that means I
+[0:00] frightened a lot of people off
+[0:00] with last week&#39;s lecture.
+[0:00] Well, I&#39;m going to frighten a lot of you
+[0:00] off with this week&#39;s lecture.
+[0:00] Uh because this is the um
+[0:00] the I I&#39;ve decided to bring forward
+[0:00] the proof. The proof was going to be in
+[0:00] next week&#39;s lecture.
+[0:00] Um
+[0:00] but
+[0:00] uh the last lecture, when I looked at
+[0:00] the amount of material to go in, it
+[0:00] seemed to have doubled.
+[0:00] And the lecture that was to have been
+[0:00] this week
+[0:00] was done in a a few minutes at the end
+[0:00] of last week&#39;s.
+[0:00] Uh and so, anyway, it&#39;s impossible to to
+[0:00] sort of pull it forward.
+[0:00] Um
+[0:00] You know, I&#39;m more nervous about this
+[0:00] lecture than I&#39;ve been about any of the
+[0:00] others.
+[0:00] I always believe in letting it all hang
+[0:00] out. I&#39;m quivering inside.
+[0:00] Um
+[0:00] Uh
+[0:00] that&#39;s because I don&#39;t know why it is,
+[0:00] really. Uh
+[0:00] Uh first of all, I&#39;ve been uh
+[0:00] essentially hurried up. I&#39;m not used to
+[0:00] working with slides.
+[0:00] Um and I flash a thing up and then
+[0:00] it&#39;s out, you know, and it would take me
+[0:00] a long time to say it, and I don&#39;t like
+[0:00] just reading off the slide and so on.
+[0:00] Um I&#39;m not used to working with slides.
+[0:00] Uh well, I don&#39;t know. There are various
+[0:00] other things. Um
+[0:00] But anyway, let me let me start, I
+[0:00] think, by summarizing where we&#39;re at. Um
+[0:00] Uh
+[0:00] you know, this uh chalk here
+[0:00] reminds me
+[0:00] of a lecture I gave in Moscow many years
+[0:00] ago. They had pieces of chalk
+[0:00] that were square sectioned
+[0:00] and fatter than this.
+[0:00] And
+[0:00] moreover, um
+[0:00] they also had in the room I was
+[0:00] lecturing a cloth blackboard
+[0:00] that was just a gigantic
+[0:00] thing on rollers, you know, so that you
+[0:00] push the button and it went another 10
+[0:00] ft higher. You could see the entire
+[0:00] thing on the board. But this chalk
+[0:00] didn&#39;t take terribly well on the cloth.
+[0:00] It was
+[0:00] awful. So, I suppose it takes well here.
+[0:00] Uh so, let me say
+[0:00] uh where we where we were.
+[0:00] Um
+[0:00] Uh
+[0:00] I I&#39;m intending Yes, so as not to get
+[0:00] hurried too much uh to
+[0:00] put the use the slides as summaries of
+[0:00] what I&#39;ve said at the blackboard,
+[0:00] roughly speaking. Um
+[0:00] Uh I don&#39;t know how well it&#39;ll work. Um
+[0:00] So, what did we have?
+[0:00] Uh well, last week
+[0:00] Well, no, maybe maybe not. Uh
+[0:00] So far, the story so far.
+[0:00] Well, I&#39;m not going to describe the bits
+[0:00] that aren&#39;t directly relevant. I had a
+[0:00] sort of survey of um
+[0:00] of what various philosophers thought
+[0:00] about free will in the first lecture.
+[0:00] But uh we had the KS paradox.
+[0:00] That stands for Kochen and Specker.
+[0:00] I&#39;ll remind you roughly of of what that
+[0:00] was. I&#39;m supposing that you have been to
+[0:00] the previous
+[0:00] talks. Anybody who&#39;s here
+[0:00] you know, just for the nonce has to sort
+[0:00] of
+[0:00] take their chances. Um
+[0:00] Uh I defined a certain set
+[0:00] of 33 directions
+[0:00] through the center of this cube.
+[0:00] And here are nine of them.
+[0:00] They&#39;re the same as the opposite
+[0:00] directions. You&#39;re You&#39;re to imagine
+[0:00] when I draw a dot here, it connects to
+[0:00] the center of the cube.
+[0:00] Uh so, there&#39;s another set of nine such
+[0:00] things
+[0:00] up there. I&#39;m only sketching it.
+[0:00] And then
+[0:00] there are the 12 edges of the cube. But
+[0:00] since everything counts the same as its
+[0:00] antipodal point, uh let me just draw one
+[0:00] line.
+[0:00] I&#39;ll draw this green line from this dot
+[0:00] to that dot
+[0:00] so you understand that how the these
+[0:00] dots represent lines.
+[0:00] Um the KS paradox says
+[0:00] on the one hand, it&#39;s uh a rule
+[0:00] of uh
+[0:00] quantum mechanics, this which we call
+[0:00] the spin law
+[0:00] or the 101 law
+[0:00] which says that if ever you have three
+[0:00] mutually perpendicular directions,
+[0:00] uh you can ask your particle what its
+[0:00] spin is, officially squared component of
+[0:00] spin is, in those three directions. I&#39;ll
+[0:00] draw another one, by the way, while
+[0:00] we&#39;re here.
+[0:00] I&#39;ll draw another one. It needs another
+[0:00] color.
+[0:00] Um
+[0:00] You can ask a particle what its spin is
+[0:00] in those three directions, and you
+[0:00] always get two ones and a zero.
+[0:00] And the Kochen-Specker paradox is
+[0:00] uh
+[0:00] you&#39;d think
+[0:00] the particle, you know, that the natural
+[0:00] thing to do is to think that the
+[0:00] particle responds with what its spin
+[0:00] actually is in the direction you ask it.
+[0:00] But it turns out that that cannot be
+[0:00] because um
+[0:00] uh there isn&#39;t a way of labeling these
+[0:00] with ones and zeros that satisfies this
+[0:00] 101 law.
+[0:00] And uh so, a consistent set of answers
+[0:00] doesn&#39;t exist. And that means
+[0:00] Well, I I described it roughly as saying
+[0:00] that the particle is making up its
+[0:00] answers on the fly.
+[0:00] Um
+[0:00] Uh in fact, uh one can&#39;t really say
+[0:00] that, and
+[0:00] or or at least at least we won&#39;t be able
+[0:00] to say that until the end of this
+[0:00] lecture. It
+[0:00] What we can say is
+[0:00] that it&#39;s the Whatever it answers is not
+[0:00] just a function of the direction.
+[0:00] There is no function of the direction
+[0:00] uh with this 101 property.
+[0:00] Um
+[0:00] Let me make it clear what function
+[0:00] means. It&#39;s something that for every
+[0:00] direction, in this case, assigns a
+[0:00] number one or zero.
+[0:00] Um Okay. That&#39;s the KS paradox.
+[0:00] And uh then
+[0:00] there&#39;s relativity
+[0:00] which was the subject of
+[0:00] relativity.
+[0:00] This, by the way, was lecture two.
+[0:00] Here&#39;s lecture three,
+[0:00] which was last week, relativity
+[0:00] and
+[0:00] the fin axiom.
+[0:00] Uh and the fin axiom, it basically Fin
+[0:00] stands for finite. It basically says you
+[0:00] can&#39;t transmit information
+[0:00] at more than a finite speed, and that
+[0:00] speed is the speed of light.
+[0:00] Um
+[0:00] But it&#39;s really important to realize
+[0:00] that that&#39;s not just an arbitrary sort
+[0:00] of dogma.
+[0:00] You know, the great Einstein didn&#39;t just
+[0:00] say that, and then everybody&#39;s got to
+[0:00] believe it from then on.
+[0:00] Uh
+[0:00] If you What uh he really said is that
+[0:00] uh physics is invariant under certain
+[0:00] symmetries.
+[0:00] And I had a little model for those
+[0:00] symmetries last week. Um
+[0:00] And uh
+[0:00] if two points are spatially separated,
+[0:00] that means uh they&#39;re such a time that
+[0:00] theoretically it would require more than
+[0:00] the speed of light to get from one to
+[0:00] the other. Two points of space-time are
+[0:00] spatially separated.
+[0:00] Uh then it&#39;s uh
+[0:00] uh you can regard either of them as
+[0:00] happening before the other. A point of
+[0:00] space-time is a point of space at a
+[0:00] particular time.
+[0:00] Um well,
+[0:00] uh space-time doesn&#39;t have an overall
+[0:00] definition of time.
+[0:00] Uh
+[0:00] I showed you that if you make your
+[0:00] clocks tick
+[0:00] when they pass half at hyperbolas
+[0:00] instead of straight lines, that&#39;s
+[0:00] obviously consistent,
+[0:00] and yet different people see different
+[0:00] events in different orders.
+[0:00] Uh but then there was also EPR.
+[0:00] This was going to be in
+[0:00] lecture four,
+[0:00] but I pulled it back into lecture three.
+[0:00] So, I didn&#39;t say very much about it. Um
+[0:00] but
+[0:00] uh the EPR, Einstein-Podolsky-Rosen
+[0:00] paradox, or whatever it is, and the twin
+[0:00] axiom.
+[0:00] And that says
+[0:00] that it&#39;s possible to put two particles
+[0:00] uh
+[0:00] into a a really special state. It&#39;s
+[0:00] actually called the singleton state.
+[0:00] And then spatially separate them.
+[0:00] So that if you ask them the same
+[0:00] questions,
+[0:00] uh they&#39;ll give you the same answers.
+[0:00] Now, a question is just
+[0:00] what is your component of spin, your
+[0:00] squared component of spin in a given
+[0:00] direction.
+[0:00] Um
+[0:00] And uh that&#39;s also
+[0:00] This These two
+[0:00] properties, the spin and twin axioms,
+[0:00] uh come from quantum mechanics and are
+[0:00] therefore mysterious. Everything about
+[0:00] quantum mechanics, in my view, is
+[0:00] mysterious.
+[0:00] Uh relativity, I understand reasonably
+[0:00] well.
+[0:00] Um but these two,
+[0:00] although they come from quantum
+[0:00] mechanics, have the virtue of being
+[0:00] operationally testable.
+[0:00] Uh
+[0:00] this one isn&#39;t operationally testable,
+[0:00] but on the other hand,
+[0:00] when you take the fin axiom, really
+[0:00] follows from
+[0:00] the kind of the symmetries that physics
+[0:00] has, the Lorentzian symmetries, and uh
+[0:00] they have been,
+[0:00] you know, observationally verified very
+[0:00] much. Okay.
+[0:00] Uh let me try and go over and see
+[0:00] what the first slide says here
+[0:00] after this one.
+[0:00] This geometrical configuration is where
+[0:00] all the those particular directions came
+[0:00] from. Where are we?
+[0:00] Okay.
+[0:00] So, here is the statement of the free
+[0:00] will theorem.
+[0:00] Uh if each experimenter
+[0:00] can freely choose which directions to
+[0:00] measure the spin, officially that should
+[0:00] be squared component of spin,
+[0:00] then the particle&#39;s response is a
+[0:00] similarly free. Now, I&#39;m going to set
+[0:00] the stage.
+[0:00] Uh we have one experimenter
+[0:00] with a
+[0:00] The experimenter is called big A.
+[0:00] Um and his particle is called little A.
+[0:00] Um and uh he&#39;s on Earth.
+[0:00] And therefore, he&#39;s perhaps a bit
+[0:00] better equipped than his colleague on
+[0:00] Mars.
+[0:00] Um and uh he&#39;s going to measure
+[0:00] or well, we just discussed the fact that
+[0:00] measure is actually a bad word for it.
+[0:00] He&#39;s going to observe the squared spin,
+[0:00] squared component of spin, of particle A
+[0:00] in three perpendicular directions
+[0:00] that I&#39;ll call X, Y, Z.
+[0:00] Okay. Um
+[0:00] and uh
+[0:00] so, let&#39;s say A
+[0:00] measures uh I I will use the term
+[0:00] observes
+[0:00] little A
+[0:00] in
+[0:00] three perpendicular, that&#39;s standard
+[0:00] abbreviation for perpendicular,
+[0:00] directions.
+[0:00] X, Y,
+[0:00] Z.
+[0:00] That&#39;s uh that&#39;s the picture on Earth.
+[0:00] And um now, I&#39;m going to waste time by
+[0:00] limping all the way over to the far
+[0:00] blackboard.
+[0:00] Um
+[0:00] and I&#39;ll use the clean one, I think. No,
+[0:00] I won&#39;t, cuz it&#39;s nice to be able to
+[0:00] push it up.
+[0:00] And uh on Mars,
+[0:00] um
+[0:00] uh well, uh we have experimenter
+[0:00] big B
+[0:00] and particle little B.
+[0:00] And experimenter big B measures observes
+[0:00] uh
+[0:00] particle little B
+[0:00] in just one direction.
+[0:00] Which we&#39;ll call W.
+[0:00] Uh
+[0:00] Okay.
+[0:00] So, basically, they&#39;re both going to ask
+[0:00] the particle some questions. A is going
+[0:00] to ask three questions, and we know from
+[0:00] the uh
+[0:00] spin axiom that the three answers will
+[0:00] be 1, 0, and 1 in some order.
+[0:00] Um
+[0:00] Now, uh
+[0:00] why is B just observing his particle in
+[0:00] one direction?
+[0:00] Well, that&#39;s because that&#39;s all we
+[0:00] needed. That&#39;s not a big deal. He could
+[0:00] have observed it in three perpendicular
+[0:00] directions, U, V, and W. And if you want
+[0:00] them to perform the same experiment,
+[0:00] let him do that, but then only take
+[0:00] Let&#39;s throw the first two away.
+[0:00] Not ignore what the answers were for U
+[0:00] and V,
+[0:00] and only record the answer for W.
+[0:00] Okay.
+[0:00] Um
+[0:00] Right. Now, let&#39;s see what
+[0:00] my next slide says.
+[0:00] Uh
+[0:00] Uh oh, by the way, yes. Oh, well, I
+[0:00] think this gets said.
+[0:00] Okay, well, if uh
+[0:00] what does free mean? Oh, yes. So, look,
+[0:00] if each experimenter can freely choose
+[0:00] which directions, I&#39;m going to suppose
+[0:00] that
+[0:00] A
+[0:00] can
+[0:00] freely choose.
+[0:00] Well, now, now I&#39;m going to suppose that
+[0:00] X, Y, and Z
+[0:00] uh
+[0:00] uh
+[0:00] are one of
+[0:00] 40 particular triples.
+[0:00] Um in this
+[0:00] uh configuration
+[0:00] here,
+[0:00] uh there are 33 directions.
+[0:00] I&#39;m just going to write that.
+[0:00] Uh
+[0:00] W
+[0:00] will be
+[0:00] one
+[0:00] of
+[0:00] Let&#39;s Let&#39;s say the
+[0:00] 33
+[0:00] directions.
+[0:00] And what I mean by that,
+[0:00] I mean, there are 33
+[0:00] uh directions,
+[0:00] uh counting anti-parallel directions as
+[0:00] the as the same. There are 33 directions
+[0:00] in here. But there are also,
+[0:00] essentially, there are 40 triples of
+[0:00] three orthogonal directions in there.
+[0:00] That&#39;s not actually quite true.
+[0:00] Uh there are some pairs of orthogonal
+[0:00] directions for which we didn&#39;t
+[0:00] have the third one. Well, we just added
+[0:00] and then we get 40 triples in there.
+[0:00] Uh so, this is a voluntary renunciation.
+[0:00] I&#39;m going to say
+[0:00] um
+[0:00] you know, A
+[0:00] will choose
+[0:00] X, Y, Z to be
+[0:00] one of the 40 triples uh
+[0:00] in
+[0:00] in this slightly extended sense.
+[0:01] The Peres
+[0:01] configuration.
+[0:01] And in case you&#39;re wondering what the
+[0:01] Peres configuration is, it&#39;s the thing
+[0:01] mentioned over there.
+[0:01] And B similarly chooses one of the
+[0:01] directions. And now,
+[0:01] uh
+[0:01] what we&#39;re going to sort of suppose is
+[0:01] it&#39;s possible each experimenter
+[0:01] has to make a decision. For one of the
+[0:01] experimenters,
+[0:01] he has to choose one of 40 buttons to
+[0:01] press.
+[0:01] The other experimenter has to choose one
+[0:01] of 33 buttons to press. And I&#39;m
+[0:01] supposing they can press whichever they
+[0:01] like.
+[0:01] That that decision as to what button
+[0:01] they press is not forced from the
+[0:01] beginning of time.
+[0:01] The I&#39;m supposing free will.
+[0:01] It&#39;s conceivable that we don&#39;t have free
+[0:01] will. In this case, this hypothesis is
+[0:01] not fulfilled.
+[0:01] But if it is, uh if it is, then the
+[0:01] particle&#39;s responses are free. And what
+[0:01] does free mean?
+[0:01] Well,
+[0:01] it means the same thing for experimenter
+[0:01] and particle.
+[0:01] The free means that it&#39;s not a function
+[0:01] of the past history of the universe.
+[0:01] And I use function in the mathematical
+[0:01] term. You can say it&#39;s not determined by
+[0:01] the entire past history of the universe.
+[0:01] Okay. Now, I&#39;ve mentioned the spin
+[0:01] axiom.
+[0:01] Um
+[0:01] Okay.
+[0:01] And I&#39;ve mentioned the fin axiom.
+[0:01] Um now, the fin axiom is a little bit
+[0:01] contentious because it says there&#39;s a
+[0:01] finite upper bound
+[0:01] to the speed at which any information
+[0:01] can be transmitted by any means
+[0:01] whatsoever.
+[0:01] And we don&#39;t know all the means of
+[0:01] transmitting information, and I rather
+[0:01] suspect we never will.
+[0:01] Uh so, but later on,
+[0:01] we&#39;ll analyze what we actually use and
+[0:01] in some detail, and that&#39;s
+[0:01] uh only a very small part of of this
+[0:01] information. And what it amounts to
+[0:01] saying, this min axiom, you won&#39;t
+[0:01] understand it if I tell it you now.
+[0:01] Uh but what it means is
+[0:01] essentially
+[0:01] that
+[0:01] A cannot guess
+[0:01] what B&#39;s or cannot determine what B&#39;s
+[0:01] free will
+[0:01] decision is going to be.
+[0:01] And B can&#39;t determine what A&#39;s free will
+[0:01] decision is going to be.
+[0:01] And the real reason for that is the
+[0:01] symmetry of physics.
+[0:01] You can choose a coordinate frame in
+[0:01] which A&#39;s experiment comes before B&#39;s.
+[0:01] And not only A&#39;s experiment, but
+[0:01] particle little A&#39;s response to the
+[0:01] experiment
+[0:01] comes before
+[0:01] B&#39;s experiment completely.
+[0:01] And um
+[0:01] so, you know, it comes before that, so B
+[0:01] is still free to choose in in that
+[0:01] uh
+[0:01] coordinate frame.
+[0:01] And uh so, we can&#39;t possibly
+[0:01] work out what B is going to do.
+[0:01] But the situation is symmetrical. Uh
+[0:01] there there&#39;s another coordinate frame
+[0:01] in which uh B&#39;s experiment it before
+[0:01] A&#39;s. And men makes that very clear.
+[0:01] Okay.
+[0:01] And now um
+[0:01] uh EPR twinning
+[0:01] um
+[0:01] uh which I already mentioned on the
+[0:01] blackboard.
+[0:01] Um
+[0:01] Twin spin one particles will give the
+[0:01] same answers if asked the same
+[0:01] questions.
+[0:01] Now, um
+[0:01] let me just turn this
+[0:01] thing off for a moment.
+[0:01] Good.
+[0:01] Then we&#39;re not distracted by that.
+[0:01] Um this seems at first to be something
+[0:01] inconsistent
+[0:01] about this. Do you remember I told the
+[0:01] story of uh my playing 20 questions with
+[0:01] my sisters? Um
+[0:01] and then I was free really to invent a
+[0:01] new object whenever I wanted to,
+[0:01] provided I was clever enough to make it
+[0:01] have the same answers
+[0:01] as the original object to all the
+[0:01] uh
+[0:01] pre-existing questions.
+[0:01] Um
+[0:01] Many people see a sort of contradiction
+[0:01] between these two.
+[0:01] Um if I
+[0:01] So, let me tell you what it is now. If
+[0:01] if my sisters, who
+[0:01] were quite forthright aggressive girls,
+[0:01] locked me and my twin brother in
+[0:01] separate rooms
+[0:01] um and made us promise to give the same
+[0:01] answers if asked the same questions,
+[0:01] then we couldn&#39;t easily change our
+[0:01] object, could we? I mean, uh you know, I
+[0:01] I begin to sense they&#39;re getting near,
+[0:01] I change the object, but how do I tell
+[0:01] my twin brother?
+[0:01] Uh you know, I can&#39;t change the object
+[0:01] um without communicating
+[0:01] to him
+[0:01] what I&#39;m going to do or something,
+[0:01] you know? And um
+[0:01] And there seems to be the same sort of
+[0:01] problem with the two separated particles
+[0:01] in the EPR thing. These particles
+[0:01] promise to give the same answers. It&#39;s a
+[0:01] law of physics
+[0:01] that they will give the same answers if
+[0:01] asked the same questions.
+[0:01] Um
+[0:01] and
+[0:01] uh
+[0:01] Okay, but on the other hand, the answers
+[0:01] aren&#39;t determined ahead of time. That&#39;s
+[0:01] what the chaos paradox
+[0:01] shows.
+[0:01] Um
+[0:01] So, or the answer is anyway, it doesn&#39;t
+[0:01] depend on just on direction.
+[0:01] Um
+[0:01] So, doesn&#39;t that imply some kind of
+[0:01] communication
+[0:01] between the two particles?
+[0:01] Well, no, it doesn&#39;t really. I mean,
+[0:01] first of all, communication between
+[0:01] particles,
+[0:01] what&#39;s that? I mean,
+[0:01] you know, I can communicate with a
+[0:01] person. How can I communicate with a
+[0:01] particle? Or how can one particle
+[0:01] communicate with another? What does it
+[0:01] mean?
+[0:01] Uh all we have any right to assert is
+[0:01] what&#39;s stated
+[0:01] in the twin axiom, they will give the
+[0:01] same answers.
+[0:01] That&#39;s a very puzzling thing. I have no
+[0:01] idea how they do it.
+[0:01] Um but uh in case you think uh may Oh,
+[0:01] this is often explained in popular
+[0:01] uh expositions of of physics.
+[0:01] Uh
+[0:01] the EPR uh problem is discussed all over
+[0:01] the place.
+[0:01] Uh and it&#39;s often stated that
+[0:01] you know, A observes his particle
+[0:01] and uh in say direction,
+[0:01] whatever this is, and it gives the
+[0:01] answer one.
+[0:01] And then uh immediately
+[0:01] we know that if B observes his particle
+[0:01] in the same direction, these were
+[0:01] supposed to be parallel, it will give
+[0:01] the answer one. But,
+[0:01] this answer was not determined ahead of
+[0:01] time.
+[0:01] So, people think, ah, the particle
+[0:01] little A must communicate with little B
+[0:01] to arrange to give it this answer.
+[0:01] And you often see the phrase
+[0:01] instantaneous.
+[0:01] We know instantaneously maybe
+[0:01] what uh particle B
+[0:01] uh will give. As soon as we&#39;ve measured
+[0:01] A, we don&#39;t know we we can show we don&#39;t
+[0:01] know what A will be.
+[0:01] That&#39;s the chaos paradox. But as soon as
+[0:01] we&#39;ve measured it, we know what B will
+[0:01] be, even though, you know, ahead of time
+[0:01] that wasn&#39;t determined. That&#39;s a
+[0:01] statement about our knowledge.
+[0:01] That&#39;s not a statement about the
+[0:01] particle.
+[0:01] And um
+[0:01] uh the real answer is we don&#39;t use that
+[0:01] language because there&#39;s no meaning to
+[0:01] the phrase no invariant meaning to the
+[0:01] phrase
+[0:01] transmitting this information
+[0:01] instantaneously.
+[0:01] There&#39;s no concept of simultaneity
+[0:01] at large distances.
+[0:01] So,
+[0:01] so we must not use that expression.
+[0:01] That&#39;s all.
+[0:01] Uh because physics does appear to be
+[0:01] invariant under the Lorentzian
+[0:01] symmetries, and in the Lorentzian
+[0:01] symmetries, it&#39;s not determined which
+[0:01] comes first.
+[0:01] Now, what is actually statable
+[0:01] and true is
+[0:01] that if
+[0:01] and when both experiments have been
+[0:01] performed,
+[0:01] they&#39;ll give the same answer.
+[0:01] That&#39;s a correlation
+[0:01] between two different
+[0:01] things, distant things. That correlation
+[0:01] is a rather peculiar thing. That
+[0:01] correlation can subsist without the
+[0:01] answers being determined.
+[0:01] Okay. That&#39;s You may find that hard to
+[0:01] understand. Everybody found that hard to
+[0:01] understand.
+[0:01] People are still uh inventing theories
+[0:01] which, you know, run contrary to that.
+[0:01] But there can be no justification
+[0:01] for saying that anything is
+[0:01] instantaneously transmitted
+[0:01] because that&#39;s a non-relativistically
+[0:01] invariant statement, and physics is
+[0:01] relativistically invariant. So, one
+[0:01] cannot say that even if one would like
+[0:01] to.
+[0:01] It&#39;s true.
+[0:01] You see, here here is the thing. It&#39;s
+[0:01] true now,
+[0:01] I know here that if at some later time,
+[0:01] which is later,
+[0:01] this is later,
+[0:01] that if it&#39;s if at some later time,
+[0:01] B observes his particle in this
+[0:01] direction,
+[0:01] he&#39;ll get the same answer as I did.
+[0:01] Um
+[0:01] But
+[0:01] so that would And if, you know, there&#39;s
+[0:01] a there&#39;s some transmission going on
+[0:01] maybe, you would think.
+[0:01] Oh, no, but it can&#39;t be because I
+[0:01] equally know
+[0:01] that if B did his observation yesterday,
+[0:01] well, or 5 minutes ago,
+[0:01] uh
+[0:01] then he&#39;d already got this answer. No
+[0:01] information can possibly be transmitted
+[0:01] in this direction
+[0:01] because it doesn&#39;t help if B&#39;s
+[0:01] experiment was already performed.
+[0:01] And uh similarly the other way around.
+[0:01] This fact that
+[0:01] uh
+[0:01] that the time order
+[0:01] of two events
+[0:01] is relative to your coordinate frame
+[0:01] stops those statements from being
+[0:01] meaningful.
+[0:01] But it still is meaningful. So, let me
+[0:01] say if if B did it uh
+[0:01] which which way around? If B did it uh 1
+[0:01] minute ago, he got this answer before I
+[0:01] did.
+[0:01] Uh if B did it 1 minute in the future,
+[0:01] he&#39;ll get that answer
+[0:01] uh
+[0:01] after I did, so to speak. If B did it
+[0:01] now, if you instantaneously with me,
+[0:01] he&#39;d get the same answer.
+[0:01] Those statements are all slightly
+[0:01] illegitimate
+[0:01] because I said if B did it 1 minute ago.
+[0:01] Well, with respect to my coordinate
+[0:01] system.
+[0:01] Um
+[0:01] the true coordinate system
+[0:01] is
+[0:01] that
+[0:01] when both experiments will have been
+[0:01] performed,
+[0:01] they will have given the same answer.
+[0:01] That&#39;s meaningful.
+[0:01] That&#39;s invariant.
+[0:01] Uh and no
+[0:01] restatement of that involving
+[0:01] information transmission is invariant.
+[0:01] I&#39;m sorry that took a long time
+[0:01] for
+[0:01] me to explain.
+[0:01] Uh Oh, I want to put this
+[0:01] thing
+[0:01] on again.
+[0:01] Oops.
+[0:01] Did it go on? No.
+[0:01] Oh,
+[0:01] I pressed the wrong I pressed that
+[0:01] button.
+[0:01] Okay.
+[0:01] Let&#39;s see.
+[0:01] So, I&#39;ve already said this. Experiment A
+[0:01] measures the spin for particle little A
+[0:01] in three perpendicular directions,
+[0:01] and B measures particle little B in just
+[0:01] one direction. Okay. Let me carry on.
+[0:01] Um So, now,
+[0:01] um what I&#39;m going to prove
+[0:01] is what I announced before.
+[0:01] There is no function
+[0:01] of the past of a a given particle
+[0:01] which tells it what to do. There can be
+[0:01] no such functions.
+[0:01] Um
+[0:01] And so, we&#39;re going to suppose
+[0:01] that
+[0:01] there is such a function.
+[0:01] Not quite sure how to state this
+[0:01] function.
+[0:01] Uh let me
+[0:01] come in and sort of
+[0:01] describe the past light cone
+[0:01] here,
+[0:01] and then look at all the universe,
+[0:01] the parts of space time that that are in
+[0:01] the past of this particle.
+[0:01] And uh now what I&#39;m going to do is uh
+[0:01] I&#39;m going to
+[0:01] take Oh, that was meant to be a Z.
+[0:01] Um What I&#39;m going to do is uh
+[0:01] consider all the information that&#39;s in
+[0:01] this in this chunk of the universe.
+[0:01] Well, no, I&#39;m not even going to do that.
+[0:01] No, I&#39;m sorry. I&#39;m going to take an
+[0:01] arbitrary
+[0:01] That&#39;s what we used to do.
+[0:01] I&#39;m going to take an arbitrary
+[0:01] uh coordinate system.
+[0:01] So, time
+[0:01] is increasing. This is just A&#39;s local
+[0:01] time.
+[0:01] Uh it doesn&#39;t mean anything absolutely,
+[0:01] just A&#39;s local time. Time is increasing
+[0:01] in that direction.
+[0:01] And then I&#39;m going to look at this
+[0:01] backward half space
+[0:01] and let alpha
+[0:01] be all the information in there.
+[0:01] Um okay.
+[0:01] Uh I&#39;ll do a similar thing for B
+[0:01] uh in the end. Now,
+[0:01] um
+[0:01] what do we mean? Uh
+[0:01] the
+[0:01] this information you can think of as a
+[0:01] whole lot of naughts and ones. You can
+[0:01] code information in bits. Um
+[0:01] I&#39;m just going to take a typical bit
+[0:01] here, but we&#39;re going to say the same
+[0:01] thing. So, I&#39;m going to suppose
+[0:01] that
+[0:01] uh particle little A&#39;s response
+[0:01] uh
+[0:01] is
+[0:01] a function.
+[0:01] Uh and let&#39;s uh I&#39;m actually going to
+[0:01] call it little A
+[0:01] cuz it&#39;s convenient to think it&#39;s what
+[0:01] little A will answer. So, it it&#39;s
+[0:01] accidentally given the same name as
+[0:01] possible particle little A. And we can
+[0:01] suppose it&#39;s a function of X Y Z.
+[0:01] That&#39;s reasonable to suppose it&#39;s a
+[0:01] function of X Y Z and of alpha.
+[0:01] Um this past information here.
+[0:01] Uh
+[0:01] actually I want to move that right
+[0:01] parenthesis a little bit.
+[0:01] Um now,
+[0:01] uh
+[0:01] is it a function of W?
+[0:01] You know, does it vary with W?
+[0:01] Well, I don&#39;t know.
+[0:01] But, you know,
+[0:01] um
+[0:01] in in mathematics, we can take um
+[0:01] say the number one to be a function of
+[0:01] X.
+[0:01] There&#39;s a function of X called the
+[0:01] constant function. It takes the value
+[0:01] one.
+[0:01] So, whether this function varies with W
+[0:01] or not,
+[0:01] this is a clever trick, rather subtle,
+[0:01] whether it varies with W or not, I can
+[0:01] throw W in as a new argument,
+[0:01] which might be There might be no
+[0:01] dependence on it, but it&#39;s anyway. That
+[0:01] allows me certain things.
+[0:01] Um okay. And now,
+[0:01] the question uh that arises now is
+[0:01] um
+[0:01] can
+[0:01] an information bit
+[0:01] alpha
+[0:01] vary
+[0:01] with
+[0:01] X Y Z
+[0:01] and W?
+[0:01] You know,
+[0:01] um
+[0:01] well, if it does, so to speak, I&#39;ll call
+[0:01] it bad.
+[0:01] And if it doesn&#39;t,
+[0:01] I&#39;ll call it good.
+[0:01] Um and we have, by the way, over here a
+[0:01] very similar picture.
+[0:01] Uh
+[0:01] here is
+[0:01] Oh, yes, it&#39;s quite important that uh
+[0:01] B&#39;s
+[0:01] chosen coordinate frame in which the
+[0:02] behavior is functional might not be the
+[0:02] same as as A&#39;s. So, these are slanting
+[0:02] in different directions.
+[0:02] B&#39;s time,
+[0:02] which I suppose I might call T prime,
+[0:02] uh
+[0:02] increases
+[0:02] in a different way to A&#39;s.
+[0:02] Um but that we&#39;re going to do the same
+[0:02] thing. The B&#39;s response is going to be B
+[0:02] of
+[0:02] Well, it might not vary with X Y and Z.
+[0:02] It probably does vary with W, but even
+[0:02] if it doesn&#39;t vary with X Y and Z, I can
+[0:02] throw them in as new arguments.
+[0:02] And now, we have
+[0:02] beta,
+[0:02] where beta
+[0:02] So, what we
+[0:02] Beta is all the information
+[0:02] in the past half of the universe.
+[0:02] Um
+[0:02] Well,
+[0:02] uh
+[0:02] I raised this bugbear of the possibility
+[0:02] of information
+[0:02] that varies.
+[0:02] Uh well,
+[0:02] if it does,
+[0:02] uh call it gamma
+[0:02] and reserve alpha for this kind. So,
+[0:02] what I&#39;m going to do now is I&#39;m going to
+[0:02] split these information bits into two
+[0:02] types.
+[0:02] The
+[0:02] alpha will now mean only the ones that
+[0:02] are good, that don&#39;t vary with X Y and Z
+[0:02] and W.
+[0:02] Um and then I&#39;m going to do a similar
+[0:02] thing. Let me limp over there
+[0:02] uh with
+[0:02] uh
+[0:02] beta.
+[0:02] I split it into two types,
+[0:02] good and bad, so to speak.
+[0:02] Well, can it vary?
+[0:02] Well, if so,
+[0:02] here&#39;s here&#39;s what to do.
+[0:02] Um
+[0:02] Uh I&#39;ll I&#39;ll continue this blackboard
+[0:02] over here.
+[0:02] Replace
+[0:02] gamma
+[0:02] by
+[0:02] gamma one,
+[0:02] gamma two,
+[0:02] to gamma 1,320.
+[0:02] Well, let me tell you what 1,320 is.
+[0:02] That&#39;s 33 uh 40
+[0:02] times 33.
+[0:02] Um
+[0:02] which are
+[0:02] the values
+[0:02] um
+[0:02] uh or let&#39;s say its values
+[0:02] um uh
+[0:02] uh 40
+[0:02] times 33
+[0:02] quadruples. Remember, X Y Z
+[0:02] is chosen
+[0:02] from one of 40 possibilities,
+[0:02] and uh W is chosen from one of 33. So,
+[0:02] altogether, there are most that number
+[0:02] of possibilities. Now, these don&#39;t vary.
+[0:02] These are constants. This is This is the
+[0:02] value it would have
+[0:02] for the first quadruple.
+[0:02] Whether it&#39;s going to be asked the first
+[0:02] quadruple or not
+[0:02] is unimportant.
+[0:02] Uh it would have this value because
+[0:02] we&#39;re supposing it&#39;s functional.
+[0:02] We can say in the presence of the
+[0:02] function, we can say what it would have
+[0:02] been if we&#39;d done something else.
+[0:02] That&#39;s what you can&#39;t do in real life.
+[0:02] Since we are supposing that it&#39;s given
+[0:02] by a function,
+[0:02] we can say what it would have been if we
+[0:02] had any one of these. And now, its value
+[0:02] on the first quadruple is a constant.
+[0:02] It doesn&#39;t vary with the quadruple. Even
+[0:02] if we&#39;re asking about the 77th
+[0:02] quadruple,
+[0:02] gamma one means the value on the first
+[0:02] quadruple.
+[0:02] These
+[0:02] are
+[0:02] good bits.
+[0:02] Good information bits.
+[0:02] So,
+[0:02] they&#39;re among
+[0:02] the alpha.
+[0:02] Okay, that&#39;s a clever trick. A rather
+[0:02] dirty trick,
+[0:02] though I say it myself, but a clever
+[0:02] trick. So, that means
+[0:02] we can replace
+[0:02] any bad information bit
+[0:02] by a finite number of good information
+[0:02] bits. And they&#39;re all good either there
+[0:02] This was supposed to be all the good
+[0:02] information bits. And over there, when I
+[0:02] can bother to go there,
+[0:02] um we&#39;ll do a similar thing.
+[0:02] I think I&#39;ll do it now.
+[0:02] Wait a moment.
+[0:02] Okay, well, so we&#39;ve named all of those.
+[0:02] Uh
+[0:02] I&#39;ll leave that up a bit while I go over
+[0:02] here, so you can read it.
+[0:02] Um
+[0:02] So, now,
+[0:02] uh beta doesn&#39;t vary with the X Y Z and
+[0:02] W.
+[0:02] Now, uh
+[0:02] what what I want to do is uh choose
+[0:02] an instant.
+[0:02] An instant does mean something here. It
+[0:02] means in the sense of
+[0:02] this time. Choose an instant uh when
+[0:02] B
+[0:02] is just about
+[0:02] to
+[0:02] uh
+[0:02] to pick, say,
+[0:02] uh I&#39;ve already read the used the word
+[0:02] choose in the sentence, to pick a W.
+[0:02] Snap.
+[0:02] I mean,
+[0:02] uh we&#39;ve now got Let&#39;s call it beta
+[0:02] naught
+[0:02] equals state
+[0:02] of
+[0:02] the past
+[0:02] at this time. What I What I think of
+[0:02] doing
+[0:02] is uh
+[0:02] taking out my old Kodak camera or
+[0:02] something on my brownie box camera and
+[0:02] snapping the universe fixed at that
+[0:02] particular time. Well, it&#39;s not at that
+[0:02] time. It&#39;s the state of the past at that
+[0:02] time. So, here it is now.
+[0:02] And I&#39;m going to
+[0:02] just
+[0:02] uh
+[0:02] concentrate on this. Now, um
+[0:02] Uh these betas are independent of XYZ
+[0:02] and W.
+[0:02] Okay? So,
+[0:02] this same beta naught here, the same
+[0:02] past could work for any XYZ and W.
+[0:02] Um
+[0:02] But, I&#39;m going to uh to sort of remark
+[0:02] that uh
+[0:02] beta naught
+[0:02] uh how can I say it?
+[0:02] Uh
+[0:02] that
+[0:02] uh
+[0:02] this
+[0:02] is actually uh independent
+[0:02] of XYZ.
+[0:02] Um
+[0:02] And it&#39;s independent of XYZ
+[0:02] uh because in a suitable frame
+[0:02] uh XYZ and are yet to be determined.
+[0:02] I I I will come back and say something
+[0:02] about that in a moment.
+[0:02] Um let me see what was said on the
+[0:02] slides about that.
+[0:02] Okay, there&#39;s a value of beta, say beta
+[0:02] naught, which that thing is defined. I
+[0:02] suppose I should give you time to read
+[0:02] it.
+[0:02] Um
+[0:02] Well, now let me
+[0:02] uh Have I given you time enough to read
+[0:02] it? I will count 15 seconds from now.
+[0:02] Um
+[0:02] uh in a I&#39;m really quite excited to see
+[0:02] what&#39;s next cuz I&#39;ve forgotten what&#39;s
+[0:02] next.
+[0:02] Well, I can&#39;t wait 15 seconds. That was
+[0:02] 10.
+[0:02] Um So, um
+[0:02] Yes, that reminds me. Uh
+[0:02] when I was first lecturing to students
+[0:02] in Cambridge
+[0:02] um
+[0:02] I got a bit disturbed by the fact that
+[0:02] they wouldn&#39;t ask questions.
+[0:02] And um
+[0:02] so, I instituted this thing whereby I
+[0:02] said, &quot;I&#39;m going to wait
+[0:02] for 1 minute every quarter of an hour or
+[0:02] until somebody asks a question.&quot;
+[0:02] I then learned how long 1 minute was.
+[0:02] It&#39;s It&#39;s a tremendously long time. And
+[0:02] you know, those students did not say a
+[0:02] thing during that uh minute. So, you
+[0:02] know, the half hour point I did the same
+[0:02] thing and then I think somebody did
+[0:02] hesitantly raise their hand.
+[0:02] Okay. Uh So, I&#39;ve already said that. Oh,
+[0:02] yes, the important thing is now
+[0:02] we&#39;re going to do an experiment. B is
+[0:02] going to do an experiment after he
+[0:02] chooses W. This experiment&#39;s going to
+[0:02] take a very short time.
+[0:02] Uh he&#39;s going to choose W. Sorry, not
+[0:02] after the instant I mentioned over
+[0:02] there. He&#39;s going to choose W. That&#39;s a
+[0:02] free will decision
+[0:02] that the physiologist takes tells us
+[0:02] that it takes about a tenth of a second.
+[0:02] And then the equipment has to be
+[0:02] reorganized, but that takes very very
+[0:02] small time. So, we&#39;re still talking
+[0:02] about this tenth of a second.
+[0:02] Okay, but anyway, here is the same beta
+[0:02] naught working.
+[0:02] Uh here&#39;s B&#39;s response.
+[0:02] Um
+[0:02] Okay. Oh, I&#39;m sorry. No, I went back to
+[0:02] the previous thing.
+[0:02] Now,
+[0:02] uh it can&#39;t depend on XYZ.
+[0:02] Uh that&#39;s because it&#39;s got to give Yes,
+[0:02] it&#39;s not explained terribly well here.
+[0:02] It&#39;s got to give the same answer
+[0:02] as A&#39;s experiment
+[0:02] um if W is among the XYZ.
+[0:02] Um
+[0:02] But, there&#39;s some frames in which XYZ
+[0:02] are only chosen after B&#39;s response. So,
+[0:02] it&#39;s a function only of the direction.
+[0:02] So,
+[0:02] I I think I haven&#39;t explained that
+[0:02] terribly well.
+[0:02] Uh but, I&#39;m going to
+[0:02] proceed onward.
+[0:02] This thing
+[0:02] can&#39;t depend on XYZ. It was always
+[0:02] rather implausible that they did because
+[0:02] XYZ are being chosen over on Earth.
+[0:02] And by the way, Earth and Mars are 5
+[0:02] minutes five light minutes apart. We&#39;ll
+[0:02] suppose that they&#39;re doing the
+[0:02] experiment within 1 minute of each other
+[0:02] in some universal frame. It doesn&#39;t very
+[0:02] much matter what that frame is.
+[0:02] Um So, that&#39;s definitely they&#39;re doing.
+[0:02] Now, you see, let&#39;s look at this.
+[0:02] Ah, this is fantastic. Uh now
+[0:02] this function, which is uh well, let&#39;s
+[0:02] say
+[0:02] Let me um
+[0:02] uh
+[0:02] This is independent and
+[0:02] uh so
+[0:02] is
+[0:02] now
+[0:02] a function
+[0:02] just of W.
+[0:02] Beta naught is a constant. Beta naught
+[0:02] is the state of the universe or the
+[0:02] state of the past of the universe at
+[0:02] some point when
+[0:02] uh B is about to choose a certain
+[0:02] direction.
+[0:02] Uh but, now we&#39;ve we&#39;ve we&#39;ve reduced
+[0:02] So, that&#39;s a constant.
+[0:02] XYZ It doesn&#39;t depend on. It doesn&#39;t
+[0:02] vary with. So, this is just a function
+[0:02] of W.
+[0:02] That&#39;s amazing.
+[0:02] Now, what did we prove? There wasn&#39;t a
+[0:02] function just of direction
+[0:02] which satisfied the 101 law.
+[0:02] Uh so, let&#39;s uh let&#39;s go and see why
+[0:02] uh we&#39;ve got a contradiction now.
+[0:02] Um
+[0:02] Uh
+[0:02] Okay, so
+[0:02] let&#39;s see what happens here.
+[0:02] Um
+[0:02] There&#39;s
+[0:02] a similarly to be said, namely
+[0:02] um
+[0:02] This is
+[0:02] similarly
+[0:02] Well, we can choose an alpha naught
+[0:02] when uh A is just about So, let&#39;s say
+[0:02] similarly let&#39;s say specialize
+[0:02] alpha naught to be a instant when in
+[0:02] A&#39;s time frame
+[0:02] when A is just about to choose XYZ
+[0:02] and uh
+[0:02] then let&#39;s remark that this cannot
+[0:02] depend on W for the sort of mirror image
+[0:02] reason why that couldn&#39;t depend on XYZ.
+[0:02] Um and then let&#39;s say
+[0:02] uh
+[0:02] I&#39;ll continue on to this black Oh, I&#39;ll
+[0:02] continue on to this blackboard.
+[0:02] Uh
+[0:02] Let me say and conclude
+[0:02] that
+[0:02] A&#39;s response
+[0:02] are
+[0:02] But, what is A&#39;s response? A&#39;s response
+[0:02] is a triple.
+[0:02] Uh
+[0:02] So, let me say that.
+[0:02] Which is
+[0:02] uh one of the triples
+[0:02] naught one
+[0:02] one
+[0:02] one naught one
+[0:02] one one naught.
+[0:02] That&#39;s by spin.
+[0:02] It&#39;s one of the triples
+[0:02] that
+[0:02] uh is
+[0:02] Well, let&#39;s say has the form
+[0:02] such a triple. I&#39;m going to call its
+[0:02] first element A1
+[0:02] of
+[0:02] XYZ
+[0:02] XYZ.
+[0:02] I&#39;m going to suppress
+[0:02] Well, maybe I won&#39;t.
+[0:02] A2
+[0:02] of XYZ XYZ
+[0:02] alpha naught
+[0:02] and A3
+[0:02] of XYZ
+[0:02] XYZ
+[0:02] alpha naught.
+[0:02] Um
+[0:02] Now
+[0:02] uh
+[0:02] a function
+[0:02] just
+[0:02] of
+[0:02] XYZ. This is the same kind of thing
+[0:02] that&#39;s happened over there, except that
+[0:02] now
+[0:02] both the arguments and the values of
+[0:02] this are triple.
+[0:02] Okay? This
+[0:02] This is one, this is naught, this is
+[0:02] one, say.
+[0:02] Or it could be naught one one or one one
+[0:02] naught.
+[0:02] Uh but, notice it depends on
+[0:02] uh
+[0:02] all three things. I mean, the first
+[0:02] component of this doesn&#39;t just depend on
+[0:02] X. It might depend on Y and Z as well.
+[0:02] That&#39;s what how we use
+[0:02] the
+[0:02] twin axioms.
+[0:02] Uh So, let me let me sort of summarize
+[0:02] what we&#39;ve been doing.
+[0:02] We
+[0:02] uh we allowed
+[0:02] these responses
+[0:02] to be functions of all four directions
+[0:02] and the past history
+[0:02] of the universe with respect to the
+[0:02] frame.
+[0:02] Um and now we&#39;ve that&#39;s an awful lot of
+[0:02] information. Tremendous amount of
+[0:02] information. And the fight has been to
+[0:02] reduce the amount of information.
+[0:02] Now, we reduce some of it
+[0:02] by just specializing to an instant when
+[0:02] the experiment is about to be performed.
+[0:02] So, we take this snapshot of the
+[0:02] universe
+[0:02] of the past history of the universe at
+[0:03] that time.
+[0:03] And we reduce some more
+[0:03] uh by observing that uh this thing
+[0:03] cannot depend on XYZ and that one cannot
+[0:03] depend on W.
+[0:03] So, the only variable left in the
+[0:03] function over here
+[0:03] is direction. So, that&#39;s a function of
+[0:03] one single direction.
+[0:03] And this is, so to speak, a uh
+[0:03] three functions of three directions.
+[0:03] But now we have the following. I suppose
+[0:03] I can
+[0:03] flip it.
+[0:03] Um you&#39;ll see
+[0:03] if
+[0:03] W should happen to equal X,
+[0:03] let me write that here.
+[0:03] But
+[0:03] if W should happen to equal X,
+[0:03] well, now it&#39;s perfectly possible that W
+[0:03] might be X because
+[0:03] big B is perfectly free to choose W.
+[0:03] Okay? And he&#39;s only choosing from one of
+[0:03] 33 possibilities.
+[0:03] Uh similarly, A is choosing from one of
+[0:03] 40.
+[0:03] Uh it&#39;s perfectly possible W might be
+[0:03] the same thing as X. Okay? So, that can
+[0:03] happen.
+[0:03] Then
+[0:03] we get the B naught of W, which is the
+[0:03] same thing as X or as B naught of X must
+[0:03] be A1
+[0:03] of X, Y,
+[0:03] Z.
+[0:03] I&#39;ll
+[0:03] rub out the dependence on alpha naught.
+[0:03] Alpha naught&#39;s fixed.
+[0:03] So, we don&#39;t have to think about it
+[0:03] anymore.
+[0:03] Um and if W equals Y,
+[0:03] I see that this is written on the slide
+[0:03] and I see that I&#39;m coming closer to
+[0:03] time. So, I I will just uh uh refer you
+[0:03] to the slide. So, we see that A&#39;s
+[0:03] response is actually that thing. Okay?
+[0:03] So, that is given by a certain function
+[0:03] of direction.
+[0:03] And the response to any triple of
+[0:03] directions is the corresponding triple
+[0:03] of values of that function.
+[0:03] Um so, you know, we we know that A&#39;s
+[0:03] response is one of the triples with two
+[0:03] ones and a zero.
+[0:03] And so, B naught of W is a 101 function.
+[0:03] Okay, but what did we prove in the first
+[0:03] lecture? There isn&#39;t a 101 function.
+[0:03] There just isn&#39;t, folks. That cannot
+[0:03] happen. So, even though this thing was
+[0:03] allowed to depend
+[0:03] Oh my.
+[0:03] Somebody&#39;s telephoning me. Oh, I can
+[0:03] walk over there, can&#39;t I?
+[0:03] Um
+[0:03] Some kind of telemarketer.
+[0:03] Um
+[0:03] Uh so, even though this function, you
+[0:03] know, apparently initially depended on
+[0:03] all sorts of fantastic information, we
+[0:03] can recover from it by various dodges.
+[0:03] We can throw away this information. We
+[0:03] can observe that it doesn&#39;t depend on
+[0:03] that information. We can specialize the
+[0:03] other information.
+[0:03] Uh we can uh we can finally produce a
+[0:03] 101 function.
+[0:03] Uh but we can&#39;t do that. So, all of this
+[0:03] nonsense
+[0:03] is just nonsense. Uh the behavior cannot
+[0:03] be functional. It can&#39;t depend even on
+[0:03] all this massive information. We&#39;ve
+[0:03] disproved this functional hypothesis.
+[0:03] And that, of course, proves the free
+[0:03] will theorem.
+[0:03] Uh well, do you remember I said I was
+[0:03] going to ignore
+[0:03] the difference between the time one
+[0:03] chose B to naught and B&#39;s response. It&#39;s
+[0:03] about a tenth of a second.
+[0:03] Uh so, let&#39;s say let me start imagining
+[0:03] now
+[0:03] uh
+[0:03] what happens what might happen
+[0:03] uh
+[0:03] uh that uh
+[0:03] is influenced by the difference between
+[0:03] these things. Um
+[0:03] Well, here it is.
+[0:03] Uh
+[0:03] Here this experiment was supposed to be
+[0:03] performed on Mars.
+[0:03] Okay.
+[0:03] Mars.
+[0:03] And the experiment is somewhere around
+[0:03] here.
+[0:03] Um and now it&#39;s conceivable
+[0:03] that between this instant which I
+[0:03] defined B to naught in terms of
+[0:03] and little B&#39;s the particle little B&#39;s
+[0:03] response is about a tenth of a second
+[0:03] there. It&#39;s conceivable that some new
+[0:03] information bit arrived.
+[0:03] Ah.
+[0:03] Okay. Well, uh
+[0:03] Take a sphere
+[0:03] of radius 20,000 mi.
+[0:03] That new information bit must have
+[0:03] started somewhere in that sphere because
+[0:03] 20,000 mi
+[0:03] is about the distance that light can
+[0:03] travel in a tenth of a second.
+[0:03] Uh that&#39;s quite a lot bigger than Mars.
+[0:03] Mars is between 2 and 3,000 mi across.
+[0:03] And this is radius 20,000 mi.
+[0:03] Still, this is uh let&#39;s measure it in a
+[0:03] different way. This is 1/10 of a second.
+[0:03] And then it looks quite a small circle.
+[0:03] Okay?
+[0:03] Um and here are some new information
+[0:03] bits frantically trying to reach
+[0:03] particle little B
+[0:03] so that it can depend on them.
+[0:03] Uh this is the difference between the
+[0:03] information that was available
+[0:03] at the time we chose B to naught and the
+[0:03] information that was available when uh
+[0:03] particle B responded.
+[0:03] Um now I&#39;m going to draw the same
+[0:03] picture here.
+[0:03] Uh well,
+[0:03] the Earth is rather bigger than Mars.
+[0:03] So, here it is.
+[0:03] But this still Well, this is really
+[0:03] centered on
+[0:03] wherever the experiment is being
+[0:03] performed with I suppose it&#39;s being
+[0:03] performed there. And again, there are
+[0:03] information bits flying in
+[0:03] hurriedly trying to inform the particle
+[0:03] of the hot news, so to speak.
+[0:03] Um
+[0:03] So,
+[0:03] so let&#39;s think of each information bit.
+[0:03] Uh if it&#39;s a function of earlier
+[0:03] information,
+[0:03] then that&#39;s just reduces to the previous
+[0:03] case, so to speak. We might as well uh
+[0:03] used it. And otherwise, the universe, I
+[0:03] mean, the first information bit that
+[0:03] isn&#39;t a function
+[0:03] of earlier information
+[0:03] is a free decision
+[0:03] of the universe
+[0:03] within a tenth of a second in this case
+[0:03] of particle B. Because by definition,
+[0:03] it&#39;s not a function of what was earlier.
+[0:03] That means it&#39;s free.
+[0:03] Okay?
+[0:03] Um so, what we get is uh
+[0:03] that the response
+[0:03] particle B
+[0:03] uh
+[0:03] How can I say it? It&#39;s either governed
+[0:03] by some new particle, recently arrived
+[0:03] particle, which
+[0:03] for which that is I know particle.
+[0:03] Information bit really.
+[0:03] Carried by a particle maybe. But that
+[0:03] information wasn&#39;t there anywhere in the
+[0:03] universe before
+[0:03] that bit arrived.
+[0:03] And so, that that bit&#39;s a free. So, what
+[0:03] we conclude Well, let me proceed to the
+[0:03] next slide since I
+[0:03] Uh so, here we are. We&#39;ve proved that
+[0:03] the universe makes a free decision.
+[0:03] Really, perhaps I should have said near
+[0:03] at least one of the two particles.
+[0:03] Now, we don&#39;t normally say that. I mean,
+[0:03] uh you do an experiment on a particle
+[0:03] and some answer arrives. You think
+[0:03] you&#39;ve measured something about the
+[0:03] particle, not something about the
+[0:03] universe. I mean, it&#39;s it&#39;s really a
+[0:03] question of of words. Um what we&#39;ve
+[0:03] shown is Well, either the particles or,
+[0:03] if you like, the universe in the
+[0:03] neighborhood of the two particles makes
+[0:03] a free decision.
+[0:03] Uh but that free decision is located
+[0:03] inside those two spheres.
+[0:03] Uh So, it&#39;s a joint decision of the two
+[0:03] particles.
+[0:03] Um
+[0:03] And in our paper, we call this a
+[0:03] semi-free decision.
+[0:03] It&#39;s it&#39;s rather funny. They&#39;re related
+[0:03] to each other. Well, and we don&#39;t
+[0:03] understand that correlation. But we do
+[0:03] understand that simple explanations of
+[0:03] it won&#39;t work.
+[0:03] Okay? This is not to be explained in
+[0:03] terms of the past history of the
+[0:03] universe.
+[0:03] Okay. What did we use a fin?
+[0:03] Well, it turns out we didn&#39;t use
+[0:03] arbitrary information.
+[0:03] We only used the fact that uh
+[0:03] B&#39;s choice of one of 33 directions
+[0:03] cannot be used by particle little A.
+[0:03] The particle little A&#39;s response does
+[0:03] not vary with B&#39;s choice. experiment of
+[0:03] B&#39;s choice. And similarly, particle
+[0:03] little B&#39;s response
+[0:03] cannot vary with A&#39;s choice.
+[0:03] Um Well, that
+[0:03] is partly
+[0:03] be I mean, the reason why that&#39;s true is
+[0:03] because they&#39;re separated
+[0:03] by a large distance and one could appear
+[0:03] before the other. Um
+[0:03] uh and the other reason is that the
+[0:03] experimenters are free to choose.
+[0:03] Uh so that combines some aspects of free
+[0:03] will with some aspects of very small use
+[0:03] of the fin axiom.
+[0:03] Okay, this concerns a little model for
+[0:03] physics which obviously I&#39;ll have to
+[0:03] postpone till next time.
+[0:03] Um so let me uh sort of stop there but I
+[0:03] want to sort of add a final sentence.
+[0:03] Um
+[0:03] This seems to be the way the world
+[0:03] works.
+[0:03] You know, whether we understand it or
+[0:03] not doesn&#39;t matter.
+[0:03] You know, the this is not a function.
+[0:03] Well, at least if we have free will
+[0:03] so do the particles. It&#39;s not a you
+[0:03] know, that&#39;s not an arguable matter.
+[0:03] Uh this this proof really concludes
+[0:03] this.
+[0:03] But um
+[0:03] you may be worried.
+[0:03] Are these axioms actually consistent?
+[0:03] You know, at first sight
+[0:03] uh maybe uh
+[0:03] the fact that the two particles given
+[0:03] answer does involve superluminal. That
+[0:03] is superfast
+[0:03] uh in information transmission. Well, no
+[0:03] it doesn&#39;t. We can give a simple little
+[0:03] model to show that the axioms are
+[0:03] consistent. That was what was just
+[0:03] coming next is what we call a Janus
+[0:03] universe.
+[0:03] But the trouble is the Janus universe
+[0:03] does not have the symmetry
+[0:03] of the universe. In the Janus universe
+[0:03] you choose a notion of time.
+[0:03] Janus chooses a notion of time and does
+[0:03] things in the order of that kind of
+[0:03] time.
+[0:03] Um
+[0:03] So Janus&#39;s way of operating the model
+[0:03] is not Lorentz invariant. Okay, but what
+[0:03] the model does is Lorentz invariant. So
+[0:03] Janus&#39;s explanation can&#39;t be the
+[0:03] explanation
+[0:03] because there&#39;s another explanation is
+[0:03] equally good. Reverse the time order.
+[0:03] It&#39;s a subtle point and I&#39;m going to
+[0:03] discuss a lot of subtle points next
+[0:03] time.
+[0:03] Okay.

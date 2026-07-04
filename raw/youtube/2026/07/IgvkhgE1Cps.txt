@@ -1,0 +1,893 @@
+(node:3714629) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///home/kanna/.hermes/skills/media/youtube-transcript/scripts/transcript.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to /home/kanna/.hermes/skills/media/youtube-transcript/package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+[0:00] well okay I don&#39;t know whether I&#39;m more
+[0:00] relieved or you are but this is the last
+[0:00] one of the series it&#39;s to be about well
+[0:00] I&#39;m not really quite sure how to express
+[0:00] it really the way we&#39;ve been thinking of
+[0:00] it is philosophical consequences of and
+[0:00] now going to abbreviate free will
+[0:00] theorem like that every time I use this
+[0:00] but it&#39;s not only philosophical
+[0:00] consequences it&#39;s sort of relationships
+[0:00] of the rules the theorem two things that
+[0:00] becomes customly considered
+[0:00] philosophical and it has some I mean you
+[0:00] may remember that last time I spoke
+[0:00] about in which with the same degree of
+[0:00] approximation could we call scientific
+[0:00] consequences and at least the second
+[0:00] part of this lecture is going to be
+[0:00] concerned with arguments towards free
+[0:00] will and to the mathematicians that&#39;s a
+[0:00] little bit strange because if you
+[0:00] remember the second time around argument
+[0:00] if we if now is the second time the
+[0:00] universe is playing so to speak and we
+[0:00] are being fed exactly the same sense
+[0:00] impressions as we were the first time
+[0:00] around then the second time around there
+[0:00] isn&#39;t free will and that there so the
+[0:00] world is deterministic even if the first
+[0:00] the first time around wasn&#39;t
+[0:00] so that means that if I meet somebody
+[0:00] who is a really convinced determinist
+[0:00] there&#39;s no logical argument at least no
+[0:00] I prefer to use the word deductive
+[0:00] arguing from deductive logic that I can
+[0:00] use to convince my opponent he&#39;s wrong
+[0:00] so to speak I mean that the world isn&#39;t
+[0:00] deterministic and that is what we
+[0:00] mathematicians or logicians would call a
+[0:00] consistency proof for determinism
+[0:00] there&#39;s there&#39;s no hope of disproving a
+[0:00] determined determinist okay and this
+[0:00] business of consistency proof is very
+[0:00] easily misunderstood until you&#39;ve met a
+[0:00] few magicians would have met consistency
+[0:00] proof all over the place and we&#39;ve
+[0:00] developed a certain amount of contempt
+[0:00] for them from familiarity with them we
+[0:00] know that consistency has really very
+[0:00] little to do with truth I mean if
+[0:00] something is inconsistent then it can&#39;t
+[0:00] be true but if something is consistent
+[0:00] that&#39;s not very strong evidence for its
+[0:00] truth and so I&#39;m going to mention some
+[0:00] famous examples of consistency proof the
+[0:00] oldest is the consistency proof for non
+[0:00] Euclidean geometry and in the modern
+[0:00] version of that you define straight line
+[0:00] to be circle it works right the universe
+[0:00] the plane say is the interior of a
+[0:00] circle and straight line means a circle
+[0:00] or an arc of a circle it&#39;s perpendicular
+[0:00] to the boundary and distance is defined
+[0:00] and it&#39;s not equal to the usual distance
+[0:00] so let me sort of summarize straight
+[0:00] lines are not the usual straight lines
+[0:00] distance is not the usual distance but
+[0:00] nonetheless if you redefine what all the
+[0:00] words mean
+[0:00] you can prove that this is a model for
+[0:00] non Euclidean geometry that&#39;s to say if
+[0:00] you a given point that can be more than
+[0:00] one line that doesn&#39;t meet a given one
+[0:00] in Euclidean geometry playfair&#39;s axiom
+[0:00] tells you that there&#39;s just one straight
+[0:00] line through a given point that doesn&#39;t
+[0:00] meet another given line
+[0:00] okay well non Euclidean geometry is
+[0:00] consistent so as Euclid in geometry and
+[0:00] yet they make different assertions as
+[0:00] the thing is they&#39;re not talking about
+[0:00] the same thing really it is you know
+[0:00] that it&#39;s possible to prove that no
+[0:00] contradictions follow from some
+[0:00] assertions without those assertions
+[0:00] being true the one I like most is a
+[0:00] rather less familiar one but it&#39;s easier
+[0:00] to sort of understand what goes on in
+[0:00] set theory there&#39;s an axiom called the
+[0:00] axiom of infinity whose sole function is
+[0:00] to guarantee that infinite sets exist
+[0:00] now regardless of what you think about
+[0:00] whether that axiom is likely to be true
+[0:00] on earth there&#39;s a wonderful proof of
+[0:00] the consistency of the denial of that
+[0:00] action and it consists in the following
+[0:00] you throw away any set that&#39;s infinite
+[0:00] and not only that but you throw away any
+[0:00] set that has an infinite element and you
+[0:00] throw away any set that has a set that
+[0:00] has an infinite element and so on so you
+[0:00] feel away the vast majority of sets it
+[0:00] may be well we don&#39;t know maybe the
+[0:00] accent of infinity as false maybe there
+[0:00] aren&#39;t any but in any case if there are
+[0:00] some infinite sets you fill them all
+[0:00] away and then surprise surprise you have
+[0:00] a model for set there in which there
+[0:00] aren&#39;t any infinite sets certain eyes
+[0:00] the axiom or set theory that sort of
+[0:00] seems to me cheap I don&#39;t know whether
+[0:00] you agree you take a model in which the
+[0:00] thing you&#39;re denying is true
+[0:00] and then just make it false in fact
+[0:00] there&#39;s a similar one for I mean this
+[0:00] one I gave you for the consistency of
+[0:00] determinism is really rather like that
+[0:00] you take a model which may have had free
+[0:00] will in it originally and then play it
+[0:00] second time around and it doesn&#39;t have
+[0:00] free well it doesn&#39;t really say anything
+[0:00] about the truth of free world well so
+[0:00] you see there are cases were two
+[0:00] mutually contradictory statements I can
+[0:00] add statement a or I can add statement
+[0:00] not a the denial of a to some previous
+[0:00] axiom system and each of them might be
+[0:00] consistent so consistency is no
+[0:00] guarantor of truth okay so what does
+[0:00] that mean in respective our thing it
+[0:00] means that it means that when I proved
+[0:00] the consistency of determinism this is
+[0:00] not by a very scientific model the
+[0:00] second time around model but still it
+[0:00] certainly suggests that the German ISM
+[0:00] is consistent that doesn&#39;t really say
+[0:00] anything about whether it&#39;s true or not
+[0:00] now there&#39;s this famous theorem of
+[0:00] Goodell that I imagined some of you at
+[0:00] least have heard about and this is an
+[0:00] analogy of this free will discussion
+[0:00] with gödel&#39;s theorem Goodell showed that
+[0:00] truth can&#39;t be equated with proved
+[0:00] ability from some sort of axiom system I
+[0:00] think of that as I think how can I say
+[0:00] it as mechanical proof ability or
+[0:00] something
+[0:00] in fact Roger Penrose talks about the
+[0:00] machine in this connection
+[0:00] but anyway the machine is a machine for
+[0:00] proving theorems and girdles theorem
+[0:00] tells us that the truth of an arithmetic
+[0:00] ol statement is really not the same as
+[0:00] it&#39;s proof ability I mean there&#39;s a
+[0:00] subtle question involved there but let&#39;s
+[0:00] just stick it at that for the moment
+[0:00] truth cannot be equated with proof
+[0:00] ability by any mechanical procedure and
+[0:00] there&#39;s a vague analogy because the free
+[0:00] will theorem says if we are free well
+[0:00] again but anyway let&#39;s suppose that for
+[0:00] the moment the particles also have free
+[0:00] will in other words their behavior
+[0:00] cannot be explained deterministically or
+[0:00] mechanically there&#39;s no way in which
+[0:00] there&#39;s some sort of mechanical rule
+[0:00] that&#39;s explaining what particles do so
+[0:00] well I hope you see that there&#39;s a more
+[0:00] than a vague analogy between the two um
+[0:00] by the way I&#39;m going to start this
+[0:00] lecture every now and then the throw up
+[0:00] a slide that looks very like a slide
+[0:00] you&#39;ve seen before at least if you&#39;ve
+[0:00] attended all the lectures well that&#39;s
+[0:00] partly because some of you haven&#39;t
+[0:00] attended all the lectures and partly
+[0:00] because I want you to sort of recall
+[0:00] things I&#39;ve allowed myself to edit them
+[0:00] to sort of make additional points and
+[0:00] one of them is this remark which I
+[0:00] really think every time I&#39;ve mentioned
+[0:00] it I&#39;ve said this but it&#39;s worth saying
+[0:00] again I really think that Sangin and I
+[0:00] are the first people to make this remark
+[0:00] that you can&#39;t explain the behavior of
+[0:00] particles in this world by what I call
+[0:00] injecting random numbers into a
+[0:00] universes as deterministic laws apart
+[0:00] from the fact that you&#39;ve injected these
+[0:00] random numbers into us and if you
+[0:00] remember I mentioned what happens in
+[0:00] backgammon
+[0:00] which is the dice are filling beforehand
+[0:00] but as far as the players are concerned
+[0:00] that makes no difference that&#39;s quite an
+[0:00] important point because it allows us to
+[0:00] sort of treat the random numbers as
+[0:00] historically determined they were
+[0:00] determined before the universe started
+[0:00] or these they might as well have been
+[0:00] we can&#39;t tell okay so usually people
+[0:00] have tended to equate in philosophical
+[0:00] decisions the opposite of determinants
+[0:00] nurse with randomness
+[0:00] I understand himself to death when he
+[0:00] made his famous statement that he cannot
+[0:00] believe that God plays dice with the
+[0:00] universe
+[0:00] that was in response to Bohr&#39;s
+[0:00] observation that quantum mechanics
+[0:00] didn&#39;t appear to be totally predictive
+[0:00] well if you remember what we did it we
+[0:00] have a different opinion Silan and I
+[0:00] summoned perhaps more particular than I
+[0:00] do there&#39;s a third alternative what we
+[0:00] call free or maybe technically we use a
+[0:00] slightly different word party for your
+[0:00] semi free the free decisions taken by
+[0:00] particles cannot be explained by random
+[0:00] numbers so this is something that&#39;s
+[0:00] different from both randomness and
+[0:00] determinants or deterministic behavior
+[0:00] and we sort of far from regarding
+[0:00] randomness as the opposite of
+[0:00] determinism we regard them as both in
+[0:00] the same scale Pandolfi speaking and the
+[0:00] opposite of both of them is free so but
+[0:00] free has a very technical meaning let&#39;s
+[0:00] say it refers to the kind of
+[0:00] decisions that particles can make and
+[0:00] what&#39;s that what&#39;s the difference well
+[0:00] we don&#39;t actually sort of really
+[0:00] understand this situation terribly well
+[0:00] but we do have one discriminating
+[0:00] feature which is both Gundam decisions
+[0:00] and determined decisions can be taken
+[0:00] ahead of time I mean if they are
+[0:00] determined then really that means that
+[0:00] you know what the answer is before they
+[0:00] happen you know this always happens and
+[0:00] if they&#39;re random well no it doesn&#39;t
+[0:00] mean that you know what it is before
+[0:00] they&#39;ve happened but you might as well
+[0:00] throw the dice before the universe
+[0:00] starts that makes no difference
+[0:00] according to the notion of classical
+[0:00] random numbers so they&#39;ll both go on the
+[0:00] same scale pans so to speak they can be
+[0:00] taken ahead of time and it doesn&#39;t
+[0:00] affect the theory it&#39;s a very peculiar
+[0:00] situation whereas you can&#39;t do that with
+[0:00] free decisions you can&#39;t pretend that
+[0:00] they were there before happen time so
+[0:00] here&#39;s what I want to say about that
+[0:00] that traditionally at every philosopher
+[0:00] I think I&#39;ve never seen any counter
+[0:00] example this but maybe I don&#39;t believe
+[0:00] there&#39;s any limitation to what
+[0:00] philosophers say but traditionally most
+[0:00] philosophers have opposed to turnin ISM
+[0:00] by randomness and then then you have
+[0:00] this sort of curious thing you know
+[0:00] philosophical discussions of freewill
+[0:00] are mostly concerned with the question
+[0:00] of whether were responsible for our
+[0:00] actions I I performed the quiet and I
+[0:00] mean I&#39;d I did the crime whatever it is
+[0:00] oh but I&#39;m not responsible because the
+[0:00] world is deterministic and so I&#39;ll
+[0:00] defend myself by saying I just had to do
+[0:00] it okay
+[0:00] a fair legal defense so what happens if
+[0:00] that&#39;s what you know some people might
+[0:00] say what convinced determinists might
+[0:00] say they might say the world is
+[0:00] deterministic yes I admit I was the
+[0:00] criminal but how can I be held
+[0:00] responsible on the other side people say
+[0:00] it doesn&#39;t really help to say that the
+[0:00] world is not determined because after
+[0:00] all I mean if what made me do it is a
+[0:00] random sort of jerk a tick you know I
+[0:00] wasn&#39;t in control then equally I can&#39;t
+[0:00] be held responsible for my actions and
+[0:00] if you think that the opposite of
+[0:00] determinism is randomness then you can&#39;t
+[0:00] hold anybody guilty basically okay
+[0:00] either it was a dice though that
+[0:00] determined what you did okay but they
+[0:00] sound very similar to me because I&#39;m so
+[0:00] used to thinking of the dice as the same
+[0:00] as determinism
+[0:00] it&#39;s rather similar but okay but you
+[0:00] know we we did one thing Simon and I we
+[0:00] proved that the opposite of determinism
+[0:00] isn&#39;t randomness whatever it is the free
+[0:00] kind of behavior and we&#39;re just calling
+[0:01] it for it&#39;s a technical term for a
+[0:01] particular kind of freedom
+[0:01] that&#39;s exhibited by elementary particles
+[0:01] well it is at any rate on the assumption
+[0:01] that we have free will and making that
+[0:01] assumption for a time that free behavior
+[0:01] is neither deterministic no random and
+[0:01] at least you can see that that might
+[0:01] open the door to questions of moral
+[0:01] responsibility maybe we can be
+[0:01] responsible for actions because they&#39;re
+[0:01] free
+[0:01] whatever that means I won&#39;t pretend to
+[0:01] know very much about what it means it&#39;s
+[0:01] a subtle question okay let me switch off
+[0:01] for a time and say I must really try to
+[0:01] remember to switch off this screen every
+[0:01] now and then so what am I going to do in
+[0:01] the rest of this lecture well broadly
+[0:01] I&#39;m going to announce a number of
+[0:01] arguments in favor of free will
+[0:01] now the consistency of determinism means
+[0:01] that they can&#39;t be deductively deductive
+[0:01] logic part of logical arguments I can&#39;t
+[0:01] hope to give a rigid proof which you
+[0:01] know you must accept that Free Will
+[0:01] exists I think it&#39;s true to say I don&#39;t
+[0:01] really know that free will as a minority
+[0:01] position in philosophy departments
+[0:01] I sort of believe that&#39;s true it also
+[0:01] seems that in the biological sciences
+[0:01] people are more and more coming to
+[0:01] believe in determinism and I find that
+[0:01] absolutely astonishing and especially
+[0:01] well I&#39;m going to say later on that
+[0:01] there&#39;s no evidence for determinism and
+[0:01] so how people have come to believe it so
+[0:01] we can may I don&#39;t know maybe you won&#39;t
+[0:01] believe me when I say that it seems a
+[0:01] naive thing to say and not ashamed of
+[0:01] save naive things let me turn on to this
+[0:01] thing here and let me remind you
+[0:01] this happened I said this is one of
+[0:01] several slides that I&#39;ve copied from
+[0:01] earlier lectures possibly with slight
+[0:01] changes here the main change has been to
+[0:01] title so let&#39;s say these first two are
+[0:01] statements by philosophers they really
+[0:01] are scientific statements and so they
+[0:01] belong last lecture where they were but
+[0:01] I want to make them again anyway because
+[0:01] I think they&#39;re quite interesting at
+[0:01] least they were made by famous
+[0:01] philosophers do you remember Descartes
+[0:01] had this dualism he believed our minds
+[0:01] had free will or our spirits had free
+[0:01] will nevertheless he thought that things
+[0:01] outside those minds were mechanical even
+[0:01] our bodies were mechanical so that&#39;s
+[0:01] what I&#39;m talking about but when I say
+[0:01] determinism the material wealth but he
+[0:01] did two things you know he said the
+[0:01] material world the bodies are
+[0:01] deterministic the bodies both our bodies
+[0:01] of the bodies in the sense of physics
+[0:01] outside us but the will is by its nature
+[0:01] Sophia can never be constrained that&#39;s
+[0:01] actually disproved that&#39;s because he
+[0:01] managed to make two assertions he said
+[0:01] we had free will that&#39;s the second
+[0:01] assertion but things outside us the
+[0:01] material world does not have free will
+[0:01] it&#39;s deterministic that&#39;s directly
+[0:01] contrary to the free will theorem so
+[0:01] it&#39;s false
+[0:01] doesn&#39;t matter how famous the
+[0:01] philosopher was who said is it&#39;s false
+[0:01] Leibniz his principle of sufficient
+[0:01] reason is not quite at the same level so
+[0:01] he announced this principle which sounds
+[0:01] very sensible that nothing happens
+[0:01] without a reason why it should be so
+[0:01] rather than otherwise in other words if
+[0:01] a happen
+[0:01] rather than be then there must be a
+[0:01] reason why it will say that sounds very
+[0:01] likely it sounds a good principle but if
+[0:01] we have free will
+[0:01] like nets like mrs. position on free
+[0:01] world is harder to understand I have a
+[0:01] volume of selections from lightness
+[0:01] which I was reading to put me to sleep
+[0:01] it was very good to sleep
+[0:01] he makes numerous assertions it was
+[0:01] never terribly clear to me exactly what
+[0:01] he thought so I haven&#39;t granted him the
+[0:01] belief in free will you know I I don&#39;t
+[0:01] know whether he believed in free will or
+[0:01] not but the human free will exists then
+[0:01] in fact this principle of sufficient
+[0:01] reason is false the particle can give
+[0:01] you the answer zero or the answer one in
+[0:01] a certain experiment and there is
+[0:01] nothing in the entire history of the
+[0:01] universe before that time which explains
+[0:01] it okay well now I&#39;m beginning to enter
+[0:01] this sort of contentious path do you
+[0:01] remember what the theorem said the way I
+[0:01] announced it the first time this thing
+[0:01] called mean this principle was deduced
+[0:01] from human free will it basically said a
+[0:01] human can decide which one of forty or
+[0:01] thirty three buttons to press and that
+[0:01] they can decide that independently of
+[0:01] the past history of the universe okay so
+[0:01] it says if humans have that amount of
+[0:01] free will then particles have a rather
+[0:01] smaller amount of free will they can
+[0:01] while I use the term decide many people
+[0:01] don&#39;t like that they can decide whether
+[0:01] to give the answer zero or one well no
+[0:01] let&#39;s not use the term they can decide
+[0:01] they can give the answer zero or one
+[0:01] they don&#39;t have to decide to give it
+[0:01] before they give it
+[0:01] but if they give it that&#39;s good enough
+[0:01] okay now okay well let me proceed to
+[0:01] give you
+[0:01] oh no sorry this is not a terribly good
+[0:01] reason it&#39;s a reason but it&#39;s sort of
+[0:01] pragmatic reason science becomes
+[0:01] impossible if experiments can&#39;t freely
+[0:01] choose the experiments they perform you
+[0:01] see suppose I decide you know to test a
+[0:01] physical law and it says if I press the
+[0:01] left-hand button one thing happens this
+[0:01] is my conjecture and if I press the
+[0:01] right hand button another thing happens
+[0:01] and okay and then I press a certain
+[0:01] button then I turn out to press the
+[0:01] left-hand button and the thing that I
+[0:01] said happens happens it turns out though
+[0:01] if I don&#39;t have freewill maybe I could
+[0:01] request the item button maybe nature is
+[0:01] in some kind of awful conspiracy to
+[0:01] prevent me from having from doing the
+[0:01] experiment I want to if I don&#39;t have
+[0:01] free will then how can I know that X
+[0:01] bear that nature just sort of decided to
+[0:01] let me do only the experiments that
+[0:01] confirmed or maybe only the experiments
+[0:01] that denied my prediction and not the
+[0:01] other ones we make this assumption of
+[0:01] freewill every time we do a scientific
+[0:01] experiment we presume we could have done
+[0:01] otherwise and if we if in fact that
+[0:01] presumption is false then it&#39;s hard to
+[0:01] see what the logical this deductive what
+[0:01] the logical justification for scientific
+[0:01] assertions is that I&#39;ll count as an
+[0:01] argument in favor of free will but I
+[0:01] will admit it&#39;s a rather peculiar
+[0:01] argument I find it sort of quite
+[0:01] convincing I don&#39;t understand you know
+[0:01] what you could make of science if you
+[0:01] believe that you were just forced to do
+[0:01] all the experiments you
+[0:01] not the other ones okay but one of the
+[0:01] most convincing arguments is what I call
+[0:01] the surprised arguments so now remember
+[0:01] this is not a deductive logical argument
+[0:01] suppose P implies Q some Pierce some
+[0:01] propositions and P implies we usually
+[0:01] use this kind of error for Q then you
+[0:01] know how could not provide any evidence
+[0:01] for P you know III stop by assuming P so
+[0:01] if it implies any evidence it must be
+[0:01] some sort of circular evidence
+[0:01] nonetheless it&#39;s really a quite
+[0:01] convincing argument in in some
+[0:01] circumstances let&#39;s suppose that P
+[0:01] implies Q and Q is a surprise well the
+[0:01] concept of being a surprise is not
+[0:01] usually part of formal logic
+[0:01] but you know it it really is a surprise
+[0:01] ah but turns out to be true despite the
+[0:01] fact that it was surprising okay then
+[0:01] this is evidence evidence for fee it&#39;s
+[0:01] not absolutely convincing evidence it
+[0:01] depends how much of a surprise it is it
+[0:01] depends all sorts of things it depends
+[0:01] how likely P was a prayer oh I but it&#39;s
+[0:01] certainly quite something so let me tell
+[0:01] you what P is in my thing P is the
+[0:01] assumption that humans do have free will
+[0:01] we know we can&#39;t prove that by the
+[0:01] second time around argument but let&#39;s
+[0:01] just suppose it true for a moment then
+[0:01] it implies that quantum mechanics is
+[0:01] incomplete it&#39;s not now that was a very
+[0:01] great surprise when it was discovered in
+[0:01] the 1920s because physical theories up
+[0:01] to then had usually been at least in
+[0:01] principle complete in the first lecture
+[0:01] I put a plus s famous statement that if
+[0:01] we knew the positions and velocities of
+[0:01] positions and momenta of all the
+[0:01] particles in the universe if an
+[0:01] intelligence knew them then as
+[0:01] intelligence provided what intelligence
+[0:01] enough could work out exactly what
+[0:01] happened that was sort of true of
+[0:01] old-fashioned physics of Newtonian dang
+[0:01] next birth it was such a great surprise
+[0:01] when it was first discovered that people
+[0:01] tried to explain it away and as some of
+[0:01] them have been trying to explain it away
+[0:01] ever since basically they don&#39;t believe
+[0:01] that quantum mechanics is incomplete or
+[0:01] something they try and escape that
+[0:01] implication but if we suppose human free
+[0:01] will then we get an explanation for why
+[0:01] quantum mechanics is incomplete because
+[0:01] as human free will and by the free will
+[0:01] theorem that implies you can&#39;t predict
+[0:01] what particles will do it&#39;s not just
+[0:01] that you can&#39;t predict them they don&#39;t
+[0:01] even know to use anthropomorphic terms
+[0:01] what they&#39;ll do they haven&#39;t decided yet
+[0:01] given all the past history that we sort
+[0:01] of usually suppose in trying to predict
+[0:01] what particles will do that&#39;s not enough
+[0:01] ok so I ask you to consider whether
+[0:01] human freewill might not be the
+[0:01] explanation for that you know why
+[0:01] suppose the world this deterministic I
+[0:01] you know I&#39;m asking you to suppose the
+[0:01] human free will exists well suppose it
+[0:01] doesn&#39;t for a moment let&#39;s argue in the
+[0:01] other direction and suppose the world is
+[0:01] completely deterministic don&#39;t we need
+[0:01] an explanation for why it seems to be
+[0:01] the freewill seems to exist you know
+[0:01] Dennis over by new york times science
+[0:01] writer is apparently completely
+[0:01] convinced the world is deterministic so
+[0:01] in particular dennis over by doesn&#39;t
+[0:01] have feel wealth according to Dennis
+[0:01] over by but then he describes freewill
+[0:01] as the necessary illusion he maintains
+[0:01] going about his ordinary life he just
+[0:01] has to believe in free will even though
+[0:01] it&#39;s not true how he&#39;s so convinced that
+[0:01] it&#39;s not true I don&#39;t know but you know
+[0:01] why does it seem to be true don&#39;t you
+[0:01] think that needs an explanation if it&#39;s
+[0:01] not well you
+[0:01] see if Free Will exists it explains
+[0:01] something determinism explains nothing
+[0:01] well that&#39;s perhaps an outrageously of a
+[0:01] simplified thing but anyway so let me
+[0:01] remark what I&#39;ve said before the free
+[0:01] will theorem implies not only the
+[0:01] quantum mechanics or theories extending
+[0:01] quantum mechanics as in earlier
+[0:01] statements not only that those theories
+[0:01] are incomplete but no correct theory
+[0:01] that can possibly be complete because
+[0:01] well the particles haven&#39;t yet decided
+[0:01] what they&#39;re going to do so how death
+[0:01] can you predict what they&#39;re going to do
+[0:01] if you&#39;re right so no correct theory
+[0:01] so this incompleteness isn&#39;t merit not a
+[0:01] defect this is no side of mine okay now
+[0:01] let&#39;s see something else if we suppose
+[0:01] that we have freewill again then the
+[0:01] free will theorem says that elementary
+[0:01] particles already have their own small
+[0:01] share of that desirable commodity at
+[0:01] least I think it&#39;s desirable and that
+[0:01] suggests how we come to have freewill
+[0:01] namely somehow we get it we&#39;re made of
+[0:01] particles after all those particles
+[0:01] particularly the ones inside our brains
+[0:01] may be sort of sampled by our brains in
+[0:01] some clever way and maybe that leads to
+[0:01] our own free will so let&#39;s see what&#39;s
+[0:01] happened free will the assumption of
+[0:01] free will suggests why we have free will
+[0:02] you know just the assumption that we do
+[0:02] have it without that explanation of why
+[0:02] suggests a reasonable explanation of how
+[0:02] we come to have it that&#39;s surely some
+[0:02] kind of
+[0:02] in favor of free will and always a month
+[0:02] whoops okay so let&#39;s let&#39;s play the
+[0:02] opposite card so to speak the card from
+[0:02] the other side of aha
+[0:02] what does assuming determinism suggests
+[0:02] to us nothing basically determinism is
+[0:02] determinism everything is the way it is
+[0:02] and we couldn&#39;t be anything else and we
+[0:02] don&#39;t in particular get an explanation
+[0:02] for determinism outter after the
+[0:02] assumption of determinism nor do we get
+[0:02] an explanation why we seem to have free
+[0:02] will it&#39;s just inconsequential it has no
+[0:02] consequences I&#39;d like to be proved wrong
+[0:02] by the way if any of you violently
+[0:02] disagree with me please sort of say so
+[0:02] later now this is related to a sort of
+[0:02] interesting point in philosophy the
+[0:02] philosopher Robert Nozick who died a few
+[0:02] years ago was a very influential book
+[0:02] and he talked about self subsuming
+[0:02] concepts I think he basically chose the
+[0:02] wrong property this selfs obscuring
+[0:02] business to talk about so let me say
+[0:02] what I prefer to talk about in electable
+[0:02] concepts ineluctable means that you
+[0:02] literally it means you can&#39;t struggle
+[0:02] out of it and I noticed a number of
+[0:02] these concepts in particular probability
+[0:02] when I attended a course on probability
+[0:02] in Cambridge as a student I was
+[0:02] disappointed with all the definitions of
+[0:02] it they all seemed to assume the concept
+[0:02] itself in some sense and I thought this
+[0:02] was profoundly unsatisfactory
+[0:02] and then more recently I&#39;ve realized the
+[0:02] deep concepts tend not to be explicable
+[0:02] in terms of earlier concepts that&#39;s why
+[0:02] they&#39;re deep and so you can&#39;t define
+[0:02] probability in terms of things that
+[0:02] don&#39;t mention probability and I think
+[0:02] Nosek sort of seized on this property if
+[0:02] you try to define probability then you
+[0:02] find yourself a human probability in
+[0:02] some form in the definition and so
+[0:02] that&#39;s the the the thing that knows it
+[0:02] calls selfs absorption but for me it&#39;s
+[0:02] selfs absorption is a symptom of the
+[0:02] disease or whatever it is it&#39;s not the
+[0:02] defining property of what we&#39;re really
+[0:02] talking about the defining property that
+[0:02] we&#39;re talking about is in adaptability
+[0:02] you can&#39;t struggle out of this concept
+[0:02] in terms of an area there are lots of
+[0:02] examples one of them is randomness I
+[0:02] have never learned what a random
+[0:02] sequence was another is the concept of
+[0:02] probability
+[0:02] another is the concept of computability
+[0:02] in some sense but never mind I won&#39;t
+[0:02] worry about that so what am I trying to
+[0:02] do I&#39;m trying to sort of in this famous
+[0:02] phrase of Wittgenstein and tried to
+[0:02] whistle around something that I can&#39;t
+[0:02] actually talk about very precisely it is
+[0:02] that we should sort of expect subtle
+[0:02] concepts to be hard to define and we
+[0:02] should appreciate that as a you know
+[0:02] that&#39;s a positive virtue almost in a
+[0:02] concept it&#39;s a sign of deepness
+[0:02] okay yeah this is perhaps the most
+[0:02] contentious thing that I have to say
+[0:02] there is no evidence for determinism
+[0:02] this absolutely shocked me and if any of
+[0:02] you find it shocking I hope you will go
+[0:02] through the education process that I
+[0:02] went through okay well I mentioned I&#39;ve
+[0:02] given lectures on this sort of subject
+[0:02] in many many places usually it&#39;s one
+[0:02] hour I don&#39;t know whether you have been
+[0:02] gifted in having it six or whether
+[0:02] you&#39;ve something to complain about in
+[0:02] having it in six usually it&#39;s one hour
+[0:02] and we get to the point rather more
+[0:02] quickly and but I enjoy the
+[0:02] conversations I have with people
+[0:02] afterwards somebody comes up and says
+[0:02] something you know and you know they
+[0:02] give me their opinion about free will of
+[0:02] determinism or whatever and everyone
+[0:02] then some of them are determinists and
+[0:02] they rather expect me to argue against
+[0:02] determinism but of course I don&#39;t
+[0:02] because I know there&#39;s no argument
+[0:02] against the term ism you know I gave you
+[0:02] an argument that proves it consistent
+[0:02] well there&#39;s no logical totally
+[0:02] deductive argument against determinism
+[0:02] and I found a much better way of
+[0:02] proceeding is to say well how did you
+[0:02] come to be a determinist did you have
+[0:02] any evidence in favor of determinism for
+[0:02] instance you know and this is you know
+[0:02] this gets much more interesting applies
+[0:02] anyway and you see the usual thing is a
+[0:02] belief that physics is determinist now
+[0:02] this was true of Newtonian dynamics and
+[0:02] then later on exactly the same
+[0:02] mathematic
+[0:02] that worked for Newtonian dynamics
+[0:02] gravitational fields and saw worked for
+[0:02] electric and magnetic fields and so you
+[0:02] know those theories went on being
+[0:02] deterministic and then if your education
+[0:02] stopped before you had a quantum
+[0:02] mechanics course well you can still be
+[0:02] very highly educated and you can sort of
+[0:02] believe that physics is deterministic
+[0:02] okay but physics hasn&#39;t actually been
+[0:02] deterministic for a good 80 years or
+[0:02] more okay and so hey you know now let&#39;s
+[0:02] delete that history that we believed
+[0:02] with good reason that physics was
+[0:02] deterministic we had very very
+[0:02] successful physics which was
+[0:02] deterministic but now things were found
+[0:02] to be wrong with it later on is there
+[0:02] anything else
+[0:02] well classic some people have said
+[0:02] pointed to the time reversibility of
+[0:02] physics exactly absolutely amazed when I
+[0:02] heard a very intelligent graduate
+[0:02] student do this the other day what time
+[0:02] reversibility physics have you ever seen
+[0:02] well how can I say it have you ever seen
+[0:02] a movie run backwards it looks different
+[0:02] it really does look different it doesn&#39;t
+[0:02] look at all like this movie run forward
+[0:02] so if you believe that physics is time
+[0:02] reversible you&#39;ve got some explaining to
+[0:02] do
+[0:02] why you believe it okay
+[0:02] well the answer is you believe it
+[0:02] because you&#39;re educated probably very
+[0:02] expensively educated you know you learn
+[0:02] these theorems that Newtonian mechanics
+[0:02] is time reversible so the theories of
+[0:02] electricity and magnetism were too
+[0:02] in 19th century then there&#39;s this other
+[0:02] thing the unis redevelopment you
+[0:02] remember this discussion of unis
+[0:02] redevelopment vs. collapse all entwined
+[0:02] with collapse we have in the theoretical
+[0:02] understanding of quantum mechanics which
+[0:02] is rather rather curious but the
+[0:02] standard picture has periods of unit
+[0:02] redevelopment which are beautiful and
+[0:02] smooth and understandable and
+[0:02] predictable and deterministic
+[0:02] alternating with collapse and the part
+[0:02] that we understand this this unit
+[0:02] redevelopment path we don&#39;t understand
+[0:02] the class but anyway then I mean a
+[0:02] general relativity okay now this I think
+[0:02] one does in in general relativity in
+[0:02] explaining how things work the entire
+[0:02] all the dynamics is geometric in general
+[0:02] relativity we have curvature of the
+[0:02] world and and this world there is a
+[0:02] four-dimensional space-time continuum
+[0:02] and the older authors used to say that
+[0:02] we were dragged across this you know as
+[0:02] time went on we were dragged across in a
+[0:02] particular path in this space-time
+[0:02] continuum but the geometry determined
+[0:02] everything well it&#39;s not clear how much
+[0:02] credence we should place in that after
+[0:02] all if we have freewill then a plausible
+[0:02] case can be made that Theodore Roosevelt
+[0:02] did not have to build the Panama Canal
+[0:02] I mean decided to build it so maybe
+[0:02] there were two possible developments the
+[0:02] Panama was built which is what actually
+[0:02] happened or the Panama might not have
+[0:02] been built huge mountain
+[0:02] were moved to build the Panama Canal and
+[0:02] in a cotton a general relativity the
+[0:02] distribution of mass determines the
+[0:02] shape of the wealth so if we believe
+[0:02] simultaneously in free will
+[0:02] general relativity I don&#39;t know we need
+[0:02] to be leaving much more than that then
+[0:02] the shape of the universe did not have
+[0:02] to be what it is okay
+[0:02] certain mass is removed that made the
+[0:02] shape of the universe in accordance with
+[0:02] general or other service T be something
+[0:02] which it wouldn&#39;t have been if the
+[0:02] Panama Canal hadn&#39;t been built and if
+[0:02] Theodore Roosevelt in his study hadn&#39;t
+[0:02] taken that fateful decision so I think
+[0:02] what we&#39;ve got to do I mean is you see
+[0:02] this assumption that were just dragged
+[0:02] across the world whose shape determines
+[0:02] everything is not really path of general
+[0:02] relativity it makes an additional
+[0:02] assumption and what I think is the
+[0:02] correct way of viewing general
+[0:02] relativity is this that after things
+[0:02] have happened then the things haven&#39;t I
+[0:02] said the trajectory of a particle in the
+[0:02] world is a function of its shape but the
+[0:02] shape might have been different note
+[0:02] nothing in there says that the shape has
+[0:02] to be determined in some sense before
+[0:02] this happened so general relativity is
+[0:02] quite compatible with three well okay
+[0:02] well I say this it now goes back to cats
+[0:02] run backwards you know I&#39;ve seen plenty
+[0:02] of cats
+[0:02] I can&#39;t develop a a sort of coherent
+[0:02] theory of their behavior except that if
+[0:02] you push them one way they usually
+[0:02] resistance in pushing the other way but
+[0:02] they don&#39;t run backwards maybe they
+[0:02] withdraw backwards when they&#39;re ready to
+[0:02] spring on a mouse
+[0:02] something but how can it possibly have
+[0:02] come about with intelligent people have
+[0:02] been convinced that the laws of physics
+[0:02] are time reversible they&#39;re just not
+[0:02] yeah really just totally false
+[0:02] and if you if you believe this I&#39;m not
+[0:02] going to use this as some part of an
+[0:02] argument it behooves you to say
+[0:02] something about the fact that they don&#39;t
+[0:02] seem to be reversible it seems to be
+[0:02] terribly false now what&#39;s interesting
+[0:02] about this is were the failure of
+[0:02] predictive &#39;ti sort of comes into the
+[0:02] world and you remember I used a little
+[0:02] diagram like this that some others are
+[0:02] the unitary development is happening
+[0:02] here and then there was a collapse to a
+[0:02] point I believe not that this is really
+[0:02] part of my message that in practice the
+[0:02] unitary development is interrupted
+[0:02] sometime by an interaction which is
+[0:02] decoherent as they say and you get this
+[0:02] collapse to a point or to essentially a
+[0:02] localized state these aren&#39;t necessary
+[0:02] points in real space they&#39;re in state
+[0:02] space whatever it is the this path is
+[0:02] predictive this path has three free
+[0:02] decisions in it okay the part we don&#39;t
+[0:02] understand
+[0:02] I&#39;m afraid it&#39;s it&#39;s located securely in
+[0:02] the part we don&#39;t understand we never
+[0:02] will I think you know but anyway that&#39;s
+[0:02] okay I think I may have come to an end
+[0:02] yes I have so let me say something about
+[0:02] this what what&#39;s happened I want to I
+[0:02] wanted to deliver a sort of rousing pair
+[0:02] elation in
+[0:02] for a free well we can&#39;t prove we have
+[0:02] free will but it&#39;s the only reasonable
+[0:02] explanation for what the facts are that
+[0:02] there any reasonable explanation for why
+[0:02] physics is non-deterministic it&#39;s not
+[0:02] deterministic because well if we will
+[0:02] exists and free will implies it&#39;s
+[0:02] non-deterministic after all if you are
+[0:02] in a criminal trial the man who&#39;s found
+[0:02] with the blood-stained knife in his
+[0:02] pocket has some explaining to do
+[0:02] okay maybe might be totally innocent we
+[0:02] can&#39;t possibly establish a logical
+[0:02] relationship between what happens but if
+[0:02] the facts can be explained by supposing
+[0:02] he was the murderer and they can&#39;t be
+[0:02] explained by the opposite assumption
+[0:02] then probably he was the murderer okay
+[0:02] I&#39;m going to end early
+[0:02] nothing
+[0:02] you know I feel I ought to say one thing
+[0:02] it&#39;s okay to believe in free will
+[0:02] there&#39;s no compunction to believe in
+[0:02] determinism this I mentioned Denisova by
+[0:02] there&#39;s no reason to believe in
+[0:02] determinism whatsoever there&#39;s never
+[0:02] been any evidence for it that hasn&#39;t
+[0:03] disappeared with the development of
+[0:03] quantum mechanics it&#39;s the natural thing
+[0:03] to believe seems to be true if you
+[0:03] disbelieve it you ought at least to come
+[0:03] up with some evidence I don&#39;t believe
+[0:03] anybody ever has
+[0:03] [Music]
