@@ -51,6 +51,11 @@ Track whether each source is talking about alternative possibilities, sourcehood
 8. Gazzaniga, "Forty-Five Years of Split-Brain Research and Still Going Strong"
 9. Frith, Blakemore, and Wolpert, "Abnormalities in the Awareness and Control of Action"
 10. Biran and Chatterjee, "Alien Hand Syndrome"
+11. Jacquerie & Marder (2026), "Compensation of the effects of temperature on a motor system in the crab"
+12. Yu et al. (Hafed lab) (2026), "Much stronger coarse-to-fine visual processing in primate superior colliculus"
+13. Wickramanayaka & Oizumi (2026), "Representational alignment of color using GWOT"
+14. Huang et al. (2026), "Cx26 hemichannels mediate hypercapnic arousal"
+15. Sun et al. (2026), "Scanning and active sampling emerge from conserved insect neural circuits"
 
 Read this path with caution: neuroscience can challenge naive stories about conscious initiation, but it does not by itself settle metaphysical free will or moral responsibility.
 
