@@ -2,6 +2,7 @@
 
 ## Permanent Notes
 - [[20260625120000-godel-incompleteness-lucas-penrose]] : Godel Incompleteness Lucas Penrose
+- [[20260704150000-topology-of-agency-ccup]] : The Topology of Agency: Memory as Scaffold and the CCUP
 - [[20260625120000-neural-manifolds-qualia-geometry]] : Neural Manifolds Qualia Geometry
 - [[20260704110132-active-inference-bounded-agency]] : Active Inference Bounded Agency
 - [[20260704110132-active-sampling-insect-navigation]] : Active Sampling Insect Navigation
