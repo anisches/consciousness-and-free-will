@@ -10,7 +10,6 @@
 - [[20260704113007-free-will-functional-definition]] 
 - [[20260704113008-second-time-around-argument]] 
 - [[20260704113009-critique-principle-sufficient-reason]] 
-- [[20260704120000-conway-free-will-theorem-video]] 
 - [[20260704120001-spin-axiom-101-property]] : The Spin Axiom (101 Property)
 - [[20260704120002-kochen-specker-paradox-indeterminacy]] : The Kochen-Specker Paradox and Indeterminacy
 - [[20260704120003-lorentzian-symmetry-hyperbolic-spacetime]] : Lorentzian Symmetry and Hyperbolic Spacetime
@@ -40,10 +39,20 @@
 - [[20260704123004-free-state-assumption-initial-conditions]] 
 - [[20260704123005-mechanistic-collapse-impossibility]] 
 - [[20260704123006-descartes-dualism-refutation-quantum]] 
+- [[20260704130100-free-will-as-layered-illusion]] : Free will is an "illusion of an illusion" because it vanishes upon close inspection
+- [[20260704130200-authorship-vs-witness-of-thought]] : We are the witnesses of our thoughts, not their authors
+- [[20260704130300-moral-utility-of-dropping-free-will]] : Dropping the illusion of free will removes the psychological basis for hatred
+- [[20260704130400-equanimity-through-deterministic-lens]] : Equanimity is achieved by treating personal errors as data from a deterministic system
+- [[20260704130500-consciousness-is-not-an-illusion]] : Consciousness is the only thing that cannot be an illusion
+- [[20260704145000-sapolsky-no-free-will-interview-lit]] : "There's No Free Will. What Now? - Robert Sapolsky (Interview with Alex O'Connor)"
+- [[20260704145001-quarantine-model-of-justice]] : Justice should shift from a retributive model to a medicalized quarantine model.
+- [[20260704145002-determinism-and-compassion]] : Accepting determinism is a path toward radical compassion.
 
 ## Literature Notes
 - [[20260704113001-conway-free-will-lecture-summary]] 
+- [[20260704120000-conway-free-will-theorem-video]] 
 - [[20260704120000-conway-kochen-free-will-lecture-2]] 
 - [[20260704120000-conway-kochen-free-will-theorem-lecture]] : Conway and Kochen's Free Will Theorem - Lecture 1 Ingestion
 - [[20260704121430-conway-free-will-lecture-6]] 
 - [[20260704123000-conway-kochen-free-will-lecture-2-8TVZDY2aN6s]] : Conway and Kochen's Free Will Theorem - Lecture 2 (Scientific Consequences)
+- [[20260704130000-sam-harris-free-will-illusion-video]] : Sam Harris on the Illusion of Free Will (Lex Clips)
